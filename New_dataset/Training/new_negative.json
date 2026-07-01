@@ -1,0 +1,6606 @@
+[
+    {
+        "core_id": "A0A068MVV3_DP01148_0",
+        "sequence": "MSTQQQARALMMRHHQFI"
+    },
+    {
+        "core_id": "A0A068MVV3_DP01148_1",
+        "sequence": "RHHQFIKNRQ"
+    },
+    {
+        "core_id": "A0A068MVV3_DP01148_2",
+        "sequence": "FIKNRQQSLLSRAAAEIG"
+    },
+    {
+        "core_id": "A0A068MVV3_DP01148_3",
+        "sequence": "AAAEIGVQAEKDF"
+    },
+    {
+        "core_id": "A0A068MVV3_DP01148_4",
+        "sequence": "QAEKDFWTTVQ"
+    },
+    {
+        "core_id": "A0A068MVV3_DP01148_5",
+        "sequence": "FWTTVQGKPQSSF"
+    },
+    {
+        "core_id": "A0A068MVV3_DP01148_6",
+        "sequence": "KPQSSFRETYDRSSASLS"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_0",
+        "sequence": "MQYYETREKEYYDVAQGQS"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_1",
+        "sequence": "VAQGQSRQSYGQNHQGYGQ"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_10",
+        "sequence": "GMFINNGEKKHK"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_11",
+        "sequence": "GEKKHKKQNEHKKK"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_12",
+        "sequence": "NEHKKKKNKDGHAS"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_13",
+        "sequence": "KDGHASGNESGSSSGSDSE"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_2",
+        "sequence": "HQGYGQSQSRPVYGNSPTLN"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_3",
+        "sequence": "NSPTLNYRSHGGFLDGLFKG"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_4",
+        "sequence": "DGLFKGKNGQKGQNGLGS"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_5",
+        "sequence": "QNGLGSFLGQ"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_6",
+        "sequence": "GSFLGQHKNQDTNQGHGHG"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_7",
+        "sequence": "QGHGHGKLLGQHQKKTHETN"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_8",
+        "sequence": "KTHETNKGVNGLGM"
+    },
+    {
+        "core_id": "A0A078IB52_DP04200_9",
+        "sequence": "VNGLGMFINN"
+    },
+    {
+        "core_id": "A0A0H2UWN8_DP04243_0",
+        "sequence": "MLYIDEFKEAIDKGY"
+    },
+    {
+        "core_id": "A0A0H2UWN8_DP04243_1",
+        "sequence": "AIDKGYILGDTVAIV"
+    },
+    {
+        "core_id": "A0A0H2UWN8_DP04243_2",
+        "sequence": "DTVAIVRKNG"
+    },
+    {
+        "core_id": "A0A0H2UWN8_DP04243_3",
+        "sequence": "IVRKNGKIFDYV"
+    },
+    {
+        "core_id": "A0A0H2UWN8_DP04243_4",
+        "sequence": "KIFDYVLPHEKV"
+    },
+    {
+        "core_id": "A0A0H2UWN8_DP04243_5",
+        "sequence": "LPHEKVRDDEVVTVERVEE"
+    },
+    {
+        "core_id": "A0A0H2UWN8_DP04243_6",
+        "sequence": "VERVEEVMVELDK"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_0",
+        "sequence": "MAKVTSEPQKPNE"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_1",
+        "sequence": "PQKPNEDVDEQT"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_10",
+        "sequence": "RYHRLKEKMKKEEAD"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_11",
+        "sequence": "KKEEADKEQSETSVL"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_2",
+        "sequence": "DVDEQTPSTSSTKGRKKGK"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_3",
+        "sequence": "GRKKGKTPRQRRS"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_4",
+        "sequence": "PRQRRSRSGVK"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_5",
+        "sequence": "SRSGVKGLKTTRKAKRPL"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_6",
+        "sequence": "KAKRPLRGSSSQK"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_7",
+        "sequence": "GSSSQKAGETNTPAGKPKK"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_8",
+        "sequence": "AGKPKKARGPILR"
+    },
+    {
+        "core_id": "A0A1B0GTR3_DP03704_9",
+        "sequence": "RGPILRGRYHRLK"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_1",
+        "sequence": "HLFHHKKEGEDFQPAAD"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_10",
+        "sequence": "EELAAAAAVGAGGFVFH"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_11",
+        "sequence": "GGFVFHEHHEK"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_12",
+        "sequence": "HEHHEKKQDHKEAKEASGE"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_2",
+        "sequence": "FQPAADGGADV"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_3",
+        "sequence": "DGGADVYGYSTETVVTG"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_4",
+        "sequence": "ETVVTGTGNEGEYE"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_5",
+        "sequence": "NEGEYERITKEEKHHK"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_8",
+        "sequence": "AFALYEKHEAKKDPEHAH"
+    },
+    {
+        "core_id": "A0A1Z3GD05_DP01787_9",
+        "sequence": "DPEHAHKHKIEEELAAA"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_0",
+        "sequence": "MAEEKHHHLF"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_1",
+        "sequence": "KHHHLFHHKEGEDFQP"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_10",
+        "sequence": "AHKHKIEEEVAAAAAVGAG"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_11",
+        "sequence": "AAVGAGGFVF"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_12",
+        "sequence": "AGGFVFHEHHEKKQDHKEAK"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_13",
+        "sequence": "DHKEAKEASGEKKHHLFG"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_2",
+        "sequence": "GEDFQPAADGGVDTY"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_3",
+        "sequence": "GGVDTYGYSTETVVTATGN"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_4",
+        "sequence": "VTATGNDGEYERIT"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_5",
+        "sequence": "EYERITKEEK"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_6",
+        "sequence": "ITKEEKHHKHK"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_7",
+        "sequence": "KHHKHKEHLGEMG"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_8",
+        "sequence": "HLGEMGAAAAGAFALYEKHE"
+    },
+    {
+        "core_id": "A0A1Z3GD08_DP01789_9",
+        "sequence": "LYEKHEAKKDPEHAHKHKI"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_0",
+        "sequence": "MASHGQSYRAG"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_1",
+        "sequence": "QSYRAGEATGRAEEKA"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_10",
+        "sequence": "ASDKAQAAKDKAYQAAQA"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_11",
+        "sequence": "YQAAQATKEKASDMT"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_12",
+        "sequence": "KASDMTEYAKETAEAGKEK"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_13",
+        "sequence": "EAGKEKTGGILQRTGEQ"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_14",
+        "sequence": "QRTGEQVKSMAQGAADAVKN"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_15",
+        "sequence": "ADAVKNTFGMGEPEEDD"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_16",
+        "sequence": "EPEEDDPIKTTRP"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_2",
+        "sequence": "RAEEKADQMMGKTRGATE"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_3",
+        "sequence": "TRGATEAMKN"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_4",
+        "sequence": "TEAMKNKAQQAKDKTMETAQ"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_5",
+        "sequence": "TMETAQAAKEKTSEKAYE"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_6",
+        "sequence": "SEKAYEAKDKTSNMAQS"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_7",
+        "sequence": "SNMAQSAKGQAQQSKD"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_8",
+        "sequence": "AQQSKDQTGS"
+    },
+    {
+        "core_id": "A0A2K8FR49_DP01945_9",
+        "sequence": "KDQTGSFASDKAQ"
+    },
+    {
+        "core_id": "A0A936SUR2_DP04431_0",
+        "sequence": "MIQSLMPERRERPGD"
+    },
+    {
+        "core_id": "A0A936SUR2_DP04431_1",
+        "sequence": "RERPGDPMPKSPSPLEEGG"
+    },
+    {
+        "core_id": "A0A936SUR2_DP04431_2",
+        "sequence": "PLEEGGGPRRPETGSPDKD"
+    },
+    {
+        "core_id": "A0A936SUR2_DP04431_3",
+        "sequence": "GSPDKDSLLKR"
+    },
+    {
+        "core_id": "A0A936SUR2_DP04431_4",
+        "sequence": "DSLLKRMRRV"
+    },
+    {
+        "core_id": "A0A936SUR2_DP04431_5",
+        "sequence": "KRMRRVDPKQAERYRQRTGE"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_0",
+        "sequence": "MDPNTVSSFQD"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_1",
+        "sequence": "VSSFQDILLRMSKMQL"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_10",
+        "sequence": "IEEVRHKLKITENSFEQ"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_11",
+        "sequence": "ENSFEQITFMQA"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_12",
+        "sequence": "ITFMQALHLLLEVEQEI"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_13",
+        "sequence": "EVEQEIRTFSFQLI"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_2",
+        "sequence": "MSKMQLESSSEDL"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_3",
+        "sequence": "SSSEDLNGMITQ"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_4",
+        "sequence": "NGMITQFESLKLYRDSLG"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_5",
+        "sequence": "YRDSLGEAVMRMGDLHS"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_6",
+        "sequence": "MGDLHSLQNR"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_7",
+        "sequence": "HSLQNRNEKWREQLGQKF"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_8",
+        "sequence": "QLGQKFEEIRWLI"
+    },
+    {
+        "core_id": "A4ZNR2_DP00871_9",
+        "sequence": "EIRWLIEEVRH"
+    },
+    {
+        "core_id": "A6NF83_DP01159_0",
+        "sequence": "MEAPAERALPRLQALA"
+    },
+    {
+        "core_id": "A6NF83_DP01159_1",
+        "sequence": "RLQALARPPPPISYEEE"
+    },
+    {
+        "core_id": "A6NF83_DP01159_2",
+        "sequence": "ISYEEELYDCLDYYYLRD"
+    },
+    {
+        "core_id": "A6NF83_DP01159_3",
+        "sequence": "YYYLRDFPACGAG"
+    },
+    {
+        "core_id": "A6NF83_DP01159_4",
+        "sequence": "PACGAGRSKGRTRREQA"
+    },
+    {
+        "core_id": "A6NF83_DP01159_5",
+        "sequence": "TRREQALRTNWPAPGGHERK"
+    },
+    {
+        "core_id": "A6NF83_DP01159_6",
+        "sequence": "GGHERKVAQKLLNGQRK"
+    },
+    {
+        "core_id": "A6NF83_DP01159_7",
+        "sequence": "LNGQRKRRQRQLHPKMR"
+    },
+    {
+        "core_id": "A6NF83_DP01159_8",
+        "sequence": "LHPKMRTRLT"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_0",
+        "sequence": "MGSLEMVPMGAGPPSPGGDP"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_1",
+        "sequence": "SPGGDPDGDD"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_10",
+        "sequence": "SLYLGLQHDGNDGLPP"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_11",
+        "sequence": "NDGLPPPPYSPRDDS"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_12",
+        "sequence": "SPRDDSSQHIYEEAGRG"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_2",
+        "sequence": "DPDGDDGGNNS"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_3",
+        "sequence": "DGGNNSQYPSASGSSGNTPT"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_4",
+        "sequence": "SGNTPTPPNDEERESN"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_5",
+        "sequence": "EERESNEEPPPP"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_6",
+        "sequence": "EEPPPPYEDPYWGNGDR"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_7",
+        "sequence": "WGNGDRHSDYQP"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_8",
+        "sequence": "HSDYQPLGTQ"
+    },
+    {
+        "core_id": "A8CDV5_DP01060_9",
+        "sequence": "QPLGTQDQSLYLGL"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_0",
+        "sequence": "MAKSIRSKHRRQMRNV"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_1",
+        "sequence": "RQMRNVKREHFA"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_10",
+        "sequence": "MNQRAVKKQKVKVAKLKTK"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_11",
+        "sequence": "AKLKTKKKIGKKIKW"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_2",
+        "sequence": "KREHFAKKDLDRLKRLASKA"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_3",
+        "sequence": "RLASKAQELDLDNVVTMKSA"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_4",
+        "sequence": "VTMKSAEEIKNKPS"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_5",
+        "sequence": "IKNKPSTSASDADKGME"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_6",
+        "sequence": "ADKGMEVDNTKKVFK"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_7",
+        "sequence": "TKKVFKKKTQQ"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_8",
+        "sequence": "KKKTQQNEDG"
+    },
+    {
+        "core_id": "B0FRH7_DP00544_9",
+        "sequence": "QQNEDGHYPQWMNQRAV"
+    },
+    {
+        "core_id": "B8YB65_DP01001_0",
+        "sequence": "MVSGMSTEEEK"
+    },
+    {
+        "core_id": "B8YB65_DP01001_1",
+        "sequence": "STEEEKEGTNDEEV"
+    },
+    {
+        "core_id": "B8YB65_DP01001_10",
+        "sequence": "EKRDSRRKAKKAA"
+    },
+    {
+        "core_id": "B8YB65_DP01001_11",
+        "sequence": "KAKKAASKKVKKTKKK"
+    },
+    {
+        "core_id": "B8YB65_DP01001_12",
+        "sequence": "KKTKKKEKSVEG"
+    },
+    {
+        "core_id": "B8YB65_DP01001_2",
+        "sequence": "TNDEEVSEEREVE"
+    },
+    {
+        "core_id": "B8YB65_DP01001_3",
+        "sequence": "EEREVEETSEEEFP"
+    },
+    {
+        "core_id": "B8YB65_DP01001_4",
+        "sequence": "SEEEFPKLSIQDIEL"
+    },
+    {
+        "core_id": "B8YB65_DP01001_5",
+        "sequence": "IQDIELLMKNTEIWD"
+    },
+    {
+        "core_id": "B8YB65_DP01001_6",
+        "sequence": "NTEIWDNLLNGKISVDEA"
+    },
+    {
+        "core_id": "B8YB65_DP01001_7",
+        "sequence": "ISVDEAKRLFE"
+    },
+    {
+        "core_id": "B8YB65_DP01001_8",
+        "sequence": "AKRLFEDNYKDY"
+    },
+    {
+        "core_id": "B8YB65_DP01001_9",
+        "sequence": "DNYKDYEKRDSR"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_0",
+        "sequence": "MARSFTNIKAISAL"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_1",
+        "sequence": "KAISALVAEEFSNSLAR"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_2",
+        "sequence": "SNSLARRGYAA"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_3",
+        "sequence": "RRGYAATAQSA"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_4",
+        "sequence": "ATAQSAGRVGASMSGK"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_5",
+        "sequence": "ASMSGKMGSTKSGEEKA"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_6",
+        "sequence": "SGEEKAAAREK"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_7",
+        "sequence": "AAAREKVSWVPDPVTGYYK"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_8",
+        "sequence": "VTGYYKPENIKEIDVAELRS"
+    },
+    {
+        "core_id": "C6ZFX3_DP01431_9",
+        "sequence": "VAELRSAVLGKN"
+    },
+    {
+        "core_id": "D2JX42_DP01786_1",
+        "sequence": "HHLFHHHKEEKPAEEV"
+    },
+    {
+        "core_id": "D2JX42_DP01786_10",
+        "sequence": "ALYEKHEAKK"
+    },
+    {
+        "core_id": "D2JX42_DP01786_11",
+        "sequence": "KHEAKKDPDHAH"
+    },
+    {
+        "core_id": "D2JX42_DP01786_13",
+        "sequence": "KIEEEIAAAVAVGSGGYAF"
+    },
+    {
+        "core_id": "D2JX42_DP01786_14",
+        "sequence": "SGGYAFHEHHEKKDAKKEA"
+    },
+    {
+        "core_id": "D2JX42_DP01786_15",
+        "sequence": "DAKKEAEEASGKKHHHHLF"
+    },
+    {
+        "core_id": "D2JX42_DP01786_2",
+        "sequence": "KPAEEVIYSET"
+    },
+    {
+        "core_id": "D2JX42_DP01786_3",
+        "sequence": "VIYSETAYSGGGDYASGY"
+    },
+    {
+        "core_id": "D2JX42_DP01786_4",
+        "sequence": "DYASGYTETVVAE"
+    },
+    {
+        "core_id": "D2JX42_DP01786_5",
+        "sequence": "ETVVAESASDEYEKYKKEEK"
+    },
+    {
+        "core_id": "D2JX42_DP01786_8",
+        "sequence": "GEMGAVAAGAFA"
+    },
+    {
+        "core_id": "D2JX42_DP01786_9",
+        "sequence": "AAGAFALYEKH"
+    },
+    {
+        "core_id": "G8HXD9_DP00878_0",
+        "sequence": "MGAALRSAYQKTIEE"
+    },
+    {
+        "core_id": "G8HXD9_DP00878_1",
+        "sequence": "QKTIEEQVPDEMLDLLNKLA"
+    },
+    {
+        "core_id": "G8HXD9_DP00878_2",
+        "sequence": "MLDLPGNKDKKASSKKS"
+    },
+    {
+        "core_id": "G8HXD9_DP00878_3",
+        "sequence": "ASSKKSPAKVQSKDRD"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_0",
+        "sequence": "MASRQNNKQELDERARQG"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_1",
+        "sequence": "ERARQGETVVPGGTGGKSL"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_10",
+        "sequence": "NKNQNQNEDQDK"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_2",
+        "sequence": "TGGKSLEAQQHLA"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_3",
+        "sequence": "AQQHLAEGRSKGGQTRK"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_4",
+        "sequence": "GGQTRKEQLGTEG"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_6",
+        "sequence": "EMGRKGGLSTVEKSGE"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_7",
+        "sequence": "VEKSGEERAQEEGIGID"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_8",
+        "sequence": "EGIGIDESKF"
+    },
+    {
+        "core_id": "I1JLC8_DP01036_9",
+        "sequence": "IDESKFRTGNNKNQNQ"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_0",
+        "sequence": "TSANSRTHGATSTSTH"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_1",
+        "sequence": "TSTSTHGATSTAK"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_2",
+        "sequence": "ATSTAKPAASTPPKAAATS"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_3",
+        "sequence": "KAAATSTIKPTVTTPKAA"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_4",
+        "sequence": "TTPKAAATSTTE"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_5",
+        "sequence": "ATSTTEPTVTT"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_6",
+        "sequence": "EPTVTTKPSPAKPA"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_7",
+        "sequence": "SPAKPAASNTAKPAAS"
+    },
+    {
+        "core_id": "M1GUG5_DP01970_8",
+        "sequence": "AKPAASTPKKPHDER"
+    },
+    {
+        "core_id": "O05312_DP03705_0",
+        "sequence": "MLGADQARAGGP"
+    },
+    {
+        "core_id": "O05312_DP03705_1",
+        "sequence": "ARAGGPARIWREHSMAAMK"
+    },
+    {
+        "core_id": "O05312_DP03705_2",
+        "sequence": "SMAAMKPRTG"
+    },
+    {
+        "core_id": "O05312_DP03705_3",
+        "sequence": "MKPRTGDGPLEATK"
+    },
+    {
+        "core_id": "O05312_DP03705_4",
+        "sequence": "PLEATKEGRGIV"
+    },
+    {
+        "core_id": "O05312_DP03705_5",
+        "sequence": "EGRGIVMRVPLE"
+    },
+    {
+        "core_id": "O05312_DP03705_6",
+        "sequence": "MRVPLEGGGRLVVELTPD"
+    },
+    {
+        "core_id": "O05312_DP03705_7",
+        "sequence": "VELTPDEAAALGDELKGVTS"
+    },
+    {
+        "core_id": "O16043_DP03066_0",
+        "sequence": "MADVAEQKNETPVVEKVAAE"
+    },
+    {
+        "core_id": "O16043_DP03066_1",
+        "sequence": "EKVAAEEVDAVKK"
+    },
+    {
+        "core_id": "O16043_DP03066_10",
+        "sequence": "GEDTKKESSEAVLP"
+    },
+    {
+        "core_id": "O16043_DP03066_11",
+        "sequence": "SEAVLPAVENGSEEVTNGDS"
+    },
+    {
+        "core_id": "O16043_DP03066_12",
+        "sequence": "VTNGDSTDAP"
+    },
+    {
+        "core_id": "O16043_DP03066_13",
+        "sequence": "DSTDAPAIEAVKRKVDE"
+    },
+    {
+        "core_id": "O16043_DP03066_14",
+        "sequence": "KRKVDEAAAKADEA"
+    },
+    {
+        "core_id": "O16043_DP03066_15",
+        "sequence": "AKADEAVATPEKKAKLDEAS"
+    },
+    {
+        "core_id": "O16043_DP03066_16",
+        "sequence": "KLDEASTKDEVQNGAEAS"
+    },
+    {
+        "core_id": "O16043_DP03066_17",
+        "sequence": "NGAEASEVAA"
+    },
+    {
+        "core_id": "O16043_DP03066_2",
+        "sequence": "VDAVKKDAVAAEEVAAE"
+    },
+    {
+        "core_id": "O16043_DP03066_3",
+        "sequence": "EEVAAEKASITENGGAEEE"
+    },
+    {
+        "core_id": "O16043_DP03066_4",
+        "sequence": "GGAEEESVAKEN"
+    },
+    {
+        "core_id": "O16043_DP03066_5",
+        "sequence": "SVAKENGAADSSA"
+    },
+    {
+        "core_id": "O16043_DP03066_6",
+        "sequence": "AADSSATEPTDAVDGEK"
+    },
+    {
+        "core_id": "O16043_DP03066_7",
+        "sequence": "AVDGEKASEPTVSFAADKDE"
+    },
+    {
+        "core_id": "O16043_DP03066_8",
+        "sequence": "AADKDEKKDEDKKE"
+    },
+    {
+        "core_id": "O16043_DP03066_9",
+        "sequence": "DEDKKEDSAADGEDTKK"
+    },
+    {
+        "core_id": "O23658_DP04011_0",
+        "sequence": "MSKSEEKQELP"
+    },
+    {
+        "core_id": "O23658_DP04011_1",
+        "sequence": "EKQELPLETSP"
+    },
+    {
+        "core_id": "O23658_DP04011_2",
+        "sequence": "PLETSPYTKYEDIEDYKKNA"
+    },
+    {
+        "core_id": "O23658_DP04011_3",
+        "sequence": "DYKKNAYGTSGHQDVKPGHG"
+    },
+    {
+        "core_id": "O23658_DP04011_4",
+        "sequence": "VKPGHGGGTTDAPTPSGD"
+    },
+    {
+        "core_id": "O23658_DP04011_5",
+        "sequence": "PTPSGDAAPSAID"
+    },
+    {
+        "core_id": "O23658_DP04011_6",
+        "sequence": "APSAIDSANQKAKK"
+    },
+    {
+        "core_id": "O34800_DP01146_0",
+        "sequence": "MERAFQNRCEPRAAKPF"
+    },
+    {
+        "core_id": "O34800_DP01146_1",
+        "sequence": "RAAKPFKILKKRSTT"
+    },
+    {
+        "core_id": "O34800_DP01146_2",
+        "sequence": "KKRSTTSVASYQ"
+    },
+    {
+        "core_id": "O34800_DP01146_3",
+        "sequence": "SVASYQVSPHTARIFKE"
+    },
+    {
+        "core_id": "O34800_DP01146_4",
+        "sequence": "ARIFKENERLIDEYKRKKA"
+    },
+    {
+        "core_id": "O43806_DP01128_0",
+        "sequence": "MSNVRVSNGSPSLERMDA"
+    },
+    {
+        "core_id": "O43806_DP01128_1",
+        "sequence": "LERMDARQAEHPKPSA"
+    },
+    {
+        "core_id": "O43806_DP01128_10",
+        "sequence": "KVPAQESQDGSGSRPAA"
+    },
+    {
+        "core_id": "O43806_DP01128_11",
+        "sequence": "GSRPAAPLIGA"
+    },
+    {
+        "core_id": "O43806_DP01128_12",
+        "sequence": "APLIGAPANSEDTHLV"
+    },
+    {
+        "core_id": "O43806_DP01128_13",
+        "sequence": "EDTHLVDPKTDPSDS"
+    },
+    {
+        "core_id": "O43806_DP01128_14",
+        "sequence": "TDPSDSQTGLAEQCAGIRKR"
+    },
+    {
+        "core_id": "O43806_DP01128_15",
+        "sequence": "AGIRKRPATD"
+    },
+    {
+        "core_id": "O43806_DP01128_2",
+        "sequence": "HPKPSACRNLFGPVDHEELT"
+    },
+    {
+        "core_id": "O43806_DP01128_3",
+        "sequence": "DHEELTRDLEKHCRD"
+    },
+    {
+        "core_id": "O43806_DP01128_4",
+        "sequence": "EKHCRDMEEAS"
+    },
+    {
+        "core_id": "O43806_DP01128_5",
+        "sequence": "DMEEASQRKWNFDFQNHK"
+    },
+    {
+        "core_id": "O43806_DP01128_6",
+        "sequence": "DFQNHKPLEGKYEWQEVEKG"
+    },
+    {
+        "core_id": "O43806_DP01128_7",
+        "sequence": "QEVEKGSLPEFYYRP"
+    },
+    {
+        "core_id": "O43806_DP01128_8",
+        "sequence": "EFYYRPPRPP"
+    },
+    {
+        "core_id": "O43806_DP01128_9",
+        "sequence": "RPPRPPKGACKVPAQE"
+    },
+    {
+        "core_id": "O60356_DP00510_0",
+        "sequence": "MATFPPATSAPQQP"
+    },
+    {
+        "core_id": "O60356_DP00510_1",
+        "sequence": "SAPQQPPGPEDEDSSLD"
+    },
+    {
+        "core_id": "O60356_DP00510_2",
+        "sequence": "EDSSLDESDLYSLA"
+    },
+    {
+        "core_id": "O60356_DP00510_3",
+        "sequence": "DLYSLAHSYLGGGGRK"
+    },
+    {
+        "core_id": "O60356_DP00510_4",
+        "sequence": "GGGGRKGRTKREAAANTN"
+    },
+    {
+        "core_id": "O60356_DP00510_5",
+        "sequence": "AAANTNRPSPGGHERKLVTK"
+    },
+    {
+        "core_id": "O60356_DP00510_6",
+        "sequence": "RKLVTKLQNSERKKRGARR"
+    },
+    {
+        "core_id": "O60829_DP01435_0",
+        "sequence": "MSARVRSRSRGRGDGQEAPD"
+    },
+    {
+        "core_id": "O60829_DP01435_1",
+        "sequence": "GQEAPDVVAF"
+    },
+    {
+        "core_id": "O60829_DP01435_10",
+        "sequence": "VKEKTPPNPKHAKTKE"
+    },
+    {
+        "core_id": "O60829_DP01435_11",
+        "sequence": "HAKTKEAGDGQP"
+    },
+    {
+        "core_id": "O60829_DP01435_2",
+        "sequence": "PDVVAFVAPGES"
+    },
+    {
+        "core_id": "O60829_DP01435_3",
+        "sequence": "VAPGESQQEEPP"
+    },
+    {
+        "core_id": "O60829_DP01435_4",
+        "sequence": "QQEEPPTDNQDIEPGQERE"
+    },
+    {
+        "core_id": "O60829_DP01435_5",
+        "sequence": "PGQEREGTPPIEER"
+    },
+    {
+        "core_id": "O60829_DP01435_6",
+        "sequence": "PPIEERKVEGD"
+    },
+    {
+        "core_id": "O60829_DP01435_7",
+        "sequence": "RKVEGDCQEMDLE"
+    },
+    {
+        "core_id": "O60829_DP01435_8",
+        "sequence": "QEMDLEKTRSE"
+    },
+    {
+        "core_id": "O60829_DP01435_9",
+        "sequence": "EKTRSERGDGSDVKEKTP"
+    },
+    {
+        "core_id": "O60927_DP00219_0",
+        "sequence": "MAEAGAGLSETVTETTV"
+    },
+    {
+        "core_id": "O60927_DP00219_1",
+        "sequence": "VTETTVTVTTE"
+    },
+    {
+        "core_id": "O60927_DP00219_10",
+        "sequence": "EEEGCGHTHCVRGHRKGRR"
+    },
+    {
+        "core_id": "O60927_DP00219_11",
+        "sequence": "HRKGRRRATLGPT"
+    },
+    {
+        "core_id": "O60927_DP00219_12",
+        "sequence": "ATLGPTPTTP"
+    },
+    {
+        "core_id": "O60927_DP00219_13",
+        "sequence": "PTPTTPPQPPD"
+    },
+    {
+        "core_id": "O60927_DP00219_14",
+        "sequence": "PPQPPDPSQPPPGPMQH"
+    },
+    {
+        "core_id": "O60927_DP00219_2",
+        "sequence": "VTVTTEPENRSLT"
+    },
+    {
+        "core_id": "O60927_DP00219_3",
+        "sequence": "ENRSLTIKLRKRK"
+    },
+    {
+        "core_id": "O60927_DP00219_4",
+        "sequence": "KLRKRKPEKKV"
+    },
+    {
+        "core_id": "O60927_DP00219_5",
+        "sequence": "KPEKKVEWTSDTVDN"
+    },
+    {
+        "core_id": "O60927_DP00219_6",
+        "sequence": "SDTVDNEHMG"
+    },
+    {
+        "core_id": "O60927_DP00219_7",
+        "sequence": "DNEHMGRRSSKCCCIYEKP"
+    },
+    {
+        "core_id": "O60927_DP00219_8",
+        "sequence": "CIYEKPRAFGESSTESDE"
+    },
+    {
+        "core_id": "O60927_DP00219_9",
+        "sequence": "STESDEEEEEGCG"
+    },
+    {
+        "core_id": "O64820_DP04009_0",
+        "sequence": "MEDQKKPPTTEQEVKEVKN"
+    },
+    {
+        "core_id": "O64820_DP04009_1",
+        "sequence": "VKEVKNDDLESIKTPYLDYD"
+    },
+    {
+        "core_id": "O64820_DP04009_2",
+        "sequence": "PYLDYDNLEDYKMKGYGAQ"
+    },
+    {
+        "core_id": "O64820_DP04009_3",
+        "sequence": "KGYGAQGHQEPKLGMGGG"
+    },
+    {
+        "core_id": "O64820_DP04009_4",
+        "sequence": "LGMGGGATDAPTPSG"
+    },
+    {
+        "core_id": "O64820_DP04009_5",
+        "sequence": "APTPSGGLGRGGGAAS"
+    },
+    {
+        "core_id": "O64820_DP04009_6",
+        "sequence": "GGGAASTDLSSTDAINRQG"
+    },
+    {
+        "core_id": "O64820_DP04009_7",
+        "sequence": "TDAINRQGVP"
+    },
+    {
+        "core_id": "O66683_DP01092_0",
+        "sequence": "MVNRIELSRLIGLLLETEK"
+    },
+    {
+        "core_id": "O66683_DP01092_1",
+        "sequence": "LLETEKRKNTE"
+    },
+    {
+        "core_id": "O66683_DP01092_2",
+        "sequence": "KRKNTEQKESGT"
+    },
+    {
+        "core_id": "O66683_DP01092_3",
+        "sequence": "QKESGTNKIEDKVT"
+    },
+    {
+        "core_id": "O66683_DP01092_4",
+        "sequence": "IEDKVTLSKIA"
+    },
+    {
+        "core_id": "O66683_DP01092_5",
+        "sequence": "TLSKIAQELSKNDVEEKDL"
+    },
+    {
+        "core_id": "O66683_DP01092_6",
+        "sequence": "VEEKDLEKKV"
+    },
+    {
+        "core_id": "O66683_DP01092_7",
+        "sequence": "DLEKKVKELKEKIE"
+    },
+    {
+        "core_id": "O66683_DP01092_8",
+        "sequence": "LKEKIEKGEYEVSDEKVVK"
+    },
+    {
+        "core_id": "O66683_DP01092_9",
+        "sequence": "DEKVVKGLIEFFT"
+    },
+    {
+        "core_id": "O76070_DP00630_0",
+        "sequence": "MDVFKKGFSIAK"
+    },
+    {
+        "core_id": "O76070_DP00630_1",
+        "sequence": "GFSIAKEGVVGAVEKT"
+    },
+    {
+        "core_id": "O76070_DP00630_10",
+        "sequence": "ATKTVEEAENIAV"
+    },
+    {
+        "core_id": "O76070_DP00630_11",
+        "sequence": "AENIAVTSGVVRKEDLRPSA"
+    },
+    {
+        "core_id": "O76070_DP00630_12",
+        "sequence": "DLRPSAPQQEG"
+    },
+    {
+        "core_id": "O76070_DP00630_13",
+        "sequence": "APQQEGEASKEKEEV"
+    },
+    {
+        "core_id": "O76070_DP00630_14",
+        "sequence": "KEKEEVAEEAQSGGD"
+    },
+    {
+        "core_id": "O76070_DP00630_2",
+        "sequence": "GAVEKTKQGVTE"
+    },
+    {
+        "core_id": "O76070_DP00630_3",
+        "sequence": "KQGVTEAAEK"
+    },
+    {
+        "core_id": "O76070_DP00630_4",
+        "sequence": "TEAAEKTKEGVMYV"
+    },
+    {
+        "core_id": "O76070_DP00630_5",
+        "sequence": "EGVMYVGAKTKENVV"
+    },
+    {
+        "core_id": "O76070_DP00630_6",
+        "sequence": "TKENVVQSVT"
+    },
+    {
+        "core_id": "O76070_DP00630_7",
+        "sequence": "VVQSVTSVAEKTKEQ"
+    },
+    {
+        "core_id": "O76070_DP00630_8",
+        "sequence": "EKTKEQANAVSEA"
+    },
+    {
+        "core_id": "O76070_DP00630_9",
+        "sequence": "NAVSEAVVSSVNTVATKTVE"
+    },
+    {
+        "core_id": "O77299_DP03871_0",
+        "sequence": "MGSSCTKDSAKESQKRAD"
+    },
+    {
+        "core_id": "O77299_DP03871_1",
+        "sequence": "SQKRADNIDTTTRS"
+    },
+    {
+        "core_id": "O77299_DP03871_2",
+        "sequence": "DTTTRSDEKDGIHVQES"
+    },
+    {
+        "core_id": "O77299_DP03871_3",
+        "sequence": "IHVQESAGPVQENFGDAQEK"
+    },
+    {
+        "core_id": "O77299_DP03871_4",
+        "sequence": "GDAQEKNEDG"
+    },
+    {
+        "core_id": "O77299_DP03871_5",
+        "sequence": "EKNEDGHNVG"
+    },
+    {
+        "core_id": "O77299_DP03871_6",
+        "sequence": "DGHNVGDGANGNEDGND"
+    },
+    {
+        "core_id": "O77299_DP03871_7",
+        "sequence": "NEDGNDNQPKEHAAGN"
+    },
+    {
+        "core_id": "O94742_DP01014_0",
+        "sequence": "MSTDVAAAQAQS"
+    },
+    {
+        "core_id": "O94742_DP01014_1",
+        "sequence": "AAQAQSKIDLTKK"
+    },
+    {
+        "core_id": "O94742_DP01014_2",
+        "sequence": "IDLTKKKNEEI"
+    },
+    {
+        "core_id": "O94742_DP01014_3",
+        "sequence": "KKNEEINKKSLEEDDE"
+    },
+    {
+        "core_id": "O94742_DP01014_4",
+        "sequence": "LEEDDEFEDFPIDTWA"
+    },
+    {
+        "core_id": "O94742_DP01014_5",
+        "sequence": "PIDTWANGETIKSNA"
+    },
+    {
+        "core_id": "O94742_DP01014_6",
+        "sequence": "TIKSNAVTQTNIWEENWD"
+    },
+    {
+        "core_id": "O94742_DP01014_7",
+        "sequence": "WEENWDDVEVDDDFTNE"
+    },
+    {
+        "core_id": "O94742_DP01014_8",
+        "sequence": "DDFTNELKAELDRYKRENQ"
+    },
+    {
+        "core_id": "P01071_DP01971_0",
+        "sequence": "DFVLDNEGNPLSNGG"
+    },
+    {
+        "core_id": "P01071_DP01971_1",
+        "sequence": "PLSNGGTYYILSDITAFG"
+    },
+    {
+        "core_id": "P01071_DP01971_10",
+        "sequence": "EGPAVKIGENKD"
+    },
+    {
+        "core_id": "P01071_DP01971_11",
+        "sequence": "IGENKDAVDGWFRIERV"
+    },
+    {
+        "core_id": "P01071_DP01971_12",
+        "sequence": "FRIERVSDDEFNNYKLVF"
+    },
+    {
+        "core_id": "P01071_DP01971_13",
+        "sequence": "NYKLVFCTQQAEDDKCG"
+    },
+    {
+        "core_id": "P01071_DP01971_14",
+        "sequence": "EDDKCGDIGISIDHD"
+    },
+    {
+        "core_id": "P01071_DP01971_15",
+        "sequence": "ISIDHDDGTRRLVVS"
+    },
+    {
+        "core_id": "P01071_DP01971_16",
+        "sequence": "RRLVVSKNKPLVVQFQKV"
+    },
+    {
+        "core_id": "P01071_DP01971_17",
+        "sequence": "VQFQKVDKESL"
+    },
+    {
+        "core_id": "P01071_DP01971_2",
+        "sequence": "DITAFGGIRAAPTG"
+    },
+    {
+        "core_id": "P01071_DP01971_3",
+        "sequence": "RAAPTGNERC"
+    },
+    {
+        "core_id": "P01071_DP01971_4",
+        "sequence": "TGNERCPLTVVQSR"
+    },
+    {
+        "core_id": "P01071_DP01971_5",
+        "sequence": "TVVQSRNELDKGIG"
+    },
+    {
+        "core_id": "P01071_DP01971_6",
+        "sequence": "LDKGIGTIISSPFRIRFIA"
+    },
+    {
+        "core_id": "P01071_DP01971_7",
+        "sequence": "RIRFIAEGNPLRLKFDSFA"
+    },
+    {
+        "core_id": "P01071_DP01971_8",
+        "sequence": "KFDSFAVIMLCVGIPTEWSV"
+    },
+    {
+        "core_id": "P01071_DP01971_9",
+        "sequence": "PTEWSVVEDLPEGPAVK"
+    },
+    {
+        "core_id": "P01094_DP00179_0",
+        "sequence": "MNTDQQKVSEIFQS"
+    },
+    {
+        "core_id": "P01094_DP00179_1",
+        "sequence": "SEIFQSSKEKLQGDAKVVSD"
+    },
+    {
+        "core_id": "P01094_DP00179_2",
+        "sequence": "AKVVSDAFKKMASQDKDG"
+    },
+    {
+        "core_id": "P01094_DP00179_3",
+        "sequence": "SQDKDGKTTDADESEKHNY"
+    },
+    {
+        "core_id": "P01094_DP00179_4",
+        "sequence": "SEKHNYQEQYNKL"
+    },
+    {
+        "core_id": "P01094_DP00179_5",
+        "sequence": "EQYNKLKGAGHKKE"
+    },
+    {
+        "core_id": "P01099_DP00325_0",
+        "sequence": "MEQDNSPRKIQFT"
+    },
+    {
+        "core_id": "P01099_DP00325_1",
+        "sequence": "RKIQFTVPLLEPHL"
+    },
+    {
+        "core_id": "P01099_DP00325_10",
+        "sequence": "GAAEGTGAQESQP"
+    },
+    {
+        "core_id": "P01099_DP00325_11",
+        "sequence": "AQESQPPGTPGTGAESR"
+    },
+    {
+        "core_id": "P01099_DP00325_12",
+        "sequence": "TGAESRLGPSATAQKP"
+    },
+    {
+        "core_id": "P01099_DP00325_13",
+        "sequence": "ATAQKPAQPSPRA"
+    },
+    {
+        "core_id": "P01099_DP00325_14",
+        "sequence": "QPSPRAQERRG"
+    },
+    {
+        "core_id": "P01099_DP00325_15",
+        "sequence": "AQERRGEEPST"
+    },
+    {
+        "core_id": "P01099_DP00325_16",
+        "sequence": "GEEPSTAKTSQDSQGASAV"
+    },
+    {
+        "core_id": "P01099_DP00325_2",
+        "sequence": "LLEPHLDPEAAEQIRRRRPT"
+    },
+    {
+        "core_id": "P01099_DP00325_3",
+        "sequence": "RRRRPTPATLVLTSDQS"
+    },
+    {
+        "core_id": "P01099_DP00325_4",
+        "sequence": "LTSDQSSPEVDED"
+    },
+    {
+        "core_id": "P01099_DP00325_5",
+        "sequence": "PEVDEDRIPNPLLKPSLA"
+    },
+    {
+        "core_id": "P01099_DP00325_6",
+        "sequence": "LKPSLAMSPRQR"
+    },
+    {
+        "core_id": "P01099_DP00325_7",
+        "sequence": "MSPRQRKKMTRTTPTMKEL"
+    },
+    {
+        "core_id": "P01099_DP00325_8",
+        "sequence": "PTMKELQMMVEHHLGQQEQ"
+    },
+    {
+        "core_id": "P01099_DP00325_9",
+        "sequence": "LGQQEQGEEPEGAAEGT"
+    },
+    {
+        "core_id": "P01252_DP00814_1",
+        "sequence": "AVDTSSEITT"
+    },
+    {
+        "core_id": "P01252_DP00814_4",
+        "sequence": "AENGREAPANGNANEENGE"
+    },
+    {
+        "core_id": "P01252_DP00814_6",
+        "sequence": "EQEADNEVDEEEEEGGE"
+    },
+    {
+        "core_id": "P01252_DP00814_8",
+        "sequence": "EEEGDGEEEDGDEDEEAEAA"
+    },
+    {
+        "core_id": "P02313_DP00195_0",
+        "sequence": "MPKRKAEGDAEGDK"
+    },
+    {
+        "core_id": "P02313_DP00195_1",
+        "sequence": "DAEGDKAKVKDEPQRR"
+    },
+    {
+        "core_id": "P02313_DP00195_2",
+        "sequence": "DEPQRRSARLSAKPAPPKPE"
+    },
+    {
+        "core_id": "P02313_DP00195_3",
+        "sequence": "APPKPEPKPKKAPAKKGEKV"
+    },
+    {
+        "core_id": "P02313_DP00195_4",
+        "sequence": "KKGEKVPKGKKGKAD"
+    },
+    {
+        "core_id": "P02313_DP00195_5",
+        "sequence": "KKGKADAGKDGNNPAEN"
+    },
+    {
+        "core_id": "P02313_DP00195_6",
+        "sequence": "NNPAENGDAKTDQAQKAE"
+    },
+    {
+        "core_id": "P02313_DP00195_7",
+        "sequence": "QAQKAEGAGDAK"
+    },
+    {
+        "core_id": "P02315_DP00042_0",
+        "sequence": "MPKRKSATKGDE"
+    },
+    {
+        "core_id": "P02315_DP00042_1",
+        "sequence": "ATKGDEPARRSARLSAR"
+    },
+    {
+        "core_id": "P02315_DP00042_2",
+        "sequence": "ARLSARPVPKPAAKPK"
+    },
+    {
+        "core_id": "P02315_DP00042_3",
+        "sequence": "PAAKPKKAAAPKKA"
+    },
+    {
+        "core_id": "P02315_DP00042_4",
+        "sequence": "AAPKKAVKGKKAAENGDAKA"
+    },
+    {
+        "core_id": "P02315_DP00042_5",
+        "sequence": "NGDAKAEAKVQAAGDGAG"
+    },
+    {
+        "core_id": "P02315_DP00042_6",
+        "sequence": "AAGDGAGNAK"
+    },
+    {
+        "core_id": "P02400_DP03374_0",
+        "sequence": "MKYLAAYLLLVQGGNA"
+    },
+    {
+        "core_id": "P02400_DP03374_1",
+        "sequence": "VQGGNAAPSAADIK"
+    },
+    {
+        "core_id": "P02400_DP03374_10",
+        "sequence": "EEEAKEESDDDMGFGLFD"
+    },
+    {
+        "core_id": "P02400_DP03374_2",
+        "sequence": "SAADIKAVVE"
+    },
+    {
+        "core_id": "P02400_DP03374_3",
+        "sequence": "IKAVVESVGAEVDEARINE"
+    },
+    {
+        "core_id": "P02400_DP03374_4",
+        "sequence": "EARINELLSSLEGKGSLEEI"
+    },
+    {
+        "core_id": "P02400_DP03374_5",
+        "sequence": "GSLEEIIAEG"
+    },
+    {
+        "core_id": "P02400_DP03374_6",
+        "sequence": "EIIAEGQKKFATVPTGGAS"
+    },
+    {
+        "core_id": "P02400_DP03374_7",
+        "sequence": "PTGGASSAAAGAAGAAA"
+    },
+    {
+        "core_id": "P02400_DP03374_8",
+        "sequence": "AAGAAAGGDAAEEE"
+    },
+    {
+        "core_id": "P02400_DP03374_9",
+        "sequence": "DAAEEEKEEEAKE"
+    },
+    {
+        "core_id": "P02619_DP01025_0",
+        "sequence": "SFAGLKDADVAAALAA"
+    },
+    {
+        "core_id": "P02619_DP01025_1",
+        "sequence": "AAALAACSAA"
+    },
+    {
+        "core_id": "P02619_DP01025_10",
+        "sequence": "DGMIGVDEFAAMIKA"
+    },
+    {
+        "core_id": "P02619_DP01025_2",
+        "sequence": "AACSAADSFKHKE"
+    },
+    {
+        "core_id": "P02619_DP01025_3",
+        "sequence": "SFKHKEFFAKVGLASK"
+    },
+    {
+        "core_id": "P02619_DP01025_4",
+        "sequence": "VGLASKSLDDVKKAFY"
+    },
+    {
+        "core_id": "P02619_DP01025_5",
+        "sequence": "VKKAFYVIDQDKSGFIEED"
+    },
+    {
+        "core_id": "P02619_DP01025_6",
+        "sequence": "GFIEEDELKL"
+    },
+    {
+        "core_id": "P02619_DP01025_7",
+        "sequence": "EDELKLFLQNFSPSARALT"
+    },
+    {
+        "core_id": "P02619_DP01025_8",
+        "sequence": "SARALTDAETKAFLAD"
+    },
+    {
+        "core_id": "P02619_DP01025_9",
+        "sequence": "KAFLADGDKDGDGMIGV"
+    },
+    {
+        "core_id": "P02628_DP00550_0",
+        "sequence": "AKDLLKADDIKK"
+    },
+    {
+        "core_id": "P02628_DP00550_1",
+        "sequence": "ADDIKKALDAVKAEGSF"
+    },
+    {
+        "core_id": "P02628_DP00550_2",
+        "sequence": "KAEGSFNHKKFFALVGLK"
+    },
+    {
+        "core_id": "P02628_DP00550_3",
+        "sequence": "ALVGLKAMSANDVK"
+    },
+    {
+        "core_id": "P02628_DP00550_4",
+        "sequence": "SANDVKKVFKAIDADASGF"
+    },
+    {
+        "core_id": "P02628_DP00550_5",
+        "sequence": "ADASGFIEEEELKFVLKSFA"
+    },
+    {
+        "core_id": "P02628_DP00550_6",
+        "sequence": "VLKSFAADGRDLTDAETK"
+    },
+    {
+        "core_id": "P02628_DP00550_7",
+        "sequence": "TDAETKAFLK"
+    },
+    {
+        "core_id": "P02628_DP00550_8",
+        "sequence": "TKAFLKAADKDGDGKIGIDE"
+    },
+    {
+        "core_id": "P02628_DP00550_9",
+        "sequence": "KIGIDEFETLVHEA"
+    },
+    {
+        "core_id": "P02668_DP00192_0",
+        "sequence": "MMKSFFLVVTILALTLPFL"
+    },
+    {
+        "core_id": "P02668_DP00192_1",
+        "sequence": "LTLPFLGAQEQ"
+    },
+    {
+        "core_id": "P02668_DP00192_10",
+        "sequence": "RSPAQILQWQVLSNTVPA"
+    },
+    {
+        "core_id": "P02668_DP00192_11",
+        "sequence": "SNTVPAKSCQAQ"
+    },
+    {
+        "core_id": "P02668_DP00192_12",
+        "sequence": "KSCQAQPTTMARHP"
+    },
+    {
+        "core_id": "P02668_DP00192_13",
+        "sequence": "TMARHPHPHLSFMAIPPK"
+    },
+    {
+        "core_id": "P02668_DP00192_14",
+        "sequence": "MAIPPKKNQDKTEIPTINT"
+    },
+    {
+        "core_id": "P02668_DP00192_15",
+        "sequence": "IPTINTIASGEPTSTP"
+    },
+    {
+        "core_id": "P02668_DP00192_16",
+        "sequence": "EPTSTPTTEAVES"
+    },
+    {
+        "core_id": "P02668_DP00192_17",
+        "sequence": "TEAVESTVATLEDSPEVI"
+    },
+    {
+        "core_id": "P02668_DP00192_18",
+        "sequence": "DSPEVIESPPEIN"
+    },
+    {
+        "core_id": "P02668_DP00192_19",
+        "sequence": "SPPEINTVQVTSTAV"
+    },
+    {
+        "core_id": "P02668_DP00192_2",
+        "sequence": "LGAQEQNQEQP"
+    },
+    {
+        "core_id": "P02668_DP00192_3",
+        "sequence": "QNQEQPIRCEKDERFFS"
+    },
+    {
+        "core_id": "P02668_DP00192_4",
+        "sequence": "DERFFSDKIAK"
+    },
+    {
+        "core_id": "P02668_DP00192_5",
+        "sequence": "SDKIAKYIPIQYVLSRYP"
+    },
+    {
+        "core_id": "P02668_DP00192_6",
+        "sequence": "VLSRYPSYGLNY"
+    },
+    {
+        "core_id": "P02668_DP00192_7",
+        "sequence": "SYGLNYYQQKPV"
+    },
+    {
+        "core_id": "P02668_DP00192_8",
+        "sequence": "YQQKPVALINNQFLPYPYYA"
+    },
+    {
+        "core_id": "P02668_DP00192_9",
+        "sequence": "PYPYYAKPAAVRSPAQI"
+    },
+    {
+        "core_id": "P02686-5_DP02078_0",
+        "sequence": "MASQKRPSQRHGSKYLAT"
+    },
+    {
+        "core_id": "P02686-5_DP02078_1",
+        "sequence": "SKYLATASTMDHARHG"
+    },
+    {
+        "core_id": "P02686-5_DP02078_10",
+        "sequence": "RTPPPSQGKGRGLSLSRFSW"
+    },
+    {
+        "core_id": "P02686-5_DP02078_11",
+        "sequence": "LSRFSWGAEGQRPGFGYGGR"
+    },
+    {
+        "core_id": "P02686-5_DP02078_12",
+        "sequence": "FGYGGRASDYKSAH"
+    },
+    {
+        "core_id": "P02686-5_DP02078_13",
+        "sequence": "DYKSAHKGFKGVD"
+    },
+    {
+        "core_id": "P02686-5_DP02078_14",
+        "sequence": "GFKGVDAQGTL"
+    },
+    {
+        "core_id": "P02686-5_DP02078_15",
+        "sequence": "DAQGTLSKIFKLGGRD"
+    },
+    {
+        "core_id": "P02686-5_DP02078_2",
+        "sequence": "DHARHGFLPRHRDTG"
+    },
+    {
+        "core_id": "P02686-5_DP02078_3",
+        "sequence": "RHRDTGILDSIGRFFGGDRG"
+    },
+    {
+        "core_id": "P02686-5_DP02078_5",
+        "sequence": "SGKDSHHPARTAHYGSLP"
+    },
+    {
+        "core_id": "P02686-5_DP02078_6",
+        "sequence": "HYGSLPQKSH"
+    },
+    {
+        "core_id": "P02686-5_DP02078_7",
+        "sequence": "LPQKSHGRTQDENPVVHFF"
+    },
+    {
+        "core_id": "P02686-5_DP02078_8",
+        "sequence": "PVVHFFKNIVT"
+    },
+    {
+        "core_id": "P02687_DP00047_0",
+        "sequence": "AAQKRPSQRSKYL"
+    },
+    {
+        "core_id": "P02687_DP00047_10",
+        "sequence": "RPQDENPVVHFFK"
+    },
+    {
+        "core_id": "P02687_DP00047_13",
+        "sequence": "GLSLSRFSWGAEG"
+    },
+    {
+        "core_id": "P02687_DP00047_14",
+        "sequence": "SWGAEGQKPGFGYGGRASDY"
+    },
+    {
+        "core_id": "P02687_DP00047_16",
+        "sequence": "GLKGHDAQGTLSKIFK"
+    },
+    {
+        "core_id": "P02687_DP00047_17",
+        "sequence": "LSKIFKLGGRDSRSGSPMAR"
+    },
+    {
+        "core_id": "P02687_DP00047_3",
+        "sequence": "RDTGILDSLG"
+    },
+    {
+        "core_id": "P02687_DP00047_4",
+        "sequence": "ILDSLGRFFGSDR"
+    },
+    {
+        "core_id": "P02687_DP00047_6",
+        "sequence": "DRGAPKRGSGKDGHH"
+    },
+    {
+        "core_id": "P02687_DP00047_8",
+        "sequence": "THYGSLPQKAQGHR"
+    },
+    {
+        "core_id": "P02687_DP00047_9",
+        "sequence": "KAQGHRPQDEN"
+    },
+    {
+        "core_id": "P03045_DP00005_0",
+        "sequence": "MDAQTRRRERRAEKQAQWKA"
+    },
+    {
+        "core_id": "P03045_DP00005_1",
+        "sequence": "QAQWKAANPLL"
+    },
+    {
+        "core_id": "P03045_DP00005_10",
+        "sequence": "YSKPGERGITC"
+    },
+    {
+        "core_id": "P03045_DP00005_11",
+        "sequence": "ERGITCSGRQKIKGKSIPLI"
+    },
+    {
+        "core_id": "P03045_DP00005_2",
+        "sequence": "AANPLLVGVS"
+    },
+    {
+        "core_id": "P03045_DP00005_3",
+        "sequence": "LLVGVSAKPVNRPI"
+    },
+    {
+        "core_id": "P03045_DP00005_4",
+        "sequence": "PVNRPILSLNRKP"
+    },
+    {
+        "core_id": "P03045_DP00005_5",
+        "sequence": "SLNRKPKSRVESA"
+    },
+    {
+        "core_id": "P03045_DP00005_6",
+        "sequence": "SRVESALNPIDL"
+    },
+    {
+        "core_id": "P03045_DP00005_7",
+        "sequence": "LNPIDLTVLAE"
+    },
+    {
+        "core_id": "P03045_DP00005_8",
+        "sequence": "LTVLAEYHKQIESNLQRIER"
+    },
+    {
+        "core_id": "P03045_DP00005_9",
+        "sequence": "LQRIERKNQRTWYSKPGE"
+    },
+    {
+        "core_id": "P03050_DP01512_0",
+        "sequence": "MKGMSKMPQFNLRWPRE"
+    },
+    {
+        "core_id": "P03050_DP01512_1",
+        "sequence": "LRWPREVLDLVRKVAEE"
+    },
+    {
+        "core_id": "P03050_DP01512_2",
+        "sequence": "RKVAEENGRSVNSE"
+    },
+    {
+        "core_id": "P03050_DP01512_3",
+        "sequence": "RSVNSEIYQRVMESFKKEG"
+    },
+    {
+        "core_id": "P03050_DP01512_4",
+        "sequence": "SFKKEGRIGA"
+    },
+    {
+        "core_id": "P03170_DP04190_0",
+        "sequence": "MSWALEMADTFLDTMRVGPR"
+    },
+    {
+        "core_id": "P03170_DP04190_1",
+        "sequence": "MRVGPRTYADVRDEIN"
+    },
+    {
+        "core_id": "P03170_DP04190_2",
+        "sequence": "VRDEINKRGR"
+    },
+    {
+        "core_id": "P03170_DP04190_3",
+        "sequence": "INKRGREDREAART"
+    },
+    {
+        "core_id": "P03170_DP04190_4",
+        "sequence": "REAARTAVHDPERPLLRSP"
+    },
+    {
+        "core_id": "P03170_DP04190_5",
+        "sequence": "PLLRSPGLLPEIAP"
+    },
+    {
+        "core_id": "P03170_DP04190_6",
+        "sequence": "LPEIAPNASLGVAHR"
+    },
+    {
+        "core_id": "P03170_DP04190_7",
+        "sequence": "LGVAHRRTGGT"
+    },
+    {
+        "core_id": "P03170_DP04190_8",
+        "sequence": "RRTGGTVTDSPRNPVTR"
+    },
+    {
+        "core_id": "P04370-5_DP01101_1",
+        "sequence": "ATASTMDHARHGFLPR"
+    },
+    {
+        "core_id": "P04370-5_DP01101_12",
+        "sequence": "PGFGYGGRASD"
+    },
+    {
+        "core_id": "P04370-5_DP01101_13",
+        "sequence": "GGRASDYKSAHKGFKGAYD"
+    },
+    {
+        "core_id": "P04370-5_DP01101_14",
+        "sequence": "FKGAYDAQGT"
+    },
+    {
+        "core_id": "P04370-5_DP01101_2",
+        "sequence": "HGFLPRHRDTGILDSI"
+    },
+    {
+        "core_id": "P04370-5_DP01101_3",
+        "sequence": "GILDSIGRFFSGD"
+    },
+    {
+        "core_id": "P04370-5_DP01101_4",
+        "sequence": "RFFSGDRGAPK"
+    },
+    {
+        "core_id": "P04370-5_DP01101_6",
+        "sequence": "HTRTTHYGSLPQKSQHGRTQ"
+    },
+    {
+        "core_id": "P04370-5_DP01101_7",
+        "sequence": "QHGRTQDENPVVH"
+    },
+    {
+        "core_id": "P04370-5_DP01101_8",
+        "sequence": "ENPVVHFFKNI"
+    },
+    {
+        "core_id": "P04370-5_DP01101_9",
+        "sequence": "HFFKNIVTPRTPPP"
+    },
+    {
+        "core_id": "P04608_DP00929_4",
+        "sequence": "GRKKRRQRRRAHQNSQT"
+    },
+    {
+        "core_id": "P04608_DP00929_5",
+        "sequence": "HQNSQTHQASLS"
+    },
+    {
+        "core_id": "P04608_DP00929_6",
+        "sequence": "HQASLSKQPTSQPRGDP"
+    },
+    {
+        "core_id": "P04610_DP03559_1",
+        "sequence": "GSQPKTACTTCYCKKCC"
+    },
+    {
+        "core_id": "P04610_DP03559_2",
+        "sequence": "YCKKCCFHCQVCFT"
+    },
+    {
+        "core_id": "P04610_DP03559_3",
+        "sequence": "CQVCFTTKALGISYGRKKRR"
+    },
+    {
+        "core_id": "P04610_DP03559_6",
+        "sequence": "QTHQVSLSKQPT"
+    },
+    {
+        "core_id": "P04610_DP03559_7",
+        "sequence": "LSKQPTSQPRGDPTGPKE"
+    },
+    {
+        "core_id": "P04611_DP03563_1",
+        "sequence": "GSQPRTPCNKC"
+    },
+    {
+        "core_id": "P04611_DP03563_2",
+        "sequence": "TPCNKCHCKKCCYHCPV"
+    },
+    {
+        "core_id": "P04611_DP03563_3",
+        "sequence": "CYHCPVCFLNKGLGISYGR"
+    },
+    {
+        "core_id": "P04611_DP03563_5",
+        "sequence": "QRRGPPQGGQAHQV"
+    },
+    {
+        "core_id": "P04611_DP03563_6",
+        "sequence": "GQAHQVPIPK"
+    },
+    {
+        "core_id": "P04611_DP03563_7",
+        "sequence": "QVPIPKQPSSQPRGD"
+    },
+    {
+        "core_id": "P04611_DP03563_8",
+        "sequence": "SQPRGDPTGPKEQ"
+    },
+    {
+        "core_id": "P04611_DP03563_9",
+        "sequence": "TGPKEQKKKVESEAETDP"
+    },
+    {
+        "core_id": "P04613_DP03562_1",
+        "sequence": "PWNHPGSQPRTPCNKCYCKK"
+    },
+    {
+        "core_id": "P04613_DP03562_2",
+        "sequence": "KCYCKKCCYHCQMCFITK"
+    },
+    {
+        "core_id": "P04613_DP03562_3",
+        "sequence": "MCFITKGLGISYGRKK"
+    },
+    {
+        "core_id": "P04613_DP03562_5",
+        "sequence": "PQGNQAHQDPLP"
+    },
+    {
+        "core_id": "P04613_DP03562_6",
+        "sequence": "HQDPLPEQPSSQHRGD"
+    },
+    {
+        "core_id": "P04972_DP00347_0",
+        "sequence": "MNLEPPKAEIRSATRV"
+    },
+    {
+        "core_id": "P04972_DP00347_1",
+        "sequence": "RSATRVMGGPVTPRK"
+    },
+    {
+        "core_id": "P04972_DP00347_2",
+        "sequence": "PVTPRKGPPKF"
+    },
+    {
+        "core_id": "P04972_DP00347_3",
+        "sequence": "KGPPKFKQRQTRQ"
+    },
+    {
+        "core_id": "P04972_DP00347_4",
+        "sequence": "QRQTRQFKSKPPK"
+    },
+    {
+        "core_id": "P04972_DP00347_5",
+        "sequence": "KSKPPKKGVQGFG"
+    },
+    {
+        "core_id": "P04972_DP00347_6",
+        "sequence": "GVQGFGDDIPGMEGLGTD"
+    },
+    {
+        "core_id": "P04972_DP00347_7",
+        "sequence": "EGLGTDITVICPWEAFN"
+    },
+    {
+        "core_id": "P04972_DP00347_8",
+        "sequence": "PWEAFNHLELHELAQYGII"
+    },
+    {
+        "core_id": "P05114_DP04177_0",
+        "sequence": "MPKRKVSSAE"
+    },
+    {
+        "core_id": "P05114_DP04177_1",
+        "sequence": "KVSSAEGAAKEEPKRRSAR"
+    },
+    {
+        "core_id": "P05114_DP04177_2",
+        "sequence": "KRRSARLSAKPPAKVEAK"
+    },
+    {
+        "core_id": "P05114_DP04177_3",
+        "sequence": "AKVEAKPKKAAAKDKSSD"
+    },
+    {
+        "core_id": "P05114_DP04177_4",
+        "sequence": "KDKSSDKKVQTKGKR"
+    },
+    {
+        "core_id": "P05114_DP04177_5",
+        "sequence": "QTKGKRGAKGKQAEVANQET"
+    },
+    {
+        "core_id": "P05114_DP04177_6",
+        "sequence": "VANQETKEDLP"
+    },
+    {
+        "core_id": "P05114_DP04177_7",
+        "sequence": "TKEDLPAENGETKTEE"
+    },
+    {
+        "core_id": "P05114_DP04177_8",
+        "sequence": "ETKTEESPASDEAGE"
+    },
+    {
+        "core_id": "P05114_DP04177_9",
+        "sequence": "SDEAGEKEAKSD"
+    },
+    {
+        "core_id": "P05318_DP00164_0",
+        "sequence": "MSTESALSYAALIL"
+    },
+    {
+        "core_id": "P05318_DP00164_1",
+        "sequence": "YAALILADSEIEISSE"
+    },
+    {
+        "core_id": "P05318_DP00164_10",
+        "sequence": "AEAEKEEEEAKEESDDDMGF"
+    },
+    {
+        "core_id": "P05318_DP00164_11",
+        "sequence": "DDDMGFGLFD"
+    },
+    {
+        "core_id": "P05318_DP00164_2",
+        "sequence": "IEISSEKLLTLT"
+    },
+    {
+        "core_id": "P05318_DP00164_3",
+        "sequence": "KLLTLTNAANVPVENIW"
+    },
+    {
+        "core_id": "P05318_DP00164_4",
+        "sequence": "PVENIWADIF"
+    },
+    {
+        "core_id": "P05318_DP00164_5",
+        "sequence": "IWADIFAKALDGQN"
+    },
+    {
+        "core_id": "P05318_DP00164_6",
+        "sequence": "ALDGQNLKDLLVNFSAGA"
+    },
+    {
+        "core_id": "P05318_DP00164_7",
+        "sequence": "NFSAGAAAPAGV"
+    },
+    {
+        "core_id": "P05318_DP00164_8",
+        "sequence": "AAPAGVAGGVAGGEAGEA"
+    },
+    {
+        "core_id": "P05318_DP00164_9",
+        "sequence": "GEAGEAEAEKE"
+    },
+    {
+        "core_id": "P06454_DP01677_0",
+        "sequence": "MSDAAVDTSSEIT"
+    },
+    {
+        "core_id": "P06454_DP01677_1",
+        "sequence": "TSSEITTKDLKEKK"
+    },
+    {
+        "core_id": "P06454_DP01677_10",
+        "sequence": "GDEDEEAESA"
+    },
+    {
+        "core_id": "P06454_DP01677_11",
+        "sequence": "EEAESATGKRAAEDDE"
+    },
+    {
+        "core_id": "P06454_DP01677_12",
+        "sequence": "AAEDDEDDDVDTKKQKT"
+    },
+    {
+        "core_id": "P06454_DP01677_2",
+        "sequence": "DLKEKKEVVEEAENGRDAPA"
+    },
+    {
+        "core_id": "P06454_DP01677_3",
+        "sequence": "GRDAPANGNAE"
+    },
+    {
+        "core_id": "P06454_DP01677_4",
+        "sequence": "ANGNAENEENGE"
+    },
+    {
+        "core_id": "P06454_DP01677_5",
+        "sequence": "NEENGEQEADNEV"
+    },
+    {
+        "core_id": "P06454_DP01677_7",
+        "sequence": "DEEEEEGGEEEEEEEEGD"
+    },
+    {
+        "core_id": "P06454_DP01677_8",
+        "sequence": "EEEEGDGEEED"
+    },
+    {
+        "core_id": "P06454_DP01677_9",
+        "sequence": "DGEEEDGDEDEE"
+    },
+    {
+        "core_id": "P09132_DP00570_0",
+        "sequence": "MACAAARSPADQDRF"
+    },
+    {
+        "core_id": "P09132_DP00570_1",
+        "sequence": "ADQDRFICIYPAY"
+    },
+    {
+        "core_id": "P09132_DP00570_10",
+        "sequence": "LCLVQFPSRKSVMLYAAEMI"
+    },
+    {
+        "core_id": "P09132_DP00570_11",
+        "sequence": "YAAEMIPKLKTRTQKT"
+    },
+    {
+        "core_id": "P09132_DP00570_12",
+        "sequence": "TRTQKTGGADQSLQ"
+    },
+    {
+        "core_id": "P09132_DP00570_13",
+        "sequence": "ADQSLQQGEGSKKGKGKKKK"
+    },
+    {
+        "core_id": "P09132_DP00570_2",
+        "sequence": "CIYPAYLNNKKTIAEGRRIP"
+    },
+    {
+        "core_id": "P09132_DP00570_3",
+        "sequence": "EGRRIPISKAVENPTATEIQ"
+    },
+    {
+        "core_id": "P09132_DP00570_4",
+        "sequence": "TATEIQDVCSAVGL"
+    },
+    {
+        "core_id": "P09132_DP00570_5",
+        "sequence": "CSAVGLNVFLEKNKMYSR"
+    },
+    {
+        "core_id": "P09132_DP00570_6",
+        "sequence": "NKMYSREWNRDVQYRGR"
+    },
+    {
+        "core_id": "P09132_DP00570_7",
+        "sequence": "VQYRGRVRVQLKQE"
+    },
+    {
+        "core_id": "P09132_DP00570_8",
+        "sequence": "VQLKQEDGSL"
+    },
+    {
+        "core_id": "P09132_DP00570_9",
+        "sequence": "QEDGSLCLVQF"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_0",
+        "sequence": "MAHKKAGGSTR"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_1",
+        "sequence": "AGGSTRNGRDSEAKRLGVKR"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_2",
+        "sequence": "RLGVKRFGGESVLAGSII"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_3",
+        "sequence": "LAGSIIVRQRGTKF"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_4",
+        "sequence": "QRGTKFHAGANVGCGRDHTL"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_5",
+        "sequence": "GRDHTLFAKADGKVK"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_6",
+        "sequence": "ADGKVKFEVKG"
+    },
+    {
+        "core_id": "P0A7L8_DP00140_7",
+        "sequence": "KFEVKGPKNRKFISIEAE"
+    },
+    {
+        "core_id": "P0A968_DP02900_0",
+        "sequence": "MEKGTVKWFNNA"
+    },
+    {
+        "core_id": "P0A968_DP02900_1",
+        "sequence": "KWFNNAKGFGFI"
+    },
+    {
+        "core_id": "P0A968_DP02900_2",
+        "sequence": "KGFGFICPEGGG"
+    },
+    {
+        "core_id": "P0A968_DP02900_3",
+        "sequence": "CPEGGGEDIFA"
+    },
+    {
+        "core_id": "P0A968_DP02900_4",
+        "sequence": "GEDIFAHYSTIQMDGYRTL"
+    },
+    {
+        "core_id": "P0A968_DP02900_5",
+        "sequence": "DGYRTLKAGQSVQFDV"
+    },
+    {
+        "core_id": "P0A968_DP02900_6",
+        "sequence": "SVQFDVHQGPKGNHASVIV"
+    },
+    {
+        "core_id": "P0A968_DP02900_7",
+        "sequence": "HASVIVPVEVEAAVA"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_0",
+        "sequence": "MKNKLLFMMLTILG"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_1",
+        "sequence": "MLTILGAPGIAA"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_10",
+        "sequence": "SNRAKIDQTGDYNLA"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_11",
+        "sequence": "GDYNLAYIDQ"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_12",
+        "sequence": "LAYIDQAGSAND"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_13",
+        "sequence": "AGSANDASISQGAY"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_14",
+        "sequence": "ISQGAYGNTA"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_15",
+        "sequence": "AYGNTAMIIQKG"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_16",
+        "sequence": "MIIQKGSGNKANITQY"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_17",
+        "sequence": "ANITQYGTQKTAIVVQRQ"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_18",
+        "sequence": "IVVQRQSQMAIRVTQR"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_2",
+        "sequence": "APGIAAAAGYD"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_3",
+        "sequence": "AAAGYDLANSEYNFAVNELS"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_4",
+        "sequence": "AVNELSKSSF"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_5",
+        "sequence": "LSKSSFNQAAII"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_6",
+        "sequence": "NQAAIIGQAG"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_7",
+        "sequence": "IIGQAGTNNSAQLRQ"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_8",
+        "sequence": "SAQLRQGGSKLLA"
+    },
+    {
+        "core_id": "P0ABK7_DP03852_9",
+        "sequence": "GSKLLAVVAQEGSSNRAKI"
+    },
+    {
+        "core_id": "P0AG11_DP00626_0",
+        "sequence": "MLFIKPADLREI"
+    },
+    {
+        "core_id": "P0AG11_DP00626_1",
+        "sequence": "ADLREIVTFPLFSDLVQ"
+    },
+    {
+        "core_id": "P0AG11_DP00626_10",
+        "sequence": "DIVIAAVDGE"
+    },
+    {
+        "core_id": "P0AG11_DP00626_11",
+        "sequence": "AAVDGEFTVKKLQLR"
+    },
+    {
+        "core_id": "P0AG11_DP00626_12",
+        "sequence": "KKLQLRPTVQLIPMNSAYS"
+    },
+    {
+        "core_id": "P0AG11_DP00626_13",
+        "sequence": "MNSAYSPITISSEDTLDV"
+    },
+    {
+        "core_id": "P0AG11_DP00626_14",
+        "sequence": "EDTLDVFGVVIHVVKAMR"
+    },
+    {
+        "core_id": "P0AG11_DP00626_2",
+        "sequence": "FSDLVQCGFPSPAADYVE"
+    },
+    {
+        "core_id": "P0AG11_DP00626_3",
+        "sequence": "AADYVEQRIDLNQLLI"
+    },
+    {
+        "core_id": "P0AG11_DP00626_4",
+        "sequence": "LNQLLIQHPSATYFVKAS"
+    },
+    {
+        "core_id": "P0AG11_DP00626_5",
+        "sequence": "YFVKASGDSM"
+    },
+    {
+        "core_id": "P0AG11_DP00626_6",
+        "sequence": "ASGDSMIDGGI"
+    },
+    {
+        "core_id": "P0AG11_DP00626_7",
+        "sequence": "MIDGGISDGDL"
+    },
+    {
+        "core_id": "P0AG11_DP00626_8",
+        "sequence": "ISDGDLLIVDSA"
+    },
+    {
+        "core_id": "P0AG11_DP00626_9",
+        "sequence": "LIVDSAITASHGDIVIAA"
+    },
+    {
+        "core_id": "P0C8E1_DP02321_0",
+        "sequence": "DEPEYAEAIREYQLKYGKI"
+    },
+    {
+        "core_id": "P0DSM4_DP03489_0",
+        "sequence": "FLGALLKIGAKLLPSVVGL"
+    },
+    {
+        "core_id": "P0DSM4_DP03489_1",
+        "sequence": "PSVVGLFKKKQQ"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_0",
+        "sequence": "MATLNQGSLSLL"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_1",
+        "sequence": "GSLSLLLISCVL"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_10",
+        "sequence": "ILPNGDLPGLSNTLGNN"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_11",
+        "sequence": "NTLGNNSAGLGAGAAAGHA"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_12",
+        "sequence": "AAAGHASGNSLGGQISG"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_13",
+        "sequence": "GGQISGSIERGLAPLN"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_14",
+        "sequence": "GLAPLNNIGAMMGVQP"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_2",
+        "sequence": "LISCVLGASVSVPASAEDG"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_3",
+        "sequence": "ASAEDGIIVT"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_4",
+        "sequence": "DGIIVTGRNVQGFMVGRPSF"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_5",
+        "sequence": "VGRPSFGKDPY"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_6",
+        "sequence": "FGKDPYPSTANANP"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_7",
+        "sequence": "TANANPSQQILRATGGE"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_8",
+        "sequence": "RATGGELSDNDFAGVSSGST"
+    },
+    {
+        "core_id": "P0DXF3_DP04434_9",
+        "sequence": "VSSGSTITRAILPNGD"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_0",
+        "sequence": "MTHSWLLLTVLGCS"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_1",
+        "sequence": "TVLGCSAAMADSN"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_10",
+        "sequence": "GILGVNQSAGANNQMINAV"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_11",
+        "sequence": "QMINAVRISTGPQSVDD"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_12",
+        "sequence": "PQSVDDNVLSQQNMTLLP"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_13",
+        "sequence": "NMTLLPDSRSPSTTGSRQVV"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_14",
+        "sequence": "GSRQVVTSDQAFTG"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_15",
+        "sequence": "DQAFTGSRGV"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_16",
+        "sequence": "TGSRGVVQVNQSA"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_17",
+        "sequence": "QVNQSAGVGNRMANTL"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_18",
+        "sequence": "RMANTLGVTIK"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_2",
+        "sequence": "AMADSNNQALIDNAGKQY"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_3",
+        "sequence": "NAGKQYTGVLS"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_4",
+        "sequence": "YTGVLSVNQAAGNQH"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_5",
+        "sequence": "AAGNQHQQINSRAISL"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_6",
+        "sequence": "SRAISLGGQAS"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_7",
+        "sequence": "LGGQASDALIQKLD"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_8",
+        "sequence": "LIQKLDGKVDPSLNASAAIQ"
+    },
+    {
+        "core_id": "P0DXF4_DP04435_9",
+        "sequence": "ASAAIQGSAFSNGNGILGVN"
+    },
+    {
+        "core_id": "P12506_DP00842_0",
+        "sequence": "MDPVDPNIEPWNH"
+    },
+    {
+        "core_id": "P12506_DP00842_2",
+        "sequence": "PKTACNRCHCKKCCYHC"
+    },
+    {
+        "core_id": "P12506_DP00842_6",
+        "sequence": "RRQRRRPSQGGQTHQDPIPK"
+    },
+    {
+        "core_id": "P12506_DP00842_7",
+        "sequence": "QDPIPKQPSS"
+    },
+    {
+        "core_id": "P12950_DP00530_0",
+        "sequence": "MEYGQQGQRGHGRTGHV"
+    },
+    {
+        "core_id": "P12950_DP00530_1",
+        "sequence": "GRTGHVDQYGNP"
+    },
+    {
+        "core_id": "P12950_DP00530_10",
+        "sequence": "SSSEDDGMGG"
+    },
+    {
+        "core_id": "P12950_DP00530_11",
+        "sequence": "DDGMGGRRKK"
+    },
+    {
+        "core_id": "P12950_DP00530_12",
+        "sequence": "GGRRKKGIKEKIKEKLPGG"
+    },
+    {
+        "core_id": "P12950_DP00530_13",
+        "sequence": "EKLPGGHKDDQHATATT"
+    },
+    {
+        "core_id": "P12950_DP00530_14",
+        "sequence": "HATATTGGAYGQQGHTGS"
+    },
+    {
+        "core_id": "P12950_DP00530_15",
+        "sequence": "QGHTGSAYGQQGHTGGAY"
+    },
+    {
+        "core_id": "P12950_DP00530_16",
+        "sequence": "HTGGAYATGTEG"
+    },
+    {
+        "core_id": "P12950_DP00530_17",
+        "sequence": "ATGTEGTGEK"
+    },
+    {
+        "core_id": "P12950_DP00530_18",
+        "sequence": "EGTGEKKGIMDKIKEKLP"
+    },
+    {
+        "core_id": "P12950_DP00530_2",
+        "sequence": "DQYGNPVGGVEHG"
+    },
+    {
+        "core_id": "P12950_DP00530_3",
+        "sequence": "GGVEHGTGGMRHGT"
+    },
+    {
+        "core_id": "P12950_DP00530_4",
+        "sequence": "GMRHGTGTTGGMG"
+    },
+    {
+        "core_id": "P12950_DP00530_5",
+        "sequence": "TTGGMGQLGE"
+    },
+    {
+        "core_id": "P12950_DP00530_6",
+        "sequence": "MGQLGEHGGAGMGGGQFQP"
+    },
+    {
+        "core_id": "P12950_DP00530_7",
+        "sequence": "GGQFQPAREEHKTGGILH"
+    },
+    {
+        "core_id": "P12950_DP00530_8",
+        "sequence": "TGGILHRSGS"
+    },
+    {
+        "core_id": "P15340_DP00057_0",
+        "sequence": "MARYRRSRTRSRSPRSR"
+    },
+    {
+        "core_id": "P15340_DP00057_1",
+        "sequence": "RSPRSRRRRRRS"
+    },
+    {
+        "core_id": "P15340_DP00057_2",
+        "sequence": "RRRRRSGRRRSPRR"
+    },
+    {
+        "core_id": "P15340_DP00057_3",
+        "sequence": "RRSPRRRRRYGS"
+    },
+    {
+        "core_id": "P15340_DP00057_4",
+        "sequence": "RRRYGSARRSRRS"
+    },
+    {
+        "core_id": "P15340_DP00057_5",
+        "sequence": "RRSRRSVGGRRRRYGSRR"
+    },
+    {
+        "core_id": "P15340_DP00057_6",
+        "sequence": "RYGSRRRRRRRY"
+    },
+    {
+        "core_id": "P17096_DP00040_0",
+        "sequence": "MSESSSKSSQPLAS"
+    },
+    {
+        "core_id": "P17096_DP00040_1",
+        "sequence": "SQPLASKQEKDGTEKRGRGR"
+    },
+    {
+        "core_id": "P17096_DP00040_2",
+        "sequence": "KRGRGRPRKQPPVSPGTALV"
+    },
+    {
+        "core_id": "P17096_DP00040_3",
+        "sequence": "PGTALVGSQKE"
+    },
+    {
+        "core_id": "P17096_DP00040_4",
+        "sequence": "VGSQKEPSEVPTPKRPRGR"
+    },
+    {
+        "core_id": "P17096_DP00040_5",
+        "sequence": "KRPRGRPKGSKNKGAAKTRK"
+    },
+    {
+        "core_id": "P17096_DP00040_6",
+        "sequence": "AAKTRKTTTTPG"
+    },
+    {
+        "core_id": "P17096_DP00040_7",
+        "sequence": "TTTTPGRKPRGRPKKLEK"
+    },
+    {
+        "core_id": "P17096_DP00040_8",
+        "sequence": "PKKLEKEEEEGIS"
+    },
+    {
+        "core_id": "P17096_DP00040_9",
+        "sequence": "EEEGISQESSEEEQ"
+    },
+    {
+        "core_id": "P17639_DP01860_1",
+        "sequence": "LDARARQGETVVPGG"
+    },
+    {
+        "core_id": "P17639_DP01860_2",
+        "sequence": "TVVPGGTGGKSLEAQQHLAE"
+    },
+    {
+        "core_id": "P17639_DP01860_3",
+        "sequence": "QQHLAEGRSKG"
+    },
+    {
+        "core_id": "P17639_DP01860_4",
+        "sequence": "EGRSKGGQTRKE"
+    },
+    {
+        "core_id": "P17639_DP01860_5",
+        "sequence": "GQTRKEQLGGEGYHE"
+    },
+    {
+        "core_id": "P17639_DP01860_6",
+        "sequence": "GEGYHEMGRKGGLSNN"
+    },
+    {
+        "core_id": "P17639_DP01860_7",
+        "sequence": "GGLSNNDMSGGERAEQE"
+    },
+    {
+        "core_id": "P17639_DP01860_8",
+        "sequence": "ERAEQEGIDIDESKFRTKK"
+    },
+    {
+        "core_id": "P20879_DP03560_0",
+        "sequence": "MEPVDPSLEP"
+    },
+    {
+        "core_id": "P20879_DP03560_1",
+        "sequence": "DPSLEPWKHP"
+    },
+    {
+        "core_id": "P20879_DP03560_10",
+        "sequence": "PSSQQRGDPTGPKESKK"
+    },
+    {
+        "core_id": "P20879_DP03560_11",
+        "sequence": "PKESKKKVERETETDPDN"
+    },
+    {
+        "core_id": "P20879_DP03560_2",
+        "sequence": "EPWKHPGSQPKTAC"
+    },
+    {
+        "core_id": "P20879_DP03560_5",
+        "sequence": "HCQVCFTTKGL"
+    },
+    {
+        "core_id": "P20879_DP03560_7",
+        "sequence": "ISYGRKKRRQRRRPPQDS"
+    },
+    {
+        "core_id": "P20879_DP03560_8",
+        "sequence": "RPPQDSQTHQVS"
+    },
+    {
+        "core_id": "P20879_DP03560_9",
+        "sequence": "QTHQVSLPKQPSSQQR"
+    },
+    {
+        "core_id": "P20893_DP03565_0",
+        "sequence": "MEPVDPRLEPWKHPGSQ"
+    },
+    {
+        "core_id": "P20893_DP03565_1",
+        "sequence": "KHPGSQPKTASNNCYCK"
+    },
+    {
+        "core_id": "P20893_DP03565_2",
+        "sequence": "NNCYCKRCCLHCQ"
+    },
+    {
+        "core_id": "P20893_DP03565_3",
+        "sequence": "CCLHCQVCFTKKGLG"
+    },
+    {
+        "core_id": "P20893_DP03565_4",
+        "sequence": "TKKGLGISYGR"
+    },
+    {
+        "core_id": "P20893_DP03565_6",
+        "sequence": "APQDSKTHQVSLSKQ"
+    },
+    {
+        "core_id": "P20893_DP03565_8",
+        "sequence": "GDPTGPKESKKKVERETETD"
+    },
+    {
+        "core_id": "P20893_DP03565_9",
+        "sequence": "ERETETDPED"
+    },
+    {
+        "core_id": "P22239_DP00112_0",
+        "sequence": "MAQFGGEKYGG"
+    },
+    {
+        "core_id": "P22239_DP00112_1",
+        "sequence": "GEKYGGRHTDEY"
+    },
+    {
+        "core_id": "P22239_DP00112_10",
+        "sequence": "DGEGGRRKKGMKDKMKEKL"
+    },
+    {
+        "core_id": "P22239_DP00112_11",
+        "sequence": "KMKEKLPGGHGTTTDQQ"
+    },
+    {
+        "core_id": "P22239_DP00112_12",
+        "sequence": "TTTDQQQYGTAATHGQAQ"
+    },
+    {
+        "core_id": "P22239_DP00112_13",
+        "sequence": "THGQAQQHEKKGIM"
+    },
+    {
+        "core_id": "P22239_DP00112_2",
+        "sequence": "RHTDEYGNPIQQGAGAHRGG"
+    },
+    {
+        "core_id": "P22239_DP00112_3",
+        "sequence": "GAHRGGGIMGGG"
+    },
+    {
+        "core_id": "P22239_DP00112_4",
+        "sequence": "GIMGGGQQAGQHGTTGVLGH"
+    },
+    {
+        "core_id": "P22239_DP00112_5",
+        "sequence": "TGVLGHGTAGQHGTTG"
+    },
+    {
+        "core_id": "P22239_DP00112_6",
+        "sequence": "QHGTTGGGLGHGTAGTGGA"
+    },
+    {
+        "core_id": "P22239_DP00112_7",
+        "sequence": "AGTGGALGGQH"
+    },
+    {
+        "core_id": "P22239_DP00112_8",
+        "sequence": "ALGGQHRRSGSSSSSS"
+    },
+    {
+        "core_id": "P22239_DP00112_9",
+        "sequence": "SSSSSSSSESDGEGGR"
+    },
+    {
+        "core_id": "P22943_DP00705_0",
+        "sequence": "MSDAGRKGFGE"
+    },
+    {
+        "core_id": "P22943_DP00705_1",
+        "sequence": "RKGFGEKASEALKP"
+    },
+    {
+        "core_id": "P22943_DP00705_10",
+        "sequence": "VHGEEDPTKK"
+    },
+    {
+        "core_id": "P22943_DP00705_2",
+        "sequence": "SEALKPDSQKSYAEQGKE"
+    },
+    {
+        "core_id": "P22943_DP00705_3",
+        "sequence": "AEQGKEYITDKADKVAGKVQ"
+    },
+    {
+        "core_id": "P22943_DP00705_4",
+        "sequence": "VAGKVQPEDNKGVFQGVHDS"
+    },
+    {
+        "core_id": "P22943_DP00705_5",
+        "sequence": "QGVHDSAEKGKDNAEGQGE"
+    },
+    {
+        "core_id": "P22943_DP00705_6",
+        "sequence": "AEGQGESLADQARDY"
+    },
+    {
+        "core_id": "P22943_DP00705_7",
+        "sequence": "DQARDYMGAAK"
+    },
+    {
+        "core_id": "P22943_DP00705_8",
+        "sequence": "YMGAAKSKLNDAV"
+    },
+    {
+        "core_id": "P22943_DP00705_9",
+        "sequence": "KLNDAVEYVSGRVHGEEDPT"
+    },
+    {
+        "core_id": "P25814_DP00387_0",
+        "sequence": "MKKRNRLKKNEDF"
+    },
+    {
+        "core_id": "P25814_DP00387_1",
+        "sequence": "KKNEDFQKVFKH"
+    },
+    {
+        "core_id": "P25814_DP00387_10",
+        "sequence": "IARKPASQLT"
+    },
+    {
+        "core_id": "P25814_DP00387_11",
+        "sequence": "PASQLTYEETKKSLQH"
+    },
+    {
+        "core_id": "P25814_DP00387_12",
+        "sequence": "KKSLQHLFRKSSLYKKSSSK"
+    },
+    {
+        "core_id": "P25814_DP00387_2",
+        "sequence": "QKVFKHGTSVANRQFV"
+    },
+    {
+        "core_id": "P25814_DP00387_3",
+        "sequence": "ANRQFVLYTLDQPENDE"
+    },
+    {
+        "core_id": "P25814_DP00387_4",
+        "sequence": "QPENDELRVGLSVSKKI"
+    },
+    {
+        "core_id": "P25814_DP00387_5",
+        "sequence": "SVSKKIGNAVMRN"
+    },
+    {
+        "core_id": "P25814_DP00387_6",
+        "sequence": "NAVMRNRIKRLIRQAF"
+    },
+    {
+        "core_id": "P25814_DP00387_7",
+        "sequence": "LIRQAFLEEK"
+    },
+    {
+        "core_id": "P25814_DP00387_8",
+        "sequence": "AFLEEKERLKEK"
+    },
+    {
+        "core_id": "P25814_DP00387_9",
+        "sequence": "ERLKEKDYIIIARKPA"
+    },
+    {
+        "core_id": "P26477_DP00027_0",
+        "sequence": "MSIDRTSPLKPVSTV"
+    },
+    {
+        "core_id": "P26477_DP00027_1",
+        "sequence": "KPVSTVQTRETSDTPVQKT"
+    },
+    {
+        "core_id": "P26477_DP00027_10",
+        "sequence": "GKIADSLIREAQSYLQSK"
+    },
+    {
+        "core_id": "P26477_DP00027_2",
+        "sequence": "TPVQKTRQEKTSA"
+    },
+    {
+        "core_id": "P26477_DP00027_3",
+        "sequence": "QEKTSAATSAS"
+    },
+    {
+        "core_id": "P26477_DP00027_4",
+        "sequence": "AATSASVTLS"
+    },
+    {
+        "core_id": "P26477_DP00027_5",
+        "sequence": "ASVTLSDAQAKLMQPGVSDI"
+    },
+    {
+        "core_id": "P26477_DP00027_6",
+        "sequence": "PGVSDINMERVEA"
+    },
+    {
+        "core_id": "P26477_DP00027_7",
+        "sequence": "MERVEALKTAIRNG"
+    },
+    {
+        "core_id": "P26477_DP00027_8",
+        "sequence": "TAIRNGELKMD"
+    },
+    {
+        "core_id": "P26477_DP00027_9",
+        "sequence": "GELKMDTGKIADS"
+    },
+    {
+        "core_id": "P27058_DP01969_0",
+        "sequence": "MGTPSYDIKNKGDDMQEE"
+    },
+    {
+        "core_id": "P27058_DP01969_1",
+        "sequence": "DDMQEEPKVKLHHEKG"
+    },
+    {
+        "core_id": "P27058_DP01969_10",
+        "sequence": "YIIKIEGDDDAQEK"
+    },
+    {
+        "core_id": "P27058_DP01969_11",
+        "sequence": "DDAQEKLKVEYEEEEYEK"
+    },
+    {
+        "core_id": "P27058_DP01969_12",
+        "sequence": "EEEYEKEKIVEKET"
+    },
+    {
+        "core_id": "P27058_DP01969_13",
+        "sequence": "IVEKETPSQDINNKGD"
+    },
+    {
+        "core_id": "P27058_DP01969_14",
+        "sequence": "INNKGDDAQEKPKVEHE"
+    },
+    {
+        "core_id": "P27058_DP01969_15",
+        "sequence": "PKVEHEEGDDKETPSQD"
+    },
+    {
+        "core_id": "P27058_DP01969_16",
+        "sequence": "ETPSQDIIKMEGE"
+    },
+    {
+        "core_id": "P27058_DP01969_17",
+        "sequence": "IKMEGEGALEITKVVCE"
+    },
+    {
+        "core_id": "P27058_DP01969_18",
+        "sequence": "TKVVCEKIIVREDLAVQS"
+    },
+    {
+        "core_id": "P27058_DP01969_19",
+        "sequence": "DLAVQSKPPSKR"
+    },
+    {
+        "core_id": "P27058_DP01969_2",
+        "sequence": "LHHEKGGDEKE"
+    },
+    {
+        "core_id": "P27058_DP01969_20",
+        "sequence": "KPPSKRDPPKMQTDNNKL"
+    },
+    {
+        "core_id": "P27058_DP01969_3",
+        "sequence": "GGDEKEKIIEKET"
+    },
+    {
+        "core_id": "P27058_DP01969_4",
+        "sequence": "IIEKETPSQDI"
+    },
+    {
+        "core_id": "P27058_DP01969_5",
+        "sequence": "TPSQDINNKDTISSYVL"
+    },
+    {
+        "core_id": "P27058_DP01969_6",
+        "sequence": "ISSYVLRDDTQ"
+    },
+    {
+        "core_id": "P27058_DP01969_7",
+        "sequence": "LRDDTQEIPKMEHEEGGYVK"
+    },
+    {
+        "core_id": "P27058_DP01969_8",
+        "sequence": "EGGYVKEKIVEK"
+    },
+    {
+        "core_id": "P27058_DP01969_9",
+        "sequence": "EKIVEKETISQYIIKIE"
+    },
+    {
+        "core_id": "P27469_DP03365_0",
+        "sequence": "METVQELIPLAKEMMAQKRK"
+    },
+    {
+        "core_id": "P27469_DP03365_1",
+        "sequence": "MAQKRKGKMVKLYVLG"
+    },
+    {
+        "core_id": "P27469_DP03365_2",
+        "sequence": "KLYVLGSVLALFGV"
+    },
+    {
+        "core_id": "P27469_DP03365_3",
+        "sequence": "LALFGVVLGLMETVCSP"
+    },
+    {
+        "core_id": "P27469_DP03365_4",
+        "sequence": "ETVCSPFTAARRLR"
+    },
+    {
+        "core_id": "P27469_DP03365_5",
+        "sequence": "AARRLRDQEAAVA"
+    },
+    {
+        "core_id": "P27469_DP03365_6",
+        "sequence": "QEAAVAELQAALERQA"
+    },
+    {
+        "core_id": "P27469_DP03365_7",
+        "sequence": "ALERQALQKQALQEKGK"
+    },
+    {
+        "core_id": "P27469_DP03365_8",
+        "sequence": "LQEKGKQQDTV"
+    },
+    {
+        "core_id": "P27469_DP03365_9",
+        "sequence": "KQQDTVLGGRALSNRQHAS"
+    },
+    {
+        "core_id": "P28307_DP03853_0",
+        "sequence": "MKLLKVAAIAA"
+    },
+    {
+        "core_id": "P28307_DP03853_1",
+        "sequence": "VAAIAAIVFSG"
+    },
+    {
+        "core_id": "P28307_DP03853_10",
+        "sequence": "RGFGNSATLDQWN"
+    },
+    {
+        "core_id": "P28307_DP03853_11",
+        "sequence": "TLDQWNGKNSEMTVKQFGG"
+    },
+    {
+        "core_id": "P28307_DP03853_12",
+        "sequence": "VKQFGGGNGA"
+    },
+    {
+        "core_id": "P28307_DP03853_13",
+        "sequence": "GGGNGAAVDQTASNSSVNVT"
+    },
+    {
+        "core_id": "P28307_DP03853_14",
+        "sequence": "SSVNVTQVGFGNNATAHQY"
+    },
+    {
+        "core_id": "P28307_DP03853_2",
+        "sequence": "AIVFSGSALAGVVPQYG"
+    },
+    {
+        "core_id": "P28307_DP03853_3",
+        "sequence": "VVPQYGGGGNHGGGGNN"
+    },
+    {
+        "core_id": "P28307_DP03853_4",
+        "sequence": "GGGGNNSGPNSELNI"
+    },
+    {
+        "core_id": "P28307_DP03853_5",
+        "sequence": "NSELNIYQYGGGNSALAL"
+    },
+    {
+        "core_id": "P28307_DP03853_6",
+        "sequence": "NSALALQTDARNSDLTITQ"
+    },
+    {
+        "core_id": "P28307_DP03853_7",
+        "sequence": "DLTITQHGGGN"
+    },
+    {
+        "core_id": "P28307_DP03853_8",
+        "sequence": "QHGGGNGADVGQGSDDS"
+    },
+    {
+        "core_id": "P28307_DP03853_9",
+        "sequence": "QGSDDSSIDLTQRGFGNS"
+    },
+    {
+        "core_id": "P30185_DP00689_0",
+        "sequence": "MASYQNRPGGQATD"
+    },
+    {
+        "core_id": "P30185_DP00689_1",
+        "sequence": "GGQATDEYGNPIQQ"
+    },
+    {
+        "core_id": "P30185_DP00689_10",
+        "sequence": "MLHRSGSGSSSSSEDDG"
+    },
+    {
+        "core_id": "P30185_DP00689_11",
+        "sequence": "SSEDDGQGGRRKKGITQKIK"
+    },
+    {
+        "core_id": "P30185_DP00689_12",
+        "sequence": "ITQKIKEKLPGHH"
+    },
+    {
+        "core_id": "P30185_DP00689_13",
+        "sequence": "KLPGHHDQSGQAQAMGGM"
+    },
+    {
+        "core_id": "P30185_DP00689_14",
+        "sequence": "QAMGGMGSGYDAGGYGG"
+    },
+    {
+        "core_id": "P30185_DP00689_15",
+        "sequence": "AGGYGGEHHEKK"
+    },
+    {
+        "core_id": "P30185_DP00689_16",
+        "sequence": "EHHEKKGMMDKIKEKLPGGG"
+    },
+    {
+        "core_id": "P30185_DP00689_17",
+        "sequence": "IKEKLPGGGR"
+    },
+    {
+        "core_id": "P30185_DP00689_2",
+        "sequence": "GNPIQQQYDEYGN"
+    },
+    {
+        "core_id": "P30185_DP00689_3",
+        "sequence": "YDEYGNPMGGGGYGTG"
+    },
+    {
+        "core_id": "P30185_DP00689_4",
+        "sequence": "GGYGTGGGGGATGGQGYGT"
+    },
+    {
+        "core_id": "P30185_DP00689_6",
+        "sequence": "GGQGYGTGGQGYGTGTGTEG"
+    },
+    {
+        "core_id": "P30185_DP00689_7",
+        "sequence": "GTGTEGFGTGGGARH"
+    },
+    {
+        "core_id": "P30185_DP00689_8",
+        "sequence": "GGGARHHGQEQLHKESG"
+    },
+    {
+        "core_id": "P30185_DP00689_9",
+        "sequence": "LHKESGGGLGGMLHRSG"
+    },
+    {
+        "core_id": "P37840_DP00070_10",
+        "sequence": "GKNEEGAPQEGILEDMP"
+    },
+    {
+        "core_id": "P37840_DP00070_11",
+        "sequence": "ILEDMPVDPDN"
+    },
+    {
+        "core_id": "P37840_DP00070_12",
+        "sequence": "PVDPDNEAYE"
+    },
+    {
+        "core_id": "P37840_DP00070_13",
+        "sequence": "DNEAYEMPSEEGYQDYEPEA"
+    },
+    {
+        "core_id": "P37840_DP00070_4",
+        "sequence": "TKEGVVHGVATVAEKTKEQ"
+    },
+    {
+        "core_id": "P37840_DP00070_5",
+        "sequence": "EKTKEQVTNVGGAVVT"
+    },
+    {
+        "core_id": "P37840_DP00070_6",
+        "sequence": "GGAVVTGVTAVAQKT"
+    },
+    {
+        "core_id": "P37840_DP00070_7",
+        "sequence": "AVAQKTVEGAGSI"
+    },
+    {
+        "core_id": "P37840_DP00070_8",
+        "sequence": "EGAGSIAAATGF"
+    },
+    {
+        "core_id": "P37840_DP00070_9",
+        "sequence": "AAATGFVKKDQLGKNEEG"
+    },
+    {
+        "core_id": "P38293_DP01140_0",
+        "sequence": "MNIVPQDTFKSQVS"
+    },
+    {
+        "core_id": "P38293_DP01140_1",
+        "sequence": "FKSQVSTDQDKSVLS"
+    },
+    {
+        "core_id": "P38293_DP01140_10",
+        "sequence": "RTDFNPLSTNGSIHRDILLN"
+    },
+    {
+        "core_id": "P38293_DP01140_11",
+        "sequence": "RDILLNKECSIDWEDV"
+    },
+    {
+        "core_id": "P38293_DP01140_12",
+        "sequence": "IDWEDVYPGTGLQAS"
+    },
+    {
+        "core_id": "P38293_DP01140_13",
+        "sequence": "TGLQASTMVG"
+    },
+    {
+        "core_id": "P38293_DP01140_14",
+        "sequence": "ASTMVGDDVHSKIEKQLGI"
+    },
+    {
+        "core_id": "P38293_DP01140_2",
+        "sequence": "DKSVLSSAVPSLP"
+    },
+    {
+        "core_id": "P38293_DP01140_3",
+        "sequence": "AVPSLPDTLRQ"
+    },
+    {
+        "core_id": "P38293_DP01140_4",
+        "sequence": "PDTLRQQEGGAVPL"
+    },
+    {
+        "core_id": "P38293_DP01140_5",
+        "sequence": "GGAVPLSTQLNDRHPLE"
+    },
+    {
+        "core_id": "P38293_DP01140_6",
+        "sequence": "DRHPLESTLKNWE"
+    },
+    {
+        "core_id": "P38293_DP01140_7",
+        "sequence": "TLKNWETTQRQRQMEQY"
+    },
+    {
+        "core_id": "P38293_DP01140_8",
+        "sequence": "RQMEQYRQIFGIAEPMKRT"
+    },
+    {
+        "core_id": "P38293_DP01140_9",
+        "sequence": "EPMKRTMEMEIVNRTDFNP"
+    },
+    {
+        "core_id": "P38936_DP00016_0",
+        "sequence": "MSEPAGDVRQNPCGSKACR"
+    },
+    {
+        "core_id": "P38936_DP00016_1",
+        "sequence": "GSKACRRLFG"
+    },
+    {
+        "core_id": "P38936_DP00016_10",
+        "sequence": "GTAEEDHVDLSLSC"
+    },
+    {
+        "core_id": "P38936_DP00016_11",
+        "sequence": "DLSLSCTLVP"
+    },
+    {
+        "core_id": "P38936_DP00016_12",
+        "sequence": "SCTLVPRSGEQA"
+    },
+    {
+        "core_id": "P38936_DP00016_13",
+        "sequence": "RSGEQAEGSPGGPGDS"
+    },
+    {
+        "core_id": "P38936_DP00016_14",
+        "sequence": "GGPGDSQGRKRRQTS"
+    },
+    {
+        "core_id": "P38936_DP00016_15",
+        "sequence": "KRRQTSMTDFYHSK"
+    },
+    {
+        "core_id": "P38936_DP00016_16",
+        "sequence": "DFYHSKRRLIFSKRKP"
+    },
+    {
+        "core_id": "P38936_DP00016_2",
+        "sequence": "CRRLFGPVDSEQLSRDCD"
+    },
+    {
+        "core_id": "P38936_DP00016_3",
+        "sequence": "LSRDCDALMAGCI"
+    },
+    {
+        "core_id": "P38936_DP00016_4",
+        "sequence": "LMAGCIQEARERWNFDFVTE"
+    },
+    {
+        "core_id": "P38936_DP00016_5",
+        "sequence": "FDFVTETPLEGDFAWERV"
+    },
+    {
+        "core_id": "P38936_DP00016_6",
+        "sequence": "FAWERVRGLGLPKLYL"
+    },
+    {
+        "core_id": "P38936_DP00016_7",
+        "sequence": "LPKLYLPTGPRRG"
+    },
+    {
+        "core_id": "P38936_DP00016_8",
+        "sequence": "TGPRRGRDELGGGRRPG"
+    },
+    {
+        "core_id": "P38936_DP00016_9",
+        "sequence": "GGRRPGTSPALLQGTAEED"
+    },
+    {
+        "core_id": "P40019_DP01135_0",
+        "sequence": "MSDEAKEKRELESQKES"
+    },
+    {
+        "core_id": "P40019_DP01135_1",
+        "sequence": "ESQKESSHNKSE"
+    },
+    {
+        "core_id": "P40019_DP01135_10",
+        "sequence": "GRRTRGKVIDYKKTAEE"
+    },
+    {
+        "core_id": "P40019_DP01135_11",
+        "sequence": "KKTAEELDKKEPSTGS"
+    },
+    {
+        "core_id": "P40019_DP01135_12",
+        "sequence": "EPSTGSKDDVGYGEKEEDD"
+    },
+    {
+        "core_id": "P40019_DP01135_13",
+        "sequence": "EKEEDDEDEEDDDFKE"
+    },
+    {
+        "core_id": "P40019_DP01135_2",
+        "sequence": "SHNKSEKSVEPKPKRR"
+    },
+    {
+        "core_id": "P40019_DP01135_3",
+        "sequence": "PKPKRRRRRNYD"
+    },
+    {
+        "core_id": "P40019_DP01135_4",
+        "sequence": "RRRNYDDYDAEVAKEETK"
+    },
+    {
+        "core_id": "P40019_DP01135_5",
+        "sequence": "AKEETKAKNGLTKSENNGTV"
+    },
+    {
+        "core_id": "P40019_DP01135_6",
+        "sequence": "ENNGTVEDSESDMD"
+    },
+    {
+        "core_id": "P40019_DP01135_7",
+        "sequence": "SESDMDDAKLDALMGNEGE"
+    },
+    {
+        "core_id": "P40019_DP01135_8",
+        "sequence": "MGNEGEEEEDDLAEIDTS"
+    },
+    {
+        "core_id": "P40019_DP01135_9",
+        "sequence": "AEIDTSNIITSGRRTRG"
+    },
+    {
+        "core_id": "P40205_DP04244_0",
+        "sequence": "MQHPPCEPGNCLSLKEKKIT"
+    },
+    {
+        "core_id": "P40205_DP04244_1",
+        "sequence": "KEKKITEGSGGVCWGG"
+    },
+    {
+        "core_id": "P40205_DP04244_10",
+        "sequence": "PLDVSSFKLKEEGRPP"
+    },
+    {
+        "core_id": "P40205_DP04244_11",
+        "sequence": "EEGRPPCLKINK"
+    },
+    {
+        "core_id": "P40205_DP04244_2",
+        "sequence": "GVCWGGETDAS"
+    },
+    {
+        "core_id": "P40205_DP04244_3",
+        "sequence": "GETDASNPAPAL"
+    },
+    {
+        "core_id": "P40205_DP04244_4",
+        "sequence": "NPAPALTACCAAEREANVEQ"
+    },
+    {
+        "core_id": "P40205_DP04244_5",
+        "sequence": "EANVEQGLAG"
+    },
+    {
+        "core_id": "P40205_DP04244_6",
+        "sequence": "EQGLAGRLLLC"
+    },
+    {
+        "core_id": "P40205_DP04244_7",
+        "sequence": "GRLLLCNYERRVVRRCKI"
+    },
+    {
+        "core_id": "P40205_DP04244_8",
+        "sequence": "VRRCKIAGRGRAP"
+    },
+    {
+        "core_id": "P40205_DP04244_9",
+        "sequence": "GRGRAPLGTRPLDVSS"
+    },
+    {
+        "core_id": "P42758_DP00658_0",
+        "sequence": "MNSHQNQTGVQKK"
+    },
+    {
+        "core_id": "P42758_DP00658_1",
+        "sequence": "TGVQKKGITEKIMEKLP"
+    },
+    {
+        "core_id": "P42758_DP00658_10",
+        "sequence": "QTGTNTTYGTTNTGG"
+    },
+    {
+        "core_id": "P42758_DP00658_11",
+        "sequence": "TTNTGGVHHEKKSV"
+    },
+    {
+        "core_id": "P42758_DP00658_12",
+        "sequence": "HEKKSVTEKVM"
+    },
+    {
+        "core_id": "P42758_DP00658_13",
+        "sequence": "VTEKVMEKLPGHHG"
+    },
+    {
+        "core_id": "P42758_DP00658_15",
+        "sequence": "TGTNTAYGTNTNVVHHEKKG"
+    },
+    {
+        "core_id": "P42758_DP00658_16",
+        "sequence": "HHEKKGIAEKIKEQLPGH"
+    },
+    {
+        "core_id": "P42758_DP00658_18",
+        "sequence": "KTGTTTSYGNTGVVHHENKS"
+    },
+    {
+        "core_id": "P42758_DP00658_2",
+        "sequence": "IMEKLPGHHGPTNTG"
+    },
+    {
+        "core_id": "P42758_DP00658_3",
+        "sequence": "GPTNTGVVHHEKKG"
+    },
+    {
+        "core_id": "P42758_DP00658_4",
+        "sequence": "HHEKKGMTEKVME"
+    },
+    {
+        "core_id": "P42758_DP00658_6",
+        "sequence": "LPGHHGATGT"
+    },
+    {
+        "core_id": "P42758_DP00658_7",
+        "sequence": "HGATGTGGVHHEKKGMTEKV"
+    },
+    {
+        "core_id": "P42758_DP00658_8",
+        "sequence": "GMTEKVMEQLPGH"
+    },
+    {
+        "core_id": "P42758_DP00658_9",
+        "sequence": "EQLPGHHGSHQTGTNT"
+    },
+    {
+        "core_id": "P42763_DP00667_0",
+        "sequence": "MAEEIKNVPEQEVPK"
+    },
+    {
+        "core_id": "P42763_DP00667_1",
+        "sequence": "EQEVPKVATEESSAEV"
+    },
+    {
+        "core_id": "P42763_DP00667_10",
+        "sequence": "KKKPTTEVEVKE"
+    },
+    {
+        "core_id": "P42763_DP00667_11",
+        "sequence": "EVEVKEEEKKGFMEKLKEK"
+    },
+    {
+        "core_id": "P42763_DP00667_12",
+        "sequence": "EKLKEKLPGHKKPEDGSAV"
+    },
+    {
+        "core_id": "P42763_DP00667_13",
+        "sequence": "EDGSAVAAAPVVVP"
+    },
+    {
+        "core_id": "P42763_DP00667_14",
+        "sequence": "APVVVPPPVEEAHPVE"
+    },
+    {
+        "core_id": "P42763_DP00667_15",
+        "sequence": "EAHPVEKKGILEKIKEKL"
+    },
+    {
+        "core_id": "P42763_DP00667_16",
+        "sequence": "KIKEKLPGYH"
+    },
+    {
+        "core_id": "P42763_DP00667_17",
+        "sequence": "KLPGYHPKTTVEEEKKDKE"
+    },
+    {
+        "core_id": "P42763_DP00667_2",
+        "sequence": "ESSAEVTDRGLFDF"
+    },
+    {
+        "core_id": "P42763_DP00667_3",
+        "sequence": "RGLFDFLGKKKDETKPEE"
+    },
+    {
+        "core_id": "P42763_DP00667_4",
+        "sequence": "ETKPEETPIASE"
+    },
+    {
+        "core_id": "P42763_DP00667_5",
+        "sequence": "TPIASEFEQKVHI"
+    },
+    {
+        "core_id": "P42763_DP00667_6",
+        "sequence": "EQKVHISEPEPEVKHE"
+    },
+    {
+        "core_id": "P42763_DP00667_7",
+        "sequence": "PEVKHESLLEKLHRSDSSSS"
+    },
+    {
+        "core_id": "P42763_DP00667_8",
+        "sequence": "SDSSSSSSSEEEGSDG"
+    },
+    {
+        "core_id": "P42763_DP00667_9",
+        "sequence": "EEGSDGEKRKKKKEKKKPTT"
+    },
+    {
+        "core_id": "P46527_DP00018_0",
+        "sequence": "MSNVRVSNGSPS"
+    },
+    {
+        "core_id": "P46527_DP00018_1",
+        "sequence": "SNGSPSLERMDAR"
+    },
+    {
+        "core_id": "P46527_DP00018_13",
+        "sequence": "PAQESQDVSGSRPAAPLI"
+    },
+    {
+        "core_id": "P46527_DP00018_14",
+        "sequence": "PAAPLIGAPAN"
+    },
+    {
+        "core_id": "P46527_DP00018_15",
+        "sequence": "IGAPANSEDTHLVDPK"
+    },
+    {
+        "core_id": "P46527_DP00018_19",
+        "sequence": "RPATDDSSTQNKRANRTEEN"
+    },
+    {
+        "core_id": "P46527_DP00018_20",
+        "sequence": "NRTEENVSDGSPNAGSVEQ"
+    },
+    {
+        "core_id": "P46527_DP00018_21",
+        "sequence": "AGSVEQTPKKPGLRRRQT"
+    },
+    {
+        "core_id": "P46527_DP00018_3",
+        "sequence": "HPKPSACRNLF"
+    },
+    {
+        "core_id": "P46527_DP00018_4",
+        "sequence": "ACRNLFGPVDH"
+    },
+    {
+        "core_id": "P46527_DP00018_5",
+        "sequence": "FGPVDHEELTRDLEKH"
+    },
+    {
+        "core_id": "P46527_DP00018_6",
+        "sequence": "RDLEKHCRDME"
+    },
+    {
+        "core_id": "P46527_DP00018_7",
+        "sequence": "HCRDMEEASQRKWNF"
+    },
+    {
+        "core_id": "P46527_DP00018_8",
+        "sequence": "QRKWNFDFQNHKPLE"
+    },
+    {
+        "core_id": "P46984_DP00958_0",
+        "sequence": "MKLPVAQYSAPDGVEKS"
+    },
+    {
+        "core_id": "P46984_DP00958_1",
+        "sequence": "DGVEKSFAPIRDDP"
+    },
+    {
+        "core_id": "P46984_DP00958_10",
+        "sequence": "DEKRIQEEINQLLDGGD"
+    },
+    {
+        "core_id": "P46984_DP00958_11",
+        "sequence": "LLDGGDGDEDAV"
+    },
+    {
+        "core_id": "P46984_DP00958_2",
+        "sequence": "PIRDDPRYMTTEG"
+    },
+    {
+        "core_id": "P46984_DP00958_3",
+        "sequence": "YMTTEGRTTGPSDHVLNAGQ"
+    },
+    {
+        "core_id": "P46984_DP00958_4",
+        "sequence": "VLNAGQIDRDKPSE"
+    },
+    {
+        "core_id": "P46984_DP00958_5",
+        "sequence": "RDKPSEPERTKDGSQLTY"
+    },
+    {
+        "core_id": "P46984_DP00958_6",
+        "sequence": "GSQLTYLGQLRTQLTGL"
+    },
+    {
+        "core_id": "P46984_DP00958_7",
+        "sequence": "TQLTGLQDDINEFLTGRMEL"
+    },
+    {
+        "core_id": "P46984_DP00958_8",
+        "sequence": "TGRMELAKNKKKA"
+    },
+    {
+        "core_id": "P46984_DP00958_9",
+        "sequence": "KNKKKAGADEKRIQ"
+    },
+    {
+        "core_id": "P47710_DP02005_0",
+        "sequence": "MRLLILTCLVAVALARPK"
+    },
+    {
+        "core_id": "P47710_DP02005_1",
+        "sequence": "ALARPKLPLRYPERLQ"
+    },
+    {
+        "core_id": "P47710_DP02005_10",
+        "sequence": "SKCAEQFCRL"
+    },
+    {
+        "core_id": "P47710_DP02005_11",
+        "sequence": "EQFCRLNEYNQLQLQ"
+    },
+    {
+        "core_id": "P47710_DP02005_12",
+        "sequence": "NQLQLQAAHAQEQIRRM"
+    },
+    {
+        "core_id": "P47710_DP02005_13",
+        "sequence": "EQIRRMNENSHVQVPF"
+    },
+    {
+        "core_id": "P47710_DP02005_14",
+        "sequence": "HVQVPFQQLNQLAAYP"
+    },
+    {
+        "core_id": "P47710_DP02005_15",
+        "sequence": "QLAAYPYAVWYYPQIMQYVP"
+    },
+    {
+        "core_id": "P47710_DP02005_16",
+        "sequence": "IMQYVPFPPFSDISNPTAHE"
+    },
+    {
+        "core_id": "P47710_DP02005_17",
+        "sequence": "NPTAHENYEKNNVMLQW"
+    },
+    {
+        "core_id": "P47710_DP02005_2",
+        "sequence": "YPERLQNPSESSEPIPL"
+    },
+    {
+        "core_id": "P47710_DP02005_3",
+        "sequence": "SEPIPLESREEYMNG"
+    },
+    {
+        "core_id": "P47710_DP02005_4",
+        "sequence": "EEYMNGMNRQRNI"
+    },
+    {
+        "core_id": "P47710_DP02005_5",
+        "sequence": "NRQRNILREKQTD"
+    },
+    {
+        "core_id": "P47710_DP02005_6",
+        "sequence": "REKQTDEIKDTRNESTQNC"
+    },
+    {
+        "core_id": "P47710_DP02005_7",
+        "sequence": "ESTQNCVVAEPEKMES"
+    },
+    {
+        "core_id": "P47710_DP02005_8",
+        "sequence": "PEKMESSISSSSE"
+    },
+    {
+        "core_id": "P47710_DP02005_9",
+        "sequence": "ISSSSEEMSLSKCAEQ"
+    },
+    {
+        "core_id": "P48539_DP00592_0",
+        "sequence": "MSERQGAGAT"
+    },
+    {
+        "core_id": "P48539_DP00592_1",
+        "sequence": "QGAGATNGKD"
+    },
+    {
+        "core_id": "P48539_DP00592_2",
+        "sequence": "ATNGKDKTSGENDGQ"
+    },
+    {
+        "core_id": "P48539_DP00592_3",
+        "sequence": "GENDGQKKVQEE"
+    },
+    {
+        "core_id": "P48539_DP00592_4",
+        "sequence": "KKVQEEFDIDMDAPETERAA"
+    },
+    {
+        "core_id": "P48539_DP00592_5",
+        "sequence": "ETERAAVAIQSQFR"
+    },
+    {
+        "core_id": "P48539_DP00592_6",
+        "sequence": "IQSQFRKFQKKKAGSQS"
+    },
+    {
+        "core_id": "P51397_DP03407_0",
+        "sequence": "MSSPPEGKLETKAGHPP"
+    },
+    {
+        "core_id": "P51397_DP03407_1",
+        "sequence": "KAGHPPAVKAGGMR"
+    },
+    {
+        "core_id": "P51397_DP03407_10",
+        "sequence": "SPRTQHIQQPRK"
+    },
+    {
+        "core_id": "P51397_DP03407_2",
+        "sequence": "KAGGMRIVQKHPHTG"
+    },
+    {
+        "core_id": "P51397_DP03407_3",
+        "sequence": "KHPHTGDTKEE"
+    },
+    {
+        "core_id": "P51397_DP03407_4",
+        "sequence": "GDTKEEKDKDDQEWESP"
+    },
+    {
+        "core_id": "P51397_DP03407_5",
+        "sequence": "QEWESPSPPKP"
+    },
+    {
+        "core_id": "P51397_DP03407_6",
+        "sequence": "PSPPKPTVFISG"
+    },
+    {
+        "core_id": "P51397_DP03407_7",
+        "sequence": "TVFISGVIARGDK"
+    },
+    {
+        "core_id": "P51397_DP03407_8",
+        "sequence": "IARGDKDFPPAAAQVAHQKP"
+    },
+    {
+        "core_id": "P51397_DP03407_9",
+        "sequence": "VAHQKPHASMDKHPSPRTQH"
+    },
+    {
+        "core_id": "P52926_DP01876_0",
+        "sequence": "MSARGEGAGQPSTS"
+    },
+    {
+        "core_id": "P52926_DP01876_1",
+        "sequence": "GQPSTSAQGQPAAPAPQKRG"
+    },
+    {
+        "core_id": "P52926_DP01876_10",
+        "sequence": "KPAQEETEETSSQESAEED"
+    },
+    {
+        "core_id": "P52926_DP01876_2",
+        "sequence": "APQKRGRGRPRKQQQE"
+    },
+    {
+        "core_id": "P52926_DP01876_3",
+        "sequence": "RKQQQEPTGEPSPKRPRG"
+    },
+    {
+        "core_id": "P52926_DP01876_4",
+        "sequence": "PKRPRGRPKG"
+    },
+    {
+        "core_id": "P52926_DP01876_5",
+        "sequence": "RGRPKGSKNKSPSKAAQ"
+    },
+    {
+        "core_id": "P52926_DP01876_6",
+        "sequence": "PSKAAQKKAEA"
+    },
+    {
+        "core_id": "P52926_DP01876_7",
+        "sequence": "QKKAEATGEKRPRGR"
+    },
+    {
+        "core_id": "P52926_DP01876_8",
+        "sequence": "KRPRGRPRKWPQQV"
+    },
+    {
+        "core_id": "P52926_DP01876_9",
+        "sequence": "KWPQQVVQKKPAQEE"
+    },
+    {
+        "core_id": "P56211-2_DP03405_0",
+        "sequence": "MEDKVTSPEKAEE"
+    },
+    {
+        "core_id": "P56211-2_DP03405_1",
+        "sequence": "PEKAEEAKLKAR"
+    },
+    {
+        "core_id": "P56211-2_DP03405_2",
+        "sequence": "AKLKARYPHLGQKPGGSD"
+    },
+    {
+        "core_id": "P56211-2_DP03405_3",
+        "sequence": "KPGGSDFLRKRLQKG"
+    },
+    {
+        "core_id": "P56211-2_DP03405_4",
+        "sequence": "KRLQKGQKYFDSGDYNMA"
+    },
+    {
+        "core_id": "P56211-2_DP03405_5",
+        "sequence": "GDYNMAKAKMKNKQLPTA"
+    },
+    {
+        "core_id": "P56211-2_DP03405_6",
+        "sequence": "KQLPTAAPDKTEVT"
+    },
+    {
+        "core_id": "P56211-2_DP03405_7",
+        "sequence": "DKTEVTGDHIPT"
+    },
+    {
+        "core_id": "P56211-2_DP03405_8",
+        "sequence": "GDHIPTPQDLPQRK"
+    },
+    {
+        "core_id": "P56211-2_DP03405_9",
+        "sequence": "DLPQRKPSLVASKLAG"
+    },
+    {
+        "core_id": "P56211_DP03404_0",
+        "sequence": "MSAEVPEAAS"
+    },
+    {
+        "core_id": "P56211_DP03404_1",
+        "sequence": "VPEAASAEEQKEME"
+    },
+    {
+        "core_id": "P56211_DP03404_10",
+        "sequence": "PTAAPDKTEVTGDHIP"
+    },
+    {
+        "core_id": "P56211_DP03404_6",
+        "sequence": "RKRLQKGQKYFD"
+    },
+    {
+        "core_id": "P56211_DP03404_7",
+        "sequence": "GQKYFDSGDYN"
+    },
+    {
+        "core_id": "P56211_DP03404_8",
+        "sequence": "DSGDYNMAKAKMKN"
+    },
+    {
+        "core_id": "P56211_DP03404_9",
+        "sequence": "KAKMKNKQLPTAAPD"
+    },
+    {
+        "core_id": "P56917_DP03819_0",
+        "sequence": "FLPLIGRVLSGIL"
+    },
+    {
+        "core_id": "P57104_DP03818_0",
+        "sequence": "FVQWFSKFLGRIL"
+    },
+    {
+        "core_id": "P61926_DP00015_0",
+        "sequence": "MTDVETTYADFIASGRTGR"
+    },
+    {
+        "core_id": "P61926_DP00015_1",
+        "sequence": "SGRTGRRNAIHDILVS"
+    },
+    {
+        "core_id": "P61926_DP00015_2",
+        "sequence": "HDILVSSASG"
+    },
+    {
+        "core_id": "P61926_DP00015_3",
+        "sequence": "VSSASGNSNE"
+    },
+    {
+        "core_id": "P61926_DP00015_4",
+        "sequence": "SGNSNELALKL"
+    },
+    {
+        "core_id": "P61926_DP00015_5",
+        "sequence": "ELALKLAGLDINK"
+    },
+    {
+        "core_id": "P61926_DP00015_6",
+        "sequence": "GLDINKTEGEEDA"
+    },
+    {
+        "core_id": "P61926_DP00015_7",
+        "sequence": "EGEEDAQRSSTEQSGEAQ"
+    },
+    {
+        "core_id": "P61926_DP00015_8",
+        "sequence": "QSGEAQGEAAKSES"
+    },
+    {
+        "core_id": "P62326_DP00795_0",
+        "sequence": "MSDKPDMAEIEKFD"
+    },
+    {
+        "core_id": "P62326_DP00795_1",
+        "sequence": "EIEKFDKSKLKKT"
+    },
+    {
+        "core_id": "P62326_DP00795_2",
+        "sequence": "SKLKKTETQEKNP"
+    },
+    {
+        "core_id": "P62326_DP00795_3",
+        "sequence": "TQEKNPLPSKET"
+    },
+    {
+        "core_id": "P62326_DP00795_4",
+        "sequence": "LPSKETIEQEKQAGES"
+    },
+    {
+        "core_id": "P62965_DP00340_0",
+        "sequence": "MPNFAGTWKMRSSENFDELL"
+    },
+    {
+        "core_id": "P62965_DP00340_1",
+        "sequence": "NFDELLKALGVNAMLR"
+    },
+    {
+        "core_id": "P62965_DP00340_10",
+        "sequence": "TRELANDELIL"
+    },
+    {
+        "core_id": "P62965_DP00340_11",
+        "sequence": "NDELILTFGA"
+    },
+    {
+        "core_id": "P62965_DP00340_12",
+        "sequence": "ILTFGADDVVCTRIYVRE"
+    },
+    {
+        "core_id": "P62965_DP00340_2",
+        "sequence": "VNAMLRKVAVAAASK"
+    },
+    {
+        "core_id": "P62965_DP00340_3",
+        "sequence": "VAAASKPHVEIRQDGD"
+    },
+    {
+        "core_id": "P62965_DP00340_4",
+        "sequence": "IRQDGDQFYIKTSTTV"
+    },
+    {
+        "core_id": "P62965_DP00340_5",
+        "sequence": "KTSTTVRTTEINFKVGE"
+    },
+    {
+        "core_id": "P62965_DP00340_6",
+        "sequence": "NFKVGEGFEE"
+    },
+    {
+        "core_id": "P62965_DP00340_7",
+        "sequence": "GEGFEEETVDGRKCRSLPTW"
+    },
+    {
+        "core_id": "P62965_DP00340_8",
+        "sequence": "RSLPTWENENKIHCTQTLLE"
+    },
+    {
+        "core_id": "P62965_DP00340_9",
+        "sequence": "TQTLLEGDGPKTYWTRELAN"
+    },
+    {
+        "core_id": "P69346_DP01488_0",
+        "sequence": "MRTISYSEARQNLSATMMK"
+    },
+    {
+        "core_id": "P69346_DP01488_1",
+        "sequence": "SATMMKAVEDHAPILITRQ"
+    },
+    {
+        "core_id": "P69346_DP01488_2",
+        "sequence": "ILITRQNGEACVLMSLEEY"
+    },
+    {
+        "core_id": "P69346_DP01488_3",
+        "sequence": "MSLEEYNSLEETA"
+    },
+    {
+        "core_id": "P69346_DP01488_4",
+        "sequence": "SLEETAYLLRSPANARRL"
+    },
+    {
+        "core_id": "P69346_DP01488_5",
+        "sequence": "ANARRLMDSIDSLKSG"
+    },
+    {
+        "core_id": "P69346_DP01488_6",
+        "sequence": "DSLKSGKGTEKDIIE"
+    },
+    {
+        "core_id": "P69697_DP03535_3",
+        "sequence": "CQVCFITKALG"
+    },
+    {
+        "core_id": "P69697_DP03535_4",
+        "sequence": "ITKALGISYGRKKRRQRRRP"
+    },
+    {
+        "core_id": "P69697_DP03535_5",
+        "sequence": "RQRRRPPQGSQTH"
+    },
+    {
+        "core_id": "P72975_DP03429_0",
+        "sequence": "MQLSYRGVKYDYNPPK"
+    },
+    {
+        "core_id": "P72975_DP03429_1",
+        "sequence": "DYNPPKVETEVLGLAGSY"
+    },
+    {
+        "core_id": "P72975_DP03429_10",
+        "sequence": "DRVRARLHSKTQAIK"
+    },
+    {
+        "core_id": "P72975_DP03429_11",
+        "sequence": "KTQAIKKRQQSLLVRLAEEI"
+    },
+    {
+        "core_id": "P72975_DP03429_12",
+        "sequence": "RLAEEIGLSGDQAVNSAVRI"
+    },
+    {
+        "core_id": "P72975_DP03429_13",
+        "sequence": "NSAVRIQGKVLANF"
+    },
+    {
+        "core_id": "P72975_DP03429_14",
+        "sequence": "KVLANFRSDYASQGVAMS"
+    },
+    {
+        "core_id": "P72975_DP03429_2",
+        "sequence": "GLAGSYRGLDYRFRR"
+    },
+    {
+        "core_id": "P72975_DP03429_3",
+        "sequence": "DYRFRRTTTKN"
+    },
+    {
+        "core_id": "P72975_DP03429_4",
+        "sequence": "RTTTKNVIQPNVNLTY"
+    },
+    {
+        "core_id": "P72975_DP03429_5",
+        "sequence": "NVNLTYRGVS"
+    },
+    {
+        "core_id": "P72975_DP03429_6",
+        "sequence": "TYRGVSFNPAQDLQ"
+    },
+    {
+        "core_id": "P72975_DP03429_7",
+        "sequence": "PAQDLQPELYTANKKVEV"
+    },
+    {
+        "core_id": "P72975_DP03429_8",
+        "sequence": "NKKVEVAAAPS"
+    },
+    {
+        "core_id": "P72975_DP03429_9",
+        "sequence": "VAAAPSQISFQDRVRAR"
+    },
+    {
+        "core_id": "P73124_DP01034_0",
+        "sequence": "MSTQQQARAL"
+    },
+    {
+        "core_id": "P73124_DP01034_2",
+        "sequence": "HHQFIKNRQQSMLS"
+    },
+    {
+        "core_id": "P73124_DP01034_3",
+        "sequence": "QQSMLSRAAAEIGVEA"
+    },
+    {
+        "core_id": "P73124_DP01034_4",
+        "sequence": "EIGVEAEKDFWTTVQG"
+    },
+    {
+        "core_id": "P73124_DP01034_5",
+        "sequence": "WTTVQGKPQSSFRTTYDR"
+    },
+    {
+        "core_id": "P73124_DP01034_6",
+        "sequence": "RTTYDRSNASLS"
+    },
+    {
+        "core_id": "P81455_DP00116_0",
+        "sequence": "YLDSGLGAPVPYPDPLEP"
+    },
+    {
+        "core_id": "P81455_DP00116_1",
+        "sequence": "PDPLEPKREV"
+    },
+    {
+        "core_id": "P81455_DP00116_2",
+        "sequence": "EPKREVCELNPNCDELADHI"
+    },
+    {
+        "core_id": "P81455_DP00116_3",
+        "sequence": "ELADHIGFQEAYQRFYGPV"
+    },
+    {
+        "core_id": "P81558_DP00663_11",
+        "sequence": "RGLSLSRFSW"
+    },
+    {
+        "core_id": "P81558_DP00663_13",
+        "sequence": "QKPGFGYGGR"
+    },
+    {
+        "core_id": "P81558_DP00663_14",
+        "sequence": "FGYGGRAPDYKPAHKGLK"
+    },
+    {
+        "core_id": "P81558_DP00663_15",
+        "sequence": "AHKGLKGAQDAQGTLSKI"
+    },
+    {
+        "core_id": "P81558_DP00663_17",
+        "sequence": "SRSGSPMARR"
+    },
+    {
+        "core_id": "P81558_DP00663_3",
+        "sequence": "LPRHRDTGIDSLGRFF"
+    },
+    {
+        "core_id": "P81558_DP00663_4",
+        "sequence": "SLGRFFGADRGAPKRGSGK"
+    },
+    {
+        "core_id": "P81558_DP00663_5",
+        "sequence": "KRGSGKDGHHAARTTHYG"
+    },
+    {
+        "core_id": "P81558_DP00663_6",
+        "sequence": "RTTHYGSLPQK"
+    },
+    {
+        "core_id": "P81558_DP00663_7",
+        "sequence": "GSLPQKAQHGRPQDEN"
+    },
+    {
+        "core_id": "P81558_DP00663_8",
+        "sequence": "RPQDENPVVHFFKNIVTPR"
+    },
+    {
+        "core_id": "P81558_DP00663_9",
+        "sequence": "NIVTPRTPPPSQG"
+    },
+    {
+        "core_id": "P85800_DP01833_0",
+        "sequence": "SDQGDVAEPKMHKT"
+    },
+    {
+        "core_id": "P85800_DP01833_1",
+        "sequence": "PKMHKTAPPFDFEAIPEEY"
+    },
+    {
+        "core_id": "P85800_DP01833_2",
+        "sequence": "AIPEEYLDDES"
+    },
+    {
+        "core_id": "P9WHN5_DP00877_0",
+        "sequence": "MAQEQTKRGGGGGDDDDIAG"
+    },
+    {
+        "core_id": "P9WHN5_DP00877_1",
+        "sequence": "DDDIAGSTAAGQERREKL"
+    },
+    {
+        "core_id": "P9WHN5_DP00877_2",
+        "sequence": "ERREKLTEETDDLLDEID"
+    },
+    {
+        "core_id": "P9WHN5_DP00877_3",
+        "sequence": "LLDEIDDVLEENAEDFVRA"
+    },
+    {
+        "core_id": "P9WHN5_DP00877_4",
+        "sequence": "EDFVRAYVQKGGQ"
+    },
+    {
+        "core_id": "Q01417_DP00664_0",
+        "sequence": "MQGGKKAGESIKETATNIGA"
+    },
+    {
+        "core_id": "Q01417_DP00664_1",
+        "sequence": "ATNIGASAKAGME"
+    },
+    {
+        "core_id": "Q01417_DP00664_10",
+        "sequence": "TGEYGQPMGAH"
+    },
+    {
+        "core_id": "Q01417_DP00664_11",
+        "sequence": "QPMGAHQTSAMPGH"
+    },
+    {
+        "core_id": "Q01417_DP00664_12",
+        "sequence": "SAMPGHGTGQPTGHVTEG"
+    },
+    {
+        "core_id": "Q01417_DP00664_13",
+        "sequence": "GHVTEGVVGSHPIG"
+    },
+    {
+        "core_id": "Q01417_DP00664_14",
+        "sequence": "GSHPIGTNRGPGGTATAHNT"
+    },
+    {
+        "core_id": "Q01417_DP00664_15",
+        "sequence": "ATAHNTRAGGKPNDYG"
+    },
+    {
+        "core_id": "Q01417_DP00664_16",
+        "sequence": "KPNDYGYGTGGT"
+    },
+    {
+        "core_id": "Q01417_DP00664_2",
+        "sequence": "AKAGMEKTKATVQEK"
+    },
+    {
+        "core_id": "Q01417_DP00664_3",
+        "sequence": "ATVQEKAERMTARDPV"
+    },
+    {
+        "core_id": "Q01417_DP00664_4",
+        "sequence": "TARDPVQKELA"
+    },
+    {
+        "core_id": "Q01417_DP00664_5",
+        "sequence": "VQKELATQKKEAKMNQAELD"
+    },
+    {
+        "core_id": "Q01417_DP00664_6",
+        "sequence": "NQAELDKQAARQHNT"
+    },
+    {
+        "core_id": "Q01417_DP00664_7",
+        "sequence": "ARQHNTAAKQSATTAGHMG"
+    },
+    {
+        "core_id": "Q01417_DP00664_8",
+        "sequence": "TAGHMGHGHHTTGTG"
+    },
+    {
+        "core_id": "Q01417_DP00664_9",
+        "sequence": "HTTGTGTGTATYSTTGEYGQ"
+    },
+    {
+        "core_id": "Q02973_DP04012_0",
+        "sequence": "MASQQEKKQLDERAKK"
+    },
+    {
+        "core_id": "Q02973_DP04012_1",
+        "sequence": "DERAKKGETVVPGGTGG"
+    },
+    {
+        "core_id": "Q02973_DP04012_2",
+        "sequence": "PGGTGGKSFEAQQ"
+    },
+    {
+        "core_id": "Q02973_DP04012_3",
+        "sequence": "SFEAQQHLAEGRSRGG"
+    },
+    {
+        "core_id": "Q02973_DP04012_4",
+        "sequence": "GRSRGGQTRKEQLGT"
+    },
+    {
+        "core_id": "Q02973_DP04012_5",
+        "sequence": "KEQLGTEGYQQMGRKGG"
+    },
+    {
+        "core_id": "Q02973_DP04012_6",
+        "sequence": "MGRKGGLSTGDKPGGE"
+    },
+    {
+        "core_id": "Q02973_DP04012_7",
+        "sequence": "DKPGGEHAEEEGVEID"
+    },
+    {
+        "core_id": "Q02973_DP04012_8",
+        "sequence": "EGVEIDESKFRTKT"
+    },
+    {
+        "core_id": "Q04964_DP01559_0",
+        "sequence": "MQNSQDYFYAQNRCQQ"
+    },
+    {
+        "core_id": "Q04964_DP01559_1",
+        "sequence": "QNRCQQQQAPSTLR"
+    },
+    {
+        "core_id": "Q04964_DP01559_2",
+        "sequence": "APSTLRTVTMAEFRRVPLP"
+    },
+    {
+        "core_id": "Q04964_DP01559_3",
+        "sequence": "RRVPLPPMAEVPMLSTQNS"
+    },
+    {
+        "core_id": "Q04964_DP01559_4",
+        "sequence": "LSTQNSMGSS"
+    },
+    {
+        "core_id": "Q04964_DP01559_5",
+        "sequence": "NSMGSSASASASSLEMWEK"
+    },
+    {
+        "core_id": "Q04964_DP01559_6",
+        "sequence": "LEMWEKDLEER"
+    },
+    {
+        "core_id": "Q04964_DP01559_7",
+        "sequence": "KDLEERLNSIDHD"
+    },
+    {
+        "core_id": "Q04964_DP01559_8",
+        "sequence": "NSIDHDMNNNKFGSGELKSM"
+    },
+    {
+        "core_id": "Q04964_DP01559_9",
+        "sequence": "GELKSMFNQGKVEEMDF"
+    },
+    {
+        "core_id": "Q06253_DP00288_0",
+        "sequence": "MQSINFRTARGNLSEVLNNV"
+    },
+    {
+        "core_id": "Q06253_DP00288_1",
+        "sequence": "EVLNNVEAGE"
+    },
+    {
+        "core_id": "Q06253_DP00288_2",
+        "sequence": "NVEAGEEVEITRR"
+    },
+    {
+        "core_id": "Q06253_DP00288_3",
+        "sequence": "VEITRRGREPA"
+    },
+    {
+        "core_id": "Q06253_DP00288_4",
+        "sequence": "RGREPAVIVS"
+    },
+    {
+        "core_id": "Q06253_DP00288_5",
+        "sequence": "PAVIVSKATFEAYKK"
+    },
+    {
+        "core_id": "Q06253_DP00288_6",
+        "sequence": "FEAYKKAALDA"
+    },
+    {
+        "core_id": "Q06253_DP00288_7",
+        "sequence": "KAALDAEFASLFDTLDST"
+    },
+    {
+        "core_id": "Q06253_DP00288_8",
+        "sequence": "DTLDSTNKELVNR"
+    },
+    {
+        "core_id": "Q07475_DP03067_0",
+        "sequence": "MVYYPELLVWVS"
+    },
+    {
+        "core_id": "Q07475_DP03067_1",
+        "sequence": "LLVWVSQEPFA"
+    },
+    {
+        "core_id": "Q07475_DP03067_2",
+        "sequence": "SQEPFAYKEMEGGLIKG"
+    },
+    {
+        "core_id": "Q07475_DP03067_3",
+        "sequence": "GGLIKGRLPVPKEVN"
+    },
+    {
+        "core_id": "Q07475_DP03067_4",
+        "sequence": "VPKEVNRKKMEETGAASLT"
+    },
+    {
+        "core_id": "Q07475_DP03067_5",
+        "sequence": "GAASLTPPGSREFT"
+    },
+    {
+        "core_id": "Q07475_DP03067_6",
+        "sequence": "GSREFTSPATSYLHPF"
+    },
+    {
+        "core_id": "Q08655_DP00531_0",
+        "sequence": "MEEEKHHHHHL"
+    },
+    {
+        "core_id": "Q08655_DP00531_1",
+        "sequence": "HHHHHLFHHKDK"
+    },
+    {
+        "core_id": "Q08655_DP00531_10",
+        "sequence": "FAFHEHHEKKDAK"
+    },
+    {
+        "core_id": "Q08655_DP00531_11",
+        "sequence": "EKKDAKKEEKKKLRGDTTI"
+    },
+    {
+        "core_id": "Q08655_DP00531_12",
+        "sequence": "RGDTTISSKLLF"
+    },
+    {
+        "core_id": "Q08655_DP00531_2",
+        "sequence": "FHHKDKAEEGP"
+    },
+    {
+        "core_id": "Q08655_DP00531_3",
+        "sequence": "KAEEGPVDYEKEIKHHKHL"
+    },
+    {
+        "core_id": "Q08655_DP00531_4",
+        "sequence": "KHHKHLEQIGK"
+    },
+    {
+        "core_id": "Q08655_DP00531_5",
+        "sequence": "LEQIGKLGTVAAGAYALHEK"
+    },
+    {
+        "core_id": "Q08655_DP00531_6",
+        "sequence": "YALHEKHEAKKDP"
+    },
+    {
+        "core_id": "Q08655_DP00531_7",
+        "sequence": "EAKKDPEHAHKHKIEE"
+    },
+    {
+        "core_id": "Q08655_DP00531_8",
+        "sequence": "KHKIEEEIAAA"
+    },
+    {
+        "core_id": "Q13541_DP00028_0",
+        "sequence": "MSGGSSCSQTP"
+    },
+    {
+        "core_id": "Q13541_DP00028_1",
+        "sequence": "SCSQTPSRAIPATRRV"
+    },
+    {
+        "core_id": "Q13541_DP00028_10",
+        "sequence": "PPMEASQSHLRNSPEDKRAG"
+    },
+    {
+        "core_id": "Q13541_DP00028_11",
+        "sequence": "EDKRAGGEESQFEMDI"
+    },
+    {
+        "core_id": "Q13541_DP00028_2",
+        "sequence": "PATRRVVLGDGVQL"
+    },
+    {
+        "core_id": "Q13541_DP00028_3",
+        "sequence": "GDGVQLPPGDYSTTPGG"
+    },
+    {
+        "core_id": "Q13541_DP00028_4",
+        "sequence": "STTPGGTLFSTTPGGTRIIY"
+    },
+    {
+        "core_id": "Q13541_DP00028_5",
+        "sequence": "GTRIIYDRKFLMECR"
+    },
+    {
+        "core_id": "Q13541_DP00028_6",
+        "sequence": "FLMECRNSPVTK"
+    },
+    {
+        "core_id": "Q13541_DP00028_7",
+        "sequence": "NSPVTKTPPRDLPTI"
+    },
+    {
+        "core_id": "Q13541_DP00028_8",
+        "sequence": "RDLPTIPGVTSPSSD"
+    },
+    {
+        "core_id": "Q13541_DP00028_9",
+        "sequence": "TSPSSDEPPMEAS"
+    },
+    {
+        "core_id": "Q13542_DP01293_0",
+        "sequence": "MSSSAGSGHQPSQS"
+    },
+    {
+        "core_id": "Q13542_DP01293_1",
+        "sequence": "HQPSQSRAIPTRT"
+    },
+    {
+        "core_id": "Q13542_DP01293_10",
+        "sequence": "HLPNIPGVTSPGTLIED"
+    },
+    {
+        "core_id": "Q13542_DP01293_11",
+        "sequence": "GTLIEDSKVEVNNL"
+    },
+    {
+        "core_id": "Q13542_DP01293_12",
+        "sequence": "VEVNNLNNLNNHDRKHAVG"
+    },
+    {
+        "core_id": "Q13542_DP01293_13",
+        "sequence": "RKHAVGDDAQFEMDI"
+    },
+    {
+        "core_id": "Q13542_DP01293_2",
+        "sequence": "AIPTRTVAISD"
+    },
+    {
+        "core_id": "Q13542_DP01293_3",
+        "sequence": "TVAISDAAQLPHD"
+    },
+    {
+        "core_id": "Q13542_DP01293_4",
+        "sequence": "AQLPHDYCTTPGGTL"
+    },
+    {
+        "core_id": "Q13542_DP01293_5",
+        "sequence": "TPGGTLFSTTP"
+    },
+    {
+        "core_id": "Q13542_DP01293_6",
+        "sequence": "LFSTTPGGTRIIYDRKFL"
+    },
+    {
+        "core_id": "Q13542_DP01293_7",
+        "sequence": "YDRKFLLDRRNS"
+    },
+    {
+        "core_id": "Q13542_DP01293_8",
+        "sequence": "LDRRNSPMAQTPP"
+    },
+    {
+        "core_id": "Q13542_DP01293_9",
+        "sequence": "MAQTPPCHLPNIP"
+    },
+    {
+        "core_id": "Q14061_DP00543_0",
+        "sequence": "MPGLVDSNPAPPE"
+    },
+    {
+        "core_id": "Q14061_DP00543_1",
+        "sequence": "NPAPPESQEKKPLKPCCACP"
+    },
+    {
+        "core_id": "Q14061_DP00543_2",
+        "sequence": "PCCACPETKKARDAC"
+    },
+    {
+        "core_id": "Q14061_DP00543_3",
+        "sequence": "KARDACIIEKGEE"
+    },
+    {
+        "core_id": "Q14061_DP00543_4",
+        "sequence": "IEKGEEHCGHLIEA"
+    },
+    {
+        "core_id": "Q14061_DP00543_5",
+        "sequence": "GHLIEAHKECMRALGFKI"
+    },
+    {
+        "core_id": "Q15004_DP01425_0",
+        "sequence": "MVRTKADSVPGTYRKVV"
+    },
+    {
+        "core_id": "Q15004_DP01425_1",
+        "sequence": "TYRKVVAARAP"
+    },
+    {
+        "core_id": "Q15004_DP01425_10",
+        "sequence": "GLGKAKRKAC"
+    },
+    {
+        "core_id": "Q15004_DP01425_11",
+        "sequence": "AKRKACPLQPDHTNDEKE"
+    },
+    {
+        "core_id": "Q15004_DP01425_2",
+        "sequence": "VAARAPRKVL"
+    },
+    {
+        "core_id": "Q15004_DP01425_3",
+        "sequence": "APRKVLGSSTSATNSTSVS"
+    },
+    {
+        "core_id": "Q15004_DP01425_4",
+        "sequence": "NSTSVSSRKAENKY"
+    },
+    {
+        "core_id": "Q15004_DP01425_5",
+        "sequence": "KAENKYAGGNPVCVRPT"
+    },
+    {
+        "core_id": "Q15004_DP01425_6",
+        "sequence": "VCVRPTPKWQKGIGEFF"
+    },
+    {
+        "core_id": "Q15004_DP01425_7",
+        "sequence": "GIGEFFRLSPKDSEKEN"
+    },
+    {
+        "core_id": "Q15004_DP01425_8",
+        "sequence": "DSEKENQIPEEAGSS"
+    },
+    {
+        "core_id": "Q15004_DP01425_9",
+        "sequence": "EEAGSSGLGKAK"
+    },
+    {
+        "core_id": "Q16143_DP00555_0",
+        "sequence": "MDVFMKGLSMAKEGVVAA"
+    },
+    {
+        "core_id": "Q16143_DP00555_1",
+        "sequence": "EGVVAAAEKTKQGV"
+    },
+    {
+        "core_id": "Q16143_DP00555_10",
+        "sequence": "GLVKREEFPTDLKP"
+    },
+    {
+        "core_id": "Q16143_DP00555_11",
+        "sequence": "PTDLKPEEVAQEAA"
+    },
+    {
+        "core_id": "Q16143_DP00555_12",
+        "sequence": "VAQEAAEEPLIEPLMEPEG"
+    },
+    {
+        "core_id": "Q16143_DP00555_13",
+        "sequence": "LMEPEGESYEDPP"
+    },
+    {
+        "core_id": "Q16143_DP00555_14",
+        "sequence": "SYEDPPQEEYQEYEPEA"
+    },
+    {
+        "core_id": "Q16143_DP00555_2",
+        "sequence": "KTKQGVTEAAEKTKEGVLYV"
+    },
+    {
+        "core_id": "Q16143_DP00555_3",
+        "sequence": "EGVLYVGSKTR"
+    },
+    {
+        "core_id": "Q16143_DP00555_4",
+        "sequence": "VGSKTREGVVQG"
+    },
+    {
+        "core_id": "Q16143_DP00555_5",
+        "sequence": "EGVVQGVASVAEKT"
+    },
+    {
+        "core_id": "Q16143_DP00555_6",
+        "sequence": "SVAEKTKEQAS"
+    },
+    {
+        "core_id": "Q16143_DP00555_7",
+        "sequence": "TKEQASHLGGA"
+    },
+    {
+        "core_id": "Q16143_DP00555_8",
+        "sequence": "SHLGGAVFSGAGNIAAAT"
+    },
+    {
+        "core_id": "Q16143_DP00555_9",
+        "sequence": "NIAAATGLVKRE"
+    },
+    {
+        "core_id": "Q1PAB4_DP01087_3",
+        "sequence": "SQPRTACTNCYCK"
+    },
+    {
+        "core_id": "Q1PAB4_DP01087_4",
+        "sequence": "TNCYCKKCCF"
+    },
+    {
+        "core_id": "Q1PAB4_DP01087_5",
+        "sequence": "CKKCCFHCQVCFIRKALGI"
+    },
+    {
+        "core_id": "Q1PAB4_DP01087_6",
+        "sequence": "RKALGISYGRKK"
+    },
+    {
+        "core_id": "Q1PAB4_DP01087_7",
+        "sequence": "SYGRKKRRQRRRA"
+    },
+    {
+        "core_id": "Q1PAB4_DP01087_8",
+        "sequence": "RQRRRAPQDSET"
+    },
+    {
+        "core_id": "Q1PAB4_DP01087_9",
+        "sequence": "PQDSETHQVSPPKQPAS"
+    },
+    {
+        "core_id": "Q61585_DP03367_0",
+        "sequence": "MESVQELIPLAKE"
+    },
+    {
+        "core_id": "Q61585_DP03367_1",
+        "sequence": "IPLAKEMMAQKPRGKL"
+    },
+    {
+        "core_id": "Q61585_DP03367_2",
+        "sequence": "KPRGKLVKLYVLGSVLALF"
+    },
+    {
+        "core_id": "Q61585_DP03367_3",
+        "sequence": "SVLALFGVVLGLVET"
+    },
+    {
+        "core_id": "Q61585_DP03367_4",
+        "sequence": "LGLVETVCSPFTAASRLRD"
+    },
+    {
+        "core_id": "Q61585_DP03367_5",
+        "sequence": "ASRLRDQEAAVVEL"
+    },
+    {
+        "core_id": "Q61585_DP03367_6",
+        "sequence": "AAVVELREACEQQS"
+    },
+    {
+        "core_id": "Q61585_DP03367_7",
+        "sequence": "ACEQQSLHKQ"
+    },
+    {
+        "core_id": "Q61585_DP03367_8",
+        "sequence": "QSLHKQALLAGGKAQEATLC"
+    },
+    {
+        "core_id": "Q61585_DP03367_9",
+        "sequence": "QEATLCSRALSLRQHAS"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_0",
+        "sequence": "MKRLLVLSILLTL"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_1",
+        "sequence": "SILLTLGFSFAGTASAD"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_10",
+        "sequence": "TPGGSEKAGTGRQ"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_2",
+        "sequence": "GTASADENANRPVNP"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_3",
+        "sequence": "NRPVNPGEDPNEAFR"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_4",
+        "sequence": "PNEAFRSTPFEATTSA"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_5",
+        "sequence": "EATTSALGDCRECI"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_6",
+        "sequence": "DCRECIAYRTGATTGK"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_7",
+        "sequence": "GATTGKGSRRHDDT"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_8",
+        "sequence": "RRHDDTVSREI"
+    },
+    {
+        "core_id": "Q6MRH6_DP01069_9",
+        "sequence": "TVSREIKGSSATPGGSE"
+    },
+    {
+        "core_id": "Q72500_DP03543_0",
+        "sequence": "MEQAPEDQGP"
+    },
+    {
+        "core_id": "Q72500_DP03543_1",
+        "sequence": "PEDQGPQREPYNEWTLELL"
+    },
+    {
+        "core_id": "Q72500_DP03543_2",
+        "sequence": "WTLELLEELKSEAVRHFP"
+    },
+    {
+        "core_id": "Q72500_DP03543_3",
+        "sequence": "AVRHFPRIWLHNLGR"
+    },
+    {
+        "core_id": "Q72500_DP03543_4",
+        "sequence": "LHNLGRHIYETYGDTWAGV"
+    },
+    {
+        "core_id": "Q72500_DP03543_5",
+        "sequence": "DTWAGVEAIIRIL"
+    },
+    {
+        "core_id": "Q72500_DP03543_6",
+        "sequence": "AIIRILQQLPFIHFRIGCRH"
+    },
+    {
+        "core_id": "Q72500_DP03543_7",
+        "sequence": "RIGCRHSRIGV"
+    },
+    {
+        "core_id": "Q72500_DP03543_8",
+        "sequence": "HSRIGVTRQRRARNGASRS"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_0",
+        "sequence": "MPPIATRRGQ"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_1",
+        "sequence": "ATRRGQYEPKVQQAKLSP"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_2",
+        "sequence": "QAKLSPDTIP"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_3",
+        "sequence": "SPDTIPLNPADKTKD"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_4",
+        "sequence": "ADKTKDPLARADS"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_5",
+        "sequence": "LARADSLHHHVESDSQEDDK"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_6",
+        "sequence": "SQEDDKAAEEP"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_7",
+        "sequence": "KAAEEPPLSRKRWQNRTFRR"
+    },
+    {
+        "core_id": "Q7YUB9_DP01074_8",
+        "sequence": "NRTFRRKGRRQAPYKHK"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_0",
+        "sequence": "MSAALLRRGLELLAAS"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_1",
+        "sequence": "ELLAASEAPRDPPGQA"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_10",
+        "sequence": "ILRQNRGRKACD"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_11",
+        "sequence": "GRKACDRPVAK"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_12",
+        "sequence": "DRPVAKTKKKKA"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_13",
+        "sequence": "TKKKKAEGTVFTEE"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_14",
+        "sequence": "TVFTEEDFQKFQQEYFGS"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_2",
+        "sequence": "DPPGQAKPRGAPVKRPRKTK"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_3",
+        "sequence": "RPRKTKAIQAQ"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_4",
+        "sequence": "KAIQAQKLRNSAKGKVP"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_5",
+        "sequence": "AKGKVPKSALDEYRKRE"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_6",
+        "sequence": "EYRKRECRDHL"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_7",
+        "sequence": "ECRDHLRVNLK"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_8",
+        "sequence": "LRVNLKFLTRTRSTV"
+    },
+    {
+        "core_id": "Q86WX3_DP03988_9",
+        "sequence": "RTRSTVAESVSQQILRQNR"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_0",
+        "sequence": "METLKSKTKTRVLPSWMTA"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_1",
+        "sequence": "PSWMTAPVDERKVVSVK"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_10",
+        "sequence": "TDKLQLSPPCSSS"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_11",
+        "sequence": "PPCSSSPGSSSEEE"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_12",
+        "sequence": "SSSEEEDSRISSLAPGLSPP"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_13",
+        "sequence": "PGLSPPRGPEASDSPCSRS"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_14",
+        "sequence": "SPCSRSPEEEKEEEDALKYV"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_15",
+        "sequence": "DALKYVREIFFS"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_2",
+        "sequence": "KVVSVKTATRKQTA"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_3",
+        "sequence": "TRKQTAAWAQ"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_4",
+        "sequence": "TAAWAQRVGAATR"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_5",
+        "sequence": "VGAATRAPATETVY"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_6",
+        "sequence": "ATETVYCMNEAEMV"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_7",
+        "sequence": "NEAEMVDVALGILIEGR"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_8",
+        "sequence": "ILIEGRKQEKP"
+    },
+    {
+        "core_id": "Q8BHZ5_DP01754_9",
+        "sequence": "RKQEKPWEQRSLEATDKLQL"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_0",
+        "sequence": "MSSLPFVFGAAA"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_1",
+        "sequence": "VFGAAASSRVVTAAAAK"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_2",
+        "sequence": "TAAAAKGTAETK"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_3",
+        "sequence": "GTAETKQEKSFVDWLLGKI"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_4",
+        "sequence": "WLLGKITKEDQFYETDPI"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_5",
+        "sequence": "YETDPILRGG"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_6",
+        "sequence": "PILRGGDVKSSGSTSG"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_7",
+        "sequence": "SGSTSGKKGGTTSGKKGTV"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_8",
+        "sequence": "GKKGTVSIPSKKKNGNGGV"
+    },
+    {
+        "core_id": "Q8GT36_DP01055_9",
+        "sequence": "NGNGGVFGGLFAKKD"
+    },
+    {
+        "core_id": "Q8IVG9_DP02267_0",
+        "sequence": "MAPRGFSCLLLLT"
+    },
+    {
+        "core_id": "Q8IVG9_DP02267_1",
+        "sequence": "CLLLLTSEIDLPVKRRA"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_0",
+        "sequence": "MVRRFLVTLRI"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_1",
+        "sequence": "LVTLRIRRACGPPRVRVFVV"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_10",
+        "sequence": "RPSGGAAAAPRRGA"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_11",
+        "sequence": "APRRGAQLRRPRHSH"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_12",
+        "sequence": "RPRHSHPTRARRCPG"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_13",
+        "sequence": "ARRCPGGLPGHAGGAA"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_14",
+        "sequence": "HAGGAAPGRGAA"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_15",
+        "sequence": "PGRGAAGRARCLGPSARGPG"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_2",
+        "sequence": "VRVFVVHIPRL"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_3",
+        "sequence": "VHIPRLTGEWAAPGAPA"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_4",
+        "sequence": "APGAPAAVALVL"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_5",
+        "sequence": "AVALVLMLLRSQRL"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_6",
+        "sequence": "LRSQRLGQQP"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_7",
+        "sequence": "RLGQQPLPRR"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_8",
+        "sequence": "QPLPRRPGHDDGQRP"
+    },
+    {
+        "core_id": "Q8N726-1_DP02167_9",
+        "sequence": "DDGQRPSGGA"
+    },
+    {
+        "core_id": "Q8WXC6_DP04270_0",
+        "sequence": "MKPAVDEMFPEGAGPYV"
+    },
+    {
+        "core_id": "Q8WXC6_DP04270_1",
+        "sequence": "GAGPYVDLDEAGGST"
+    },
+    {
+        "core_id": "Q8WXC6_DP04270_2",
+        "sequence": "EAGGSTGLLMDL"
+    },
+    {
+        "core_id": "Q8WXC6_DP04270_3",
+        "sequence": "GLLMDLAANEKAVHA"
+    },
+    {
+        "core_id": "Q8WXC6_DP04270_4",
+        "sequence": "EKAVHADFFNDFED"
+    },
+    {
+        "core_id": "Q8WXC6_DP04270_5",
+        "sequence": "FNDFEDLFDDDDIQ"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_0",
+        "sequence": "MGCGGSRADAIEPRYYESW"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_1",
+        "sequence": "RYYESWTRETESTWL"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_10",
+        "sequence": "KKTNCETQCPNP"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_11",
+        "sequence": "TQCPNPQSLSSGPLTQKQNG"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_12",
+        "sequence": "TQKQNGLQTTE"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_13",
+        "sequence": "GLQTTEAKRDAKRMPAKEVT"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_14",
+        "sequence": "PAKEVTINVTDSIQQMDRSR"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_15",
+        "sequence": "QMDRSRRITKNCVN"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_2",
+        "sequence": "TESTWLTYTDSDA"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_3",
+        "sequence": "YTDSDAPPSAAAPDSGPEAG"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_4",
+        "sequence": "SGPEAGGLHSVLE"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_5",
+        "sequence": "LHSVLEAEKSKIKAPTDSV"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_6",
+        "sequence": "APTDSVSDEGLFSA"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_7",
+        "sequence": "EGLFSASKMAPLAVFSHGML"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_8",
+        "sequence": "FSHGMLEDGLPSNGVPRSTA"
+    },
+    {
+        "core_id": "Q8WXS3-1_DP03403_9",
+        "sequence": "VPRSTAPGGIPNPEKKTNCE"
+    },
+    {
+        "core_id": "Q8XAD5_DP02878_0",
+        "sequence": "MNRALSPMVSEFETIEQE"
+    },
+    {
+        "core_id": "Q8XAD5_DP02878_1",
+        "sequence": "ETIEQENSYNEWLRAK"
+    },
+    {
+        "core_id": "Q8XAD5_DP02878_2",
+        "sequence": "EWLRAKVATSLADPRPAIP"
+    },
+    {
+        "core_id": "Q8XAD5_DP02878_3",
+        "sequence": "PRPAIPHDEVERRMAERFAK"
+    },
+    {
+        "core_id": "Q8XAD5_DP02878_4",
+        "sequence": "AERFAKMRKERSKQ"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_0",
+        "sequence": "MEPPQCVEELEDDVFQSE"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_1",
+        "sequence": "DVFQSEDGEPGTQPGG"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_10",
+        "sequence": "GVMLPCGVTEEPQRL"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_11",
+        "sequence": "EEPQRLFYGNAGYRLP"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_12",
+        "sequence": "AGYRLPLPASFPAGSPLGEQ"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_13",
+        "sequence": "SPLGEQPPEGQFL"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_14",
+        "sequence": "PEGQFLQHRAEVQI"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_15",
+        "sequence": "RAEVQIARKLQC"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_16",
+        "sequence": "ARKLQCIADQF"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_17",
+        "sequence": "CIADQFHRLHTQQHQQ"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_18",
+        "sequence": "TQQHQQNRDR"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_19",
+        "sequence": "QQNRDRAWWQVFLFLQN"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_2",
+        "sequence": "GTQPGGLLSADLFAQSQLD"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_20",
+        "sequence": "FLFLQNLALNRQE"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_21",
+        "sequence": "ALNRQENREGVGPW"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_3",
+        "sequence": "AQSQLDCPLSRL"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_4",
+        "sequence": "CPLSRLQLFPLTH"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_5",
+        "sequence": "LFPLTHCCGPGL"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_6",
+        "sequence": "CCGPGLRPISQE"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_7",
+        "sequence": "RPISQEDKATQTLSPA"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_8",
+        "sequence": "QTLSPASPSQ"
+    },
+    {
+        "core_id": "Q91ZE9_DP00645_9",
+        "sequence": "PASPSQGVMLPC"
+    },
+    {
+        "core_id": "Q94K79_DP04010_0",
+        "sequence": "MEAGKTPPTTTTTTEKKT"
+    },
+    {
+        "core_id": "Q94K79_DP04010_1",
+        "sequence": "TTEKKTEQVKDNDL"
+    },
+    {
+        "core_id": "Q94K79_DP04010_2",
+        "sequence": "VKDNDLPTDSPYMATGT"
+    },
+    {
+        "core_id": "Q94K79_DP04010_3",
+        "sequence": "YMATGTLEDHKLKAYGAE"
+    },
+    {
+        "core_id": "Q94K79_DP04010_4",
+        "sequence": "KAYGAEGHQEPTPGLGGGS"
+    },
+    {
+        "core_id": "Q94K79_DP04010_5",
+        "sequence": "GLGGGSTDAPTPSGDA"
+    },
+    {
+        "core_id": "Q94K79_DP04010_6",
+        "sequence": "TPSGDAPAATTTDAKAP"
+    },
+    {
+        "core_id": "Q95V77_DP00186_0",
+        "sequence": "MSSQQNQNRQGE"
+    },
+    {
+        "core_id": "Q95V77_DP00186_1",
+        "sequence": "QNRQGEQQEQGYMEA"
+    },
+    {
+        "core_id": "Q95V77_DP00186_10",
+        "sequence": "RAGEKMDETKQ"
+    },
+    {
+        "core_id": "Q95V77_DP00186_11",
+        "sequence": "MDETKQRAGEMRENA"
+    },
+    {
+        "core_id": "Q95V77_DP00186_12",
+        "sequence": "EMRENAGQKMEEYK"
+    },
+    {
+        "core_id": "Q95V77_DP00186_13",
+        "sequence": "KMEEYKQQGKGKA"
+    },
+    {
+        "core_id": "Q95V77_DP00186_14",
+        "sequence": "QGKGKAEELR"
+    },
+    {
+        "core_id": "Q95V77_DP00186_15",
+        "sequence": "KAEELRDTAAEKL"
+    },
+    {
+        "core_id": "Q95V77_DP00186_16",
+        "sequence": "TAAEKLHQAGEKVKGRD"
+    },
+    {
+        "core_id": "Q95V77_DP00186_2",
+        "sequence": "QGYMEAAKEKVV"
+    },
+    {
+        "core_id": "Q95V77_DP00186_3",
+        "sequence": "AKEKVVNAWESTKETLSS"
+    },
+    {
+        "core_id": "Q95V77_DP00186_4",
+        "sequence": "KETLSSTAQAAAEKTAEF"
+    },
+    {
+        "core_id": "Q95V77_DP00186_5",
+        "sequence": "EKTAEFRDSA"
+    },
+    {
+        "core_id": "Q95V77_DP00186_6",
+        "sequence": "EFRDSAGETIRDLTGQAQE"
+    },
+    {
+        "core_id": "Q95V77_DP00186_7",
+        "sequence": "TGQAQEKGQEFKERA"
+    },
+    {
+        "core_id": "Q95V77_DP00186_8",
+        "sequence": "EFKERAGEKAEETKQRA"
+    },
+    {
+        "core_id": "Q95V77_DP00186_9",
+        "sequence": "ETKQRAGEKM"
+    },
+    {
+        "core_id": "Q96270_DP01858_0",
+        "sequence": "MASHQEQSYK"
+    },
+    {
+        "core_id": "Q96270_DP01858_1",
+        "sequence": "QEQSYKAGETRG"
+    },
+    {
+        "core_id": "Q96270_DP01858_10",
+        "sequence": "HDAAEYTKETAEAGKEKTSG"
+    },
+    {
+        "core_id": "Q96270_DP01858_11",
+        "sequence": "KEKTSGILGQTGEQVKQ"
+    },
+    {
+        "core_id": "Q96270_DP01858_12",
+        "sequence": "GEQVKQMAMGA"
+    },
+    {
+        "core_id": "Q96270_DP01858_13",
+        "sequence": "QMAMGATDAVKHTLGLR"
+    },
+    {
+        "core_id": "Q96270_DP01858_14",
+        "sequence": "HTLGLRTDEGNKEHV"
+    },
+    {
+        "core_id": "Q96270_DP01858_15",
+        "sequence": "GNKEHVSSAPSTTTTT"
+    },
+    {
+        "core_id": "Q96270_DP01858_16",
+        "sequence": "STTTTTTTRETQRK"
+    },
+    {
+        "core_id": "Q96270_DP01858_2",
+        "sequence": "AGETRGKAQEKTGEAMG"
+    },
+    {
+        "core_id": "Q96270_DP01858_3",
+        "sequence": "TGEAMGTMGDKTQAAKDK"
+    },
+    {
+        "core_id": "Q96270_DP01858_4",
+        "sequence": "QAAKDKTQETAQSAQQKAHE"
+    },
+    {
+        "core_id": "Q96270_DP01858_5",
+        "sequence": "QQKAHETAQSAKDKTSQ"
+    },
+    {
+        "core_id": "Q96270_DP01858_6",
+        "sequence": "KDKTSQAAQTTQER"
+    },
+    {
+        "core_id": "Q96270_DP01858_7",
+        "sequence": "QTTQERAQESKD"
+    },
+    {
+        "core_id": "Q96270_DP01858_8",
+        "sequence": "AQESKDKTGSYMSETGEAI"
+    },
+    {
+        "core_id": "Q96270_DP01858_9",
+        "sequence": "ETGEAIKNKAHDAAEY"
+    },
+    {
+        "core_id": "Q96273_DP01299_0",
+        "sequence": "MQSAKEKISDMASTAKEK"
+    },
+    {
+        "core_id": "Q96273_DP01299_1",
+        "sequence": "STAKEKLNIGGAKAQGHAE"
+    },
+    {
+        "core_id": "Q96273_DP01299_10",
+        "sequence": "PTRATGANYPPGQI"
+    },
+    {
+        "core_id": "Q96273_DP01299_2",
+        "sequence": "AQGHAEKTMARTKK"
+    },
+    {
+        "core_id": "Q96273_DP01299_3",
+        "sequence": "MARTKKEKKLA"
+    },
+    {
+        "core_id": "Q96273_DP01299_4",
+        "sequence": "KEKKLAQEREKSK"
+    },
+    {
+        "core_id": "Q96273_DP01299_5",
+        "sequence": "EREKSKEAQAKADL"
+    },
+    {
+        "core_id": "Q96273_DP01299_6",
+        "sequence": "QAKADLHQSKAEH"
+    },
+    {
+        "core_id": "Q96273_DP01299_7",
+        "sequence": "QSKAEHAADAQVHGH"
+    },
+    {
+        "core_id": "Q96273_DP01299_8",
+        "sequence": "AQVHGHHLPGHS"
+    },
+    {
+        "core_id": "Q96273_DP01299_9",
+        "sequence": "HLPGHSTYPTRATG"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_1",
+        "sequence": "VAQGQRNGYGQSQSHNHE"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_10",
+        "sequence": "GLGTFLGQHKSQEAK"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_11",
+        "sequence": "KSQEAKKSQGH"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_12",
+        "sequence": "KKSQGHGKLLGQHD"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_13",
+        "sequence": "LLGQHDQKKTHETNSGLNG"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_14",
+        "sequence": "NSGLNGLGMFINN"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_16",
+        "sequence": "HRRKSEHKKKNKDGHGSG"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_2",
+        "sequence": "QSHNHEGYGQSQS"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_3",
+        "sequence": "YGQSQSRGGYGQ"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_4",
+        "sequence": "RGGYGQIHNREGYNQNREGY"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_5",
+        "sequence": "QNREGYSQSQSRPVYGL"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_6",
+        "sequence": "RPVYGLSPTLNHR"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_7",
+        "sequence": "PTLNHRSHGGF"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_8",
+        "sequence": "RSHGGFLDGLFKGQN"
+    },
+    {
+        "core_id": "Q9C7W1_DP04199_9",
+        "sequence": "LFKGQNGQKGQSGLGTFL"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_0",
+        "sequence": "MSVYFPIHCSDYLRSAEM"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_1",
+        "sequence": "LRSAEMTEVMMNAPS"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_10",
+        "sequence": "SGELRWPPEEFLVQEDEQD"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_11",
+        "sequence": "QEDEQDNCEETTNEKKDQ"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_2",
+        "sequence": "MMNAPSMEEI"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_3",
+        "sequence": "PSMEEIGLSPR"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_4",
+        "sequence": "IGLSPRKDGLSYQI"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_5",
+        "sequence": "GLSYQIFPDPSD"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_6",
+        "sequence": "FPDPSDFDRCCKLKDRLPS"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_7",
+        "sequence": "KDRLPSIVVEPTEG"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_8",
+        "sequence": "VEPTEGEVES"
+    },
+    {
+        "core_id": "Q9CX60_DP00661_9",
+        "sequence": "EGEVESGELRW"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_0",
+        "sequence": "MQSMKETASN"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_1",
+        "sequence": "KETASNIAASAK"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_10",
+        "sequence": "STTGQVGHGTGTHQMS"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_11",
+        "sequence": "GTHQMSALPGHGTGQLTDRV"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_12",
+        "sequence": "QLTDRVVEGTA"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_13",
+        "sequence": "VVEGTAVTDPIGRNT"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_14",
+        "sequence": "PIGRNTGTGRTTAHNTHVGG"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_15",
+        "sequence": "NTHVGGGGATGYGTGGGYTG"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_2",
+        "sequence": "IAASAKSGMDKTKATL"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_3",
+        "sequence": "KTKATLEEKAEKMKTRDPVQ"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_4",
+        "sequence": "TRDPVQKQMATQ"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_5",
+        "sequence": "KQMATQVKEDK"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_6",
+        "sequence": "QVKEDKINQAEMQKRET"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_7",
+        "sequence": "MQKRETRQHNAAMK"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_8",
+        "sequence": "HNAAMKEAAGAGTGL"
+    },
+    {
+        "core_id": "Q9FG31_DP02066_9",
+        "sequence": "GAGTGLGLGTATHSTTGQV"
+    },
+    {
+        "core_id": "Q9FUM5_DP01038_0",
+        "sequence": "MADNKQSFQAGQAAG"
+    },
+    {
+        "core_id": "Q9FUM5_DP01038_1",
+        "sequence": "AGQAAGRAEEKGNVLMDKVK"
+    },
+    {
+        "core_id": "Q9FUM5_DP01038_2",
+        "sequence": "LMDKVKDAATAAGASAQTAG"
+    },
+    {
+        "core_id": "Q9FUM5_DP01038_3",
+        "sequence": "SAQTAGQKITEAAGGA"
+    },
+    {
+        "core_id": "Q9FUM5_DP01038_4",
+        "sequence": "EAAGGAVNLVKEKTGMNK"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_0",
+        "sequence": "MEPPEGAGTGEIVKE"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_1",
+        "sequence": "GEIVKEAEVP"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_10",
+        "sequence": "TDMSDQELAEVFADSDDENL"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_11",
+        "sequence": "SDDENLNTESPAGLHPLPRA"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_12",
+        "sequence": "HPLPRAGYLRSPSWTRTRA"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_13",
+        "sequence": "WTRTRAEQSH"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_14",
+        "sequence": "RAEQSHEKQP"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_15",
+        "sequence": "SHEKQPLGDPERQAT"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_16",
+        "sequence": "PERQATVLDTFLTVERPQED"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_2",
+        "sequence": "KEAEVPQAALGVPAQG"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_3",
+        "sequence": "GVPAQGTGDNGHTP"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_4",
+        "sequence": "DNGHTPVEEEVGG"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_5",
+        "sequence": "EEEVGGIPVPA"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_6",
+        "sequence": "GIPVPAPGLLQVTERRQ"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_7",
+        "sequence": "VTERRQPLSSV"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_8",
+        "sequence": "QPLSSVSSLEVHFDLLDLTE"
+    },
+    {
+        "core_id": "Q9H9R9_DP03700_9",
+        "sequence": "LLDLTELTDMSDQ"
+    },
+    {
+        "core_id": "Q9I322_DP01147_0",
+        "sequence": "MKIESISPVQPSQ"
+    },
+    {
+        "core_id": "Q9I322_DP01147_1",
+        "sequence": "PVQPSQDAGAEAVGH"
+    },
+    {
+        "core_id": "Q9I322_DP01147_2",
+        "sequence": "AEAVGHFEGRSVTR"
+    },
+    {
+        "core_id": "Q9I322_DP01147_3",
+        "sequence": "GRSVTRAAVRGEDRS"
+    },
+    {
+        "core_id": "Q9I322_DP01147_4",
+        "sequence": "RGEDRSSVAGLARW"
+    },
+    {
+        "core_id": "Q9I322_DP01147_5",
+        "sequence": "AGLARWLARNVAGDPRSEQ"
+    },
+    {
+        "core_id": "Q9I322_DP01147_6",
+        "sequence": "DPRSEQALQRLADG"
+    },
+    {
+        "core_id": "Q9I322_DP01147_7",
+        "sequence": "QRLADGDGTPLEARTVRRR"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_0",
+        "sequence": "MEKEKKTESEQ"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_1",
+        "sequence": "KTESEQGKVNLEGLP"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_2",
+        "sequence": "NLEGLPTEDSPYVKYK"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_3",
+        "sequence": "PYVKYKDLEDYKQQG"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_4",
+        "sequence": "DYKQQGYGTQGHQEPKTGRG"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_5",
+        "sequence": "PKTGRGAGATEAPT"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_6",
+        "sequence": "ATEAPTLSGAAFSSK"
+    },
+    {
+        "core_id": "Q9LL46_DP04014_7",
+        "sequence": "AAFSSKSQATATGATNHK"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_0",
+        "sequence": "MATIATGLNIATQRVFVTS"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_1",
+        "sequence": "RVFVTSENRP"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_10",
+        "sequence": "ADGSDPLEEYCKDN"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_11",
+        "sequence": "EYCKDNPETNECRTYDN"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_2",
+        "sequence": "TSENRPVCLAGPVHLNNSW"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_3",
+        "sequence": "HLNNSWNLGSR"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_4",
+        "sequence": "WNLGSRTTNRMMKLQP"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_5",
+        "sequence": "MMKLQPIKAAPEGGISDVVE"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_6",
+        "sequence": "ISDVVEKSIKEAQETCAGD"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_7",
+        "sequence": "ETCAGDPVSGECVAAWDEV"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_8",
+        "sequence": "AAWDEVEELSAAASHARD"
+    },
+    {
+        "core_id": "Q9LZP9_DP00534_9",
+        "sequence": "ASHARDKKKADGSDP"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_0",
+        "sequence": "MKAKRSHQAVIMSTSLR"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_1",
+        "sequence": "MSTSLRVSPSIHG"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_10",
+        "sequence": "KRTKDKLFQFL"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_11",
+        "sequence": "KLFQFLKLRKYSIKVH"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_2",
+        "sequence": "SPSIHGYHFDT"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_3",
+        "sequence": "GYHFDTASRKKAVGNIF"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_4",
+        "sequence": "AVGNIFENTDQESLERLF"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_5",
+        "sequence": "SLERLFRNSGD"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_6",
+        "sequence": "FRNSGDKKAE"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_7",
+        "sequence": "GDKKAEERAKIIFAIDQDVE"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_8",
+        "sequence": "IDQDVEEKTRALMALKKR"
+    },
+    {
+        "core_id": "Q9NR00_DP00372_9",
+        "sequence": "MALKKRTKDK"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_0",
+        "sequence": "MQQRGLAIVALA"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_1",
+        "sequence": "AIVALAVCAALHASEAI"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_10",
+        "sequence": "QWMKVQAAKKNGKGNVCH"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_11",
+        "sequence": "KGNVCHRKKHHGKR"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_12",
+        "sequence": "CHRKKHHGKRNSNRAHQ"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_13",
+        "sequence": "SNRAHQGKHETYGHKTPY"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_2",
+        "sequence": "HASEAILPIA"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_3",
+        "sequence": "AILPIASSCCTE"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_4",
+        "sequence": "SSCCTEVSHHISRRLLER"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_5",
+        "sequence": "RRLLERVNMCRIQRADGDC"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_6",
+        "sequence": "RADGDCDLAAVILHV"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_7",
+        "sequence": "AVILHVKRRRI"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_8",
+        "sequence": "VKRRRICVSPHNHTVKQ"
+    },
+    {
+        "core_id": "Q9NRJ3_DP02010_9",
+        "sequence": "NHTVKQWMKVQ"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_0",
+        "sequence": "MATEGDVELELETETSGPE"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_1",
+        "sequence": "ETSGPERPPEK"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_10",
+        "sequence": "KKEDLELIMTEME"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_11",
+        "sequence": "IMTEMEISRAAAERS"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_12",
+        "sequence": "AAAERSLREHMGNV"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_13",
+        "sequence": "EHMGNVVEALIALTN"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_2",
+        "sequence": "ERPPEKPRKHD"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_3",
+        "sequence": "KPRKHDSGAADLERVTDY"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_4",
+        "sequence": "ERVTDYAEEKEIQ"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_5",
+        "sequence": "EEKEIQSSNLETAMSVIG"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_6",
+        "sequence": "AMSVIGDRRSREQK"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_7",
+        "sequence": "RSREQKAKQERE"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_8",
+        "sequence": "AKQEREKELAKVTIK"
+    },
+    {
+        "core_id": "Q9NX55_DP00546_9",
+        "sequence": "AKVTIKKEDLE"
+    },
+    {
+        "core_id": "Q9R224_DP01183_0",
+        "sequence": "MESKDQGVKN"
+    },
+    {
+        "core_id": "Q9R224_DP01183_1",
+        "sequence": "DQGVKNLNMEN"
+    },
+    {
+        "core_id": "Q9R224_DP01183_10",
+        "sequence": "QRFGGDVRQLMEKLRER"
+    },
+    {
+        "core_id": "Q9R224_DP01183_11",
+        "sequence": "EKLRERQLSHSLRAVSTD"
+    },
+    {
+        "core_id": "Q9R224_DP01183_12",
+        "sequence": "RAVSTDPPHHDHHDEFCLMP"
+    },
+    {
+        "core_id": "Q9R224_DP01183_2",
+        "sequence": "NLNMENDHQKKEEK"
+    },
+    {
+        "core_id": "Q9R224_DP01183_3",
+        "sequence": "QKKEEKEEKPQDT"
+    },
+    {
+        "core_id": "Q9R224_DP01183_4",
+        "sequence": "EKPQDTIRREPAVALT"
+    },
+    {
+        "core_id": "Q9R224_DP01183_5",
+        "sequence": "PAVALTSEAGKNC"
+    },
+    {
+        "core_id": "Q9R224_DP01183_6",
+        "sequence": "EAGKNCAPRGGRRR"
+    },
+    {
+        "core_id": "Q9R224_DP01183_7",
+        "sequence": "RGGRRRFRVRQPIAHYRWDL"
+    },
+    {
+        "core_id": "Q9R224_DP01183_8",
+        "sequence": "HYRWDLMQRVGEPQGRMRE"
+    },
+    {
+        "core_id": "Q9R224_DP01183_9",
+        "sequence": "QGRMREENVQRFGGD"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_0",
+        "sequence": "MAGLINKIGD"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_1",
+        "sequence": "INKIGDALHIGGGNKEGE"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_10",
+        "sequence": "KEKKHHDDGHHSSSSDSDSD"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_2",
+        "sequence": "GNKEGEHKKEEE"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_3",
+        "sequence": "HKKEEEHKKHVDEH"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_4",
+        "sequence": "KHVDEHKSGE"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_5",
+        "sequence": "EHKSGEHKEG"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_6",
+        "sequence": "GEHKEGIVDKIKDKIHGG"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_8",
+        "sequence": "KSHDGEGKSHDG"
+    },
+    {
+        "core_id": "Q9SLJ2_DP01300_9",
+        "sequence": "GKSHDGEKKKKKDKKEKKHH"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_0",
+        "sequence": "MSQQQFNAGQNR"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_1",
+        "sequence": "NAGQNRGQAQEKAEQWTESA"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_10",
+        "sequence": "QAAGLFGQTGES"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_11",
+        "sequence": "GQTGESVKNMAQGALDGV"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_12",
+        "sequence": "GALDGVKNSLGMNEKK"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_2",
+        "sequence": "QWTESAKQTAQSACDKT"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_3",
+        "sequence": "SACDKTADLTQ"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_5",
+        "sequence": "QSARDKAADLT"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_6",
+        "sequence": "KAADLTQSARD"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_7",
+        "sequence": "TQSARDKTADGSHSAN"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_8",
+        "sequence": "GSHSANKSAQH"
+    },
+    {
+        "core_id": "Q9T0H6_DP04019_9",
+        "sequence": "NKSAQHNQEQAAGLF"
+    },
+    {
+        "core_id": "Q9UMZ1_DP01228_1",
+        "sequence": "TTEDLKEKKEVVEEA"
+    },
+    {
+        "core_id": "Q9UMZ1_DP01228_2",
+        "sequence": "EVVEEAENGRDAPADE"
+    },
+    {
+        "core_id": "Q9UMZ1_DP01228_3",
+        "sequence": "DAPADEENGEQEADNEVD"
+    },
+    {
+        "core_id": "Q9UMZ1_DP01228_6",
+        "sequence": "GEEEDGDEDEGAESATD"
+    },
+    {
+        "core_id": "Q9UMZ1_DP01228_9",
+        "sequence": "DVDTKKQKTDEDD"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_0",
+        "sequence": "MAKSKEDITYA"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_1",
+        "sequence": "EDITYATSQARLSEDEAVR"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_2",
+        "sequence": "EDEAVRVAYEHGS"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_3",
+        "sequence": "AYEHGSPLEGGKIADSQ"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_4",
+        "sequence": "KIADSQPVDLFSSA"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_5",
+        "sequence": "DLFSSAHNMPKSGQT"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_6",
+        "sequence": "PKSGQTTMDSNT"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_7",
+        "sequence": "TMDSNTSDQSQMQRDTQEG"
+    },
+    {
+        "core_id": "Q9XES8_DP01088_8",
+        "sequence": "RDTQEGGSKEFTTGAPG"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_0",
+        "sequence": "MEGEKNSSGD"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_1",
+        "sequence": "KNSSGDLMSSSKL"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_10",
+        "sequence": "SGGTEKEKTDAPAAADAPKP"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_11",
+        "sequence": "ADAPKPDAPKEAAPAPAPA"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_12",
+        "sequence": "PAPAPAAEEEKSS"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_13",
+        "sequence": "EEEKSSDGFGLD"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_14",
+        "sequence": "DGFGLDDVMKGAAS"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_15",
+        "sequence": "MKGAASLSGKKSGEEEKE"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_16",
+        "sequence": "GEEEKESGGG"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_17",
+        "sequence": "KESGGGGGFMKMAQGFMK"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_2",
+        "sequence": "MSSSKLVAEAAKTA"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_3",
+        "sequence": "EAAKTAYEKKSVEGIDKE"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_4",
+        "sequence": "EGIDKEKVAAAS"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_5",
+        "sequence": "KVAAASADILDSAA"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_6",
+        "sequence": "ILDSAAKYGKLEDKPVG"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_7",
+        "sequence": "EDKPVGQYLEKAEGYLK"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_8",
+        "sequence": "AEGYLKQYSSG"
+    },
+    {
+        "core_id": "S6AWC2_DP01946_9",
+        "sequence": "KQYSSGGTEK"
+    }
+]

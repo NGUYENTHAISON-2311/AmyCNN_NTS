@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# ESM2 embedding cache (regenerable from sequences)
+cache/
+
+# Databases / search artifacts
+*.sqlite3
+optuna.db
+
+# OS / editor
+.DS_Store

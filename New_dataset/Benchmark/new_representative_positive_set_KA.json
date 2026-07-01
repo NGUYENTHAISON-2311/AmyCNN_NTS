@@ -1,0 +1,1168 @@
+[
+  {
+    "ID": "2E8D_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P61769",
+    "Uniprot_name": "B2MG_HUMAN",
+    "Cluster_ID": "Cluster 0",
+    "Release_date": "2007-02-13",
+    "Sequence": "SNFLNCYVSGFHPSDIEVDLLK",
+    "matched_core_regions": [
+      {
+        "core_sequence": "FLNCYVSGFHPSDIEVDL",
+        "start": 2,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "ID": "2NNT_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "O14776",
+    "Uniprot_name": "TCRG1_HUMAN",
+    "Cluster_ID": "Cluster 1",
+    "Release_date": "2006-11-14",
+    "Sequence": "GSMGATAVSEWTEYKTADGKTFYYNNRTLESTWEKPQELK",
+    "matched_core_regions": [
+      {
+        "core_sequence": "EWTEYKTADGKTFYYNNR",
+        "start": 9,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "ID": "5V7Z_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q9Y572",
+    "Uniprot_name": "RIPK3_HUMAN",
+    "Cluster_ID": "Cluster 2",
+    "Release_date": "2018-03-28",
+    "Sequence": "PLVNIYNCSGVQVGD",
+    "matched_core_regions": [
+      {
+        "core_sequence": "VNIYNCSGVQV",
+        "start": 2,
+        "end": 13
+      },
+      {
+        "core_sequence": "PLVNIYNCSGVQV",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "ID": "5V7Z_B",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q13546",
+    "Uniprot_name": "RIPK1_HUMAN",
+    "Cluster_ID": "Cluster 3",
+    "Release_date": "2018-03-28",
+    "Sequence": "TIYNSTGIQIGAYNYMEI",
+    "matched_core_regions": [
+      {
+        "core_sequence": "GIQIGAYNYMEI",
+        "start": 6,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "ID": "5W3N_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P35637",
+    "Uniprot_name": "FUS_HUMAN",
+    "Cluster_ID": "Cluster 4",
+    "Release_date": "2017-09-27",
+    "Sequence": "MSYYHHHHHHDYDIPTTENLYFQGAMDPASNDYTQQATQSYGAYPTQPGQGYSQQSSQPYGQQSYSGYSQSTDTSGYGQSSYSSYGQSQNTGYGTQSTPQGYGSTGGYGSSQSSQSSYGQQSSYPGYGQQPAPSSTSGSYGSSSQSSSYGQPQSGSYSQQPSYGGQQQSYGQQQSYNPPQGYGQQNQYNSSSGGGGGGGGGGNYGQDQSSMSSGGGSGGGYGNQDQSGGGGSGGYGQQDRG",
+    "matched_core_regions": [
+      {
+        "core_sequence": "STSGSYGSSSQSSS",
+        "start": 134,
+        "end": 148
+      },
+      {
+        "core_sequence": "SSQSSQSSYGQQSS",
+        "start": 109,
+        "end": 123
+      },
+      {
+        "core_sequence": "QSTDTSGYGQSSYSS",
+        "start": 69,
+        "end": 84
+      },
+      {
+        "core_sequence": "GQSQNTGYGTQSTPQ",
+        "start": 85,
+        "end": 100
+      },
+      {
+        "core_sequence": "QGYGSTGGYGSSQSSQSS",
+        "start": 99,
+        "end": 117
+      },
+      {
+        "core_sequence": "SSYGQPQSGSYSQQPSYG",
+        "start": 146,
+        "end": 164
+      },
+      {
+        "core_sequence": "GYGQSSYSSYGQSQNTGY",
+        "start": 75,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "ID": "9V91_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "A0A5C2GJC2",
+    "Uniprot_name": "A0A5C2GJC2_HUMAN",
+    "Cluster_ID": "Cluster 9",
+    "Release_date": "2025-12-24",
+    "Sequence": "QSVVTQPPSASGTPGQRVTISCSGSTSNIGGNTVNWFQHLPGTAPKLLIYSNNQRPSGVPDRFSASKSGTSASLAISGLQSEDEAHYYCAAWDDSLNGPLFGGGTKVTVL",
+    "matched_core_regions": [
+      {
+        "core_sequence": "QHLPGTAPKLLI",
+        "start": 37,
+        "end": 49
+      },
+      {
+        "core_sequence": "QRPSGVPDRFSASKSGT",
+        "start": 53,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "ID": "6JPD_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q9QZL0",
+    "Uniprot_name": "RIPK3_MOUSE",
+    "Cluster_ID": "Cluster 10",
+    "Release_date": "2020-10-28",
+    "Sequence": "HHHHHHGPHPQRNQGDGRHGTPWYPWTPPNPMTGPPALVFNNCSEVQIGNYNSLVAPPRTTASSSAKYDQAQFGRGRGWQPFHK",
+    "matched_core_regions": [
+      {
+        "core_sequence": "VFNNCSEVQI",
+        "start": 38,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "ID": "6N37_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q13148",
+    "Uniprot_name": "TADBP_HUMAN",
+    "Cluster_ID": "Cluster 12",
+    "Release_date": "2019-06-26",
+    "Sequence": "MNFGAFSINPAMMAAAQAALQSSWGMMGMLASQQNQSGPSGNNQNQGNMQ",
+    "matched_core_regions": [
+      {
+        "core_sequence": "MNFGAFSINPAM",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "core_sequence": "LQSSWGMMGMLAS",
+        "start": 19,
+        "end": 32
+      },
+      {
+        "core_sequence": "QSSWGMMGMLASQQ",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "core_sequence": "PAMMAAAQAALQSS",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "core_sequence": "MMAAAQAALQSSWG",
+        "start": 11,
+        "end": 25
+      },
+      {
+        "core_sequence": "PAMMAAAQAALQSSW",
+        "start": 9,
+        "end": 24
+      },
+      {
+        "core_sequence": "MMAAAQAALQSSWGM",
+        "start": 11,
+        "end": 26
+      },
+      {
+        "core_sequence": "QSSWGMMGMLASQQN",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "core_sequence": "QQNQSGPSGNNQNQGN",
+        "start": 32,
+        "end": 48
+      },
+      {
+        "core_sequence": "QAALQSSWGMMGMLASQ",
+        "start": 16,
+        "end": 33
+      },
+      {
+        "core_sequence": "INPAMMAAAQAALQSSW",
+        "start": 7,
+        "end": 24
+      },
+      {
+        "core_sequence": "INPAMMAAAQAALQSSWG",
+        "start": 7,
+        "end": 25
+      },
+      {
+        "core_sequence": "ALQSSWGMMGMLASQQNQ",
+        "start": 18,
+        "end": 36
+      },
+      {
+        "core_sequence": "INPAMMAAAQAALQSSWGM",
+        "start": 7,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "ID": "6R4R_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P23727",
+    "Uniprot_name": "P85A_BOVIN",
+    "Cluster_ID": "Cluster 14",
+    "Release_date": "2019-08-28",
+    "Sequence": "GSMSAEGYQYRALYDYKKEREEDIDLHLGDILTVNKGSLVALGFSDGQEAKPEEIGWLNGYNETTGERGDFPGTYVEYIGRKKISP",
+    "matched_core_regions": [
+      {
+        "core_sequence": "MSAEGYQYRALY",
+        "start": 2,
+        "end": 14
+      },
+      {
+        "core_sequence": "KPEEIGWLNGYNETTG",
+        "start": 50,
+        "end": 66
+      },
+      {
+        "core_sequence": "TVNKGSLVALGFSDGQEA",
+        "start": 32,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "ID": "6UUR_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P04156",
+    "Uniprot_name": "PRIO_HUMAN",
+    "Cluster_ID": "Cluster 16",
+    "Release_date": "2020-04-15",
+    "Sequence": "GTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHD",
+    "matched_core_regions": [
+      {
+        "core_sequence": "GAAAAGAVVGGL",
+        "start": 20,
+        "end": 32
+      },
+      {
+        "core_sequence": "GAAAAGAVVGGLG",
+        "start": 20,
+        "end": 33
+      },
+      {
+        "core_sequence": "AAAAGAVVGGLGGYML",
+        "start": 21,
+        "end": 37
+      },
+      {
+        "core_sequence": "AVVGGLGGYMLGSAMS",
+        "start": 26,
+        "end": 42
+      },
+      {
+        "core_sequence": "AAAAGAVVGGLGGYMLGSA",
+        "start": 21,
+        "end": 40
+      },
+      {
+        "core_sequence": "AGAVVGGLGGYMLGSAMSRP",
+        "start": 24,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "ID": "6Y1A_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P10997",
+    "Uniprot_name": "IAPP_HUMAN",
+    "Cluster_ID": "Cluster 109",
+    "Release_date": "2020-03-04",
+    "Sequence": "KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY",
+    "matched_core_regions": [
+      {
+        "core_sequence": "LSSTNVGSNTY",
+        "start": 26,
+        "end": 37
+      },
+      {
+        "core_sequence": "GAILSSTNVGSNTY",
+        "start": 23,
+        "end": 37
+      },
+      {
+        "core_sequence": "FLVHSSNNFGAILSST",
+        "start": 14,
+        "end": 30
+      },
+      {
+        "core_sequence": "ANFLVHSSNNFGAILSS",
+        "start": 12,
+        "end": 29
+      },
+      {
+        "core_sequence": "ANFLVHSSNNFGAILSST",
+        "start": 12,
+        "end": 30
+      },
+      {
+        "core_sequence": "SSNNFGAILSSTNVGSNT",
+        "start": 18,
+        "end": 36
+      },
+      {
+        "core_sequence": "QRLANFLVHSSNNFGAILS",
+        "start": 9,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "ID": "6WQK_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P22626",
+    "Uniprot_name": "ROA2_HUMAN",
+    "Cluster_ID": "Cluster 18",
+    "Release_date": "2020-08-26",
+    "Sequence": "MSYYHHHHHHDYDIPTTENLYFQGAMVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYKAMDPMQEVQSSRSGRGGNFGFGDSRGGGGNFGPGPGSNFRGGSDGYGSGRGFGDGYNGYGGGPGGGNFGGSPGYGGGRGGYGGGGPGYGNQGGGYGGGYDNYGGGNYGSGNYNDFGNYNQQPSNYGPMKSGNFGGSRNMGGPYGGGNYGPGGSGGSGGYGGRSRY",
+    "matched_core_regions": [
+      {
+        "core_sequence": "NYNDFGNYNQQPSNYGPM",
+        "start": 371,
+        "end": 389
+      }
+    ]
+  },
+  {
+    "ID": "6Z1I_D",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P01714",
+    "Uniprot_name": "LV319_HUMAN",
+    "Cluster_ID": "Cluster 20",
+    "Release_date": "2021-02-24",
+    "Sequence": "AVSVALGQTVRITCQGDSLRSYSASWYQQKPGQAPVLVIFRNTASLTITGAQAEDEADYYCNSRDSSANHQVFGGGTKLTV",
+    "matched_core_regions": [
+      {
+        "core_sequence": "TGAQAEDEADYYCNSRDSSA",
+        "start": 48,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "ID": "7BX7_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P09651",
+    "Uniprot_name": "ROA1_HUMAN",
+    "Cluster_ID": "Cluster 21",
+    "Release_date": "2020-11-18",
+    "Sequence": "MASASSSQRGRSGSGNFGGGRGGGFGGNDNFGRGGNFSGRGGFGGSRGGGGYGGSGDGYNGFGNDGSNFGGGGSYNDFGNYNNQSSNFGPMKGGNFGGRSSGPYGGGGQYFAKPRNQGGYGGSSSSSSYGSGRRF",
+    "matched_core_regions": [
+      {
+        "core_sequence": "NQSSNFGPMKGGNFG",
+        "start": 82,
+        "end": 97
+      },
+      {
+        "core_sequence": "GNFGGRSSGPYGGGGQ",
+        "start": 93,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "ID": "7Q64_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P52948",
+    "Uniprot_name": "NUP98_HUMAN",
+    "Cluster_ID": "Cluster 25",
+    "Release_date": "2022-10-12",
+    "Sequence": "TGTANTLFGTASTGTSLFSSQNNAFAQNKPTGFGNFGTST",
+    "matched_core_regions": [
+      {
+        "core_sequence": "GTANTLFGTAST",
+        "start": 1,
+        "end": 13
+      },
+      {
+        "core_sequence": "ANTLFGTASTGTSLF",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "core_sequence": "NAFAQNKPTGFGNFG",
+        "start": 22,
+        "end": 37
+      },
+      {
+        "core_sequence": "FGTASTGTSLFSSQNN",
+        "start": 7,
+        "end": 23
+      },
+      {
+        "core_sequence": "FSSQNNAFAQNKPTGF",
+        "start": 17,
+        "end": 33
+      },
+      {
+        "core_sequence": "GTASTGTSLFSSQNNAF",
+        "start": 8,
+        "end": 25
+      },
+      {
+        "core_sequence": "FGTASTGTSLFSSQNNAF",
+        "start": 7,
+        "end": 25
+      },
+      {
+        "core_sequence": "TANTLFGTASTGTSLFSSQ",
+        "start": 2,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "ID": "7ZIR_C",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "O14979",
+    "Uniprot_name": "HNRDL_HUMAN",
+    "Cluster_ID": "Cluster 33",
+    "Release_date": "2022-12-28",
+    "Sequence": "MHHHHHHGSLQDSEVNQEAKPEVKPEVKPETHINLKVSDGSSEIFFKIKKTTPLRRLMEAFAKRQGKEMDSLTFLYDGIEIQADQTPEDLDMEDNDIIEAHREQIGGEDMNEYSNIEEFAEGSKINASKNQQDDGKMFIGGLSWDTSKKDLTEYLSRFGEVVDCTIKTDPVTGRSRGFGFVLFKDAASVDKVLELKEHKLDGKLIDPKRAKALKGKEPPKKVFVGGLSPDTSEEQIKEYFGAFGEIENIELPMDTKTNERRGFCFITYTDEEPVKKLLESRYHQIGSGKCEIKVAQPKEVYRQQQQQQKGGRGAAAGGRGGTRGRGRGQGQNWNQGFNNYYDQGYGNYNSAYGGDQNYSGYGGYDYTGYNYGNYGYGQGYADYSGQQSTYGKASRGGGNHQNNYQPY",
+    "matched_core_regions": [
+      {
+        "core_sequence": "SGYGGYDYTGYNYG",
+        "start": 358,
+        "end": 372
+      },
+      {
+        "core_sequence": "QGFNNYYDQGYGNY",
+        "start": 334,
+        "end": 348
+      }
+    ]
+  },
+  {
+    "ID": "6MST_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P0DJI8",
+    "Uniprot_name": "SAA1_HUMAN",
+    "Cluster_ID": "Cluster 34",
+    "Release_date": "2019-03-13",
+    "Sequence": "SFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQR",
+    "matched_core_regions": [
+      {
+        "core_sequence": "FSFLGEAFDGARDMWRA",
+        "start": 2,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "ID": "8OQ4_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P09813",
+    "Uniprot_name": "APOA2_MOUSE",
+    "Cluster_ID": "Cluster 45",
+    "Release_date": "2024-02-21",
+    "Sequence": "QADGQDMQSLFTQYFQSMTEYGKDLVEKAKTSEIQSQAKAYFEKTHEQLTPLVRSAGTSLVNFFSSLMNLEEKPAPAA",
+    "matched_core_regions": [
+      {
+        "core_sequence": "DLVEKAKTSEIQ",
+        "start": 23,
+        "end": 35
+      },
+      {
+        "core_sequence": "LTPLVRSAGTSLV",
+        "start": 48,
+        "end": 61
+      },
+      {
+        "core_sequence": "QAKAYFEKTHEQLTPL",
+        "start": 36,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "ID": "8QUT_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P61626",
+    "Uniprot_name": "LYSC_HUMAN",
+    "Cluster_ID": "Cluster 49",
+    "Release_date": "2024-09-18",
+    "Sequence": "KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV",
+    "matched_core_regions": [
+      {
+        "core_sequence": "DAVACAKRVVR",
+        "start": 90,
+        "end": 101
+      },
+      {
+        "core_sequence": "RATNYNAGDRSTD",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "core_sequence": "LQDNIADAVACAKRV",
+        "start": 84,
+        "end": 99
+      },
+      {
+        "core_sequence": "PGAVNACHLSCSALLQDN",
+        "start": 70,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "ID": "8TEQ_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q92734",
+    "Uniprot_name": "TFG_HUMAN",
+    "Cluster_ID": "Cluster 53",
+    "Release_date": "2023-12-20",
+    "Sequence": "MSYYHHHHHHDYDIPTTENLYFQGAMVSKGEEDNMAIIKEFMRFKVHMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFMYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKQRLKLKDGGHYDAEVKTTYKAKKPVQLPGAYNVNIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYKAGTMDPGQIEGQMYQQYQQQAGYGAQQPQAPPQQPQQYVIQYSASYSQQTGPQQPQQFQGYGQQPTSQAPAPAFSGQPQQLPAQPPQQYQASNYPAQ",
+    "matched_core_regions": [
+      {
+        "core_sequence": "QYVIQYSASYSQQTGPQQP",
+        "start": 297,
+        "end": 316
+      }
+    ]
+  },
+  {
+    "ID": "7QVC_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q9NUM4",
+    "Uniprot_name": "T106B_HUMAN",
+    "Cluster_ID": "Cluster 56",
+    "Release_date": "2022-03-09",
+    "Sequence": "MGKSLSHLPLHSSKEDAYDGVTSENMRNGLVNSEVHNEDGRNGDVSQFPYVEFTGRDSVTCPTCQGTGRIPRGQENQLVALIPYSDQRLRPRRTKLYVMASVFVCLLLSGLAVFFLFPRSIDVKYIGVKSAYVSYDVQKRTIYLNITNTLNITNNNYYSVEVENITAQVQFSKTVIGKARLNNISIIGPLDMKQIDYTVPTVIAEEMSYMYDFCTLISIKVHNIVLMMQVTVTTTYFGHSEQISQERYQYVDCGRNTTYQLGQSEYLNVLQPQQ",
+    "matched_core_regions": [
+      {
+        "core_sequence": "EMSYMYDFCTLISIK",
+        "start": 205,
+        "end": 220
+      },
+      {
+        "core_sequence": "FSKTVIGKARLNNIS",
+        "start": 170,
+        "end": 185
+      },
+      {
+        "core_sequence": "MMQVTVTTTYFGHSEQ",
+        "start": 226,
+        "end": 242
+      },
+      {
+        "core_sequence": "LMMQVTVTTTYFGHSEQ",
+        "start": 225,
+        "end": 242
+      },
+      {
+        "core_sequence": "MMQVTVTTTYFGHSEQIS",
+        "start": 226,
+        "end": 244
+      },
+      {
+        "core_sequence": "VSYDVQKRTIYLNITNTL",
+        "start": 132,
+        "end": 150
+      },
+      {
+        "core_sequence": "YVSYDVQKRTIYLNITNTL",
+        "start": 131,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "ID": "6VPS_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q9VSR3",
+    "Uniprot_name": "ORB2_DROME",
+    "Cluster_ID": "Cluster 57",
+    "Release_date": "2020-03-18",
+    "Sequence": "QLHQQQHQQQHQQHQQHQQQQQLHQHQQQLS",
+    "matched_core_regions": [
+      {
+        "core_sequence": "QHQQHQQQQQLHQ",
+        "start": 12,
+        "end": 25
+      },
+      {
+        "core_sequence": "QQQHQQHQQHQQQQQLHQ",
+        "start": 7,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "ID": "9ATW_A0",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P0C7Y1",
+    "Uniprot_name": "PSMA1_STAA8",
+    "Cluster_ID": "Cluster 59",
+    "Release_date": "2024-08-07",
+    "Sequence": "MGIIAGIIKVIKSLIEQFTGK",
+    "matched_core_regions": [
+      {
+        "core_sequence": "GIIAGIIKVIKSLIEQ",
+        "start": 1,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "ID": "9C1U_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q8IG84",
+    "Uniprot_name": "Q8IG84_DROME",
+    "Cluster_ID": "Cluster 62",
+    "Release_date": "2024-10-09",
+    "Sequence": "SYSSIKLSNNNNNSNSNNIEISKSESCNASDIGGTNNNNASRTIASAAVGEETSTLSSTSHEHNNNPNNDT",
+    "matched_core_regions": [
+      {
+        "core_sequence": "IKLSNNNNNSNSNNI",
+        "start": 4,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "ID": "9HX4_F",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P06727",
+    "Uniprot_name": "APOA4_HUMAN",
+    "Cluster_ID": "Cluster 75",
+    "Release_date": "2025-11-05",
+    "Sequence": "MFLKAVVLTLALVAVAGARAEVSADQVATVMWDYFSQLSNNAKEAVEHLQKSELTQQLNALFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEIGKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVSTQAEQLRRQLTPYAQRMERVLRENADSLQASLRPHADELKAKIDQNVEELKGRLTPYADEFKVKIDQTVEELRRSLAPYAQDTQEKLNHQLEGLTFQMKKNAEELKARISASAEELRQRLAPLAEDVRGNLRGNTEGLQKSLAELGGHLDQQVEEFRRRVEPYGENFNKALVQQMEQLRQKLGPHAGDVEGHLSFLEKDLRDKVNSFFSTFKEKESQDKTLSLPELEQQQEQQQEQQQEQVQMLAPLES",
+    "matched_core_regions": [
+      {
+        "core_sequence": "VATVMWDYFSQLSNNA",
+        "start": 26,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "ID": "9IAH_E",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P02754",
+    "Uniprot_name": "LACB_BOVIN",
+    "Cluster_ID": "Cluster 76",
+    "Release_date": "2025-03-05",
+    "Sequence": "LIVTQTMKGLDIQKVAGTWYSLAMAASDISLLDA",
+    "matched_core_regions": [
+      {
+        "core_sequence": "MKGLDIQKVAGTWYSLA",
+        "start": 6,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "ID": "8QV8_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P00698",
+    "Uniprot_name": "LYSC_CHICK",
+    "Cluster_ID": "Cluster 77",
+    "Release_date": "2024-09-18",
+    "Sequence": "KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESNFNTQATNRNTDGSTDYGILQINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTDVQAWIRGCRL",
+    "matched_core_regions": [
+      {
+        "core_sequence": "GLDNYRGYSLGN",
+        "start": 15,
+        "end": 27
+      },
+      {
+        "core_sequence": "IPCSALLSSDITA",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "core_sequence": "TQATNRNTDGSTDYGI",
+        "start": 39,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "ID": "9J4D_F",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "O94811",
+    "Uniprot_name": "TPPP_HUMAN",
+    "Cluster_ID": "Cluster 78",
+    "Release_date": "2025-08-13",
+    "Sequence": "ASPELSALEEAFRRFAVHGDARATGREMHGKNWSKLCKDCQVIDGRNVTVTDVDIVFSKIKGKSCRTITFEQFQEALEELAKKRFKDKSSEEAVREVHRLIEGKAPIISGVTKAISSPTVSRLTDTTKFTG",
+    "matched_core_regions": [
+      {
+        "core_sequence": "QVIDGRNVTVTDVDIVF",
+        "start": 40,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "ID": "9JSU_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P40967",
+    "Uniprot_name": "PMEL_HUMAN",
+    "Cluster_ID": "Cluster 81",
+    "Release_date": "2024-10-09",
+    "Sequence": "YVWKTWGQYWQVLGGPVSGLSIGTGRAMLGTHT",
+    "matched_core_regions": [
+      {
+        "core_sequence": "LSIGTGRAML",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "core_sequence": "QYWQVLGGPVSGL",
+        "start": 7,
+        "end": 20
+      },
+      {
+        "core_sequence": "GQYWQVLGGPVSGL",
+        "start": 6,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "ID": "9L2S_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "A6YIY1",
+    "Uniprot_name": "A6YIY1_LATHE",
+    "Cluster_ID": "Cluster 85",
+    "Release_date": "2025-12-24",
+    "Sequence": "MAKTKGTASGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSGRGGLGGQGAGGDVIEVGGAGQGGYGGLGSQGTSSGHHHHHHHHHH",
+    "matched_core_regions": [
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 10,
+        "end": 25
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 44,
+        "end": 59
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 78,
+        "end": 93
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 112,
+        "end": 127
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 146,
+        "end": 161
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 180,
+        "end": 195
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 214,
+        "end": 229
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 248,
+        "end": 263
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 282,
+        "end": 297
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 316,
+        "end": 331
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 350,
+        "end": 365
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 384,
+        "end": 399
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 418,
+        "end": 433
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 452,
+        "end": 467
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 486,
+        "end": 501
+      },
+      {
+        "core_sequence": "RGGLGGQGAGGDVIE",
+        "start": 520,
+        "end": 535
+      }
+    ]
+  },
+  {
+    "ID": "7VZF_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P00441",
+    "Uniprot_name": "SODC_HUMAN",
+    "Cluster_ID": "Cluster 86",
+    "Release_date": "2022-06-29",
+    "Sequence": "MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ",
+    "matched_core_regions": [
+      {
+        "core_sequence": "SRLACGVIGIA",
+        "start": 142,
+        "end": 153
+      },
+      {
+        "core_sequence": "RLACGVIGIAQ",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "core_sequence": "VCVLKGDGPVQGI",
+        "start": 5,
+        "end": 18
+      },
+      {
+        "core_sequence": "INFEQKESNGPVKV",
+        "start": 18,
+        "end": 32
+      },
+      {
+        "core_sequence": "IEDSVISLSGDHCIIG",
+        "start": 99,
+        "end": 115
+      },
+      {
+        "core_sequence": "GNEESTKTGNAGSRLAC",
+        "start": 130,
+        "end": 147
+      },
+      {
+        "core_sequence": "VSIEDSVISLSGDHCIIG",
+        "start": 97,
+        "end": 115
+      },
+      {
+        "core_sequence": "QGIINFEQKESNGPVKVWG",
+        "start": 15,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "ID": "6SDZ_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P02766",
+    "Uniprot_name": "TTHY_HUMAN",
+    "Cluster_ID": "Cluster 90",
+    "Release_date": "2019-11-13",
+    "Sequence": "GPTGTGESKCPLMVKVLDAVRGSPAINVAMHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTIAALLSPYSYSTTAVVTNPKE",
+    "matched_core_regions": [
+      {
+        "core_sequence": "TIAALLSPYSYSTTAV",
+        "start": 105,
+        "end": 121
+      },
+      {
+        "core_sequence": "VKVLDAVRGSPAINVAM",
+        "start": 13,
+        "end": 30
+      },
+      {
+        "core_sequence": "TIAALLSPYSYSTTAVVT",
+        "start": 105,
+        "end": 123
+      },
+      {
+        "core_sequence": "YWKALGISPFHEHAEVVFTA",
+        "start": 77,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "ID": "9NON_B",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "O14960",
+    "Uniprot_name": "LECT2_HUMAN",
+    "Cluster_ID": "Cluster 91",
+    "Release_date": "2026-02-11",
+    "Sequence": "GPWANICAGKSSNEIRTCDRHGCGQYSAQRSQRPHQGVDVLCSAGSTVYAPFTGMIVGQEKPYQNKNAINNGVRISGRGFCVKMFYIKPIKYKGPIKKGEKLGTLLPLQKVYPGIQSHVHIENCDSSDPTAYL",
+    "matched_core_regions": [
+      {
+        "core_sequence": "QYSAQRSQRPHQ",
+        "start": 24,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "ID": "9OYR_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q9Y6H1",
+    "Uniprot_name": "CHCH2_HUMAN",
+    "Cluster_ID": "Cluster 93",
+    "Release_date": "2025-07-30",
+    "Sequence": "MPRGSRSRTSRMAPPASRAPQMRAAPRPAPVAQPPAAAPPSAVGSSAAAPRQPGLMAQMATTAAGVAVGSAVGHTLGHAITGGFSGGSNAEPARPDITYQEPQGTQPAQQQQPM",
+    "matched_core_regions": [
+      {
+        "core_sequence": "LMAQMATTAAGVAVGS",
+        "start": 54,
+        "end": 70
+      },
+      {
+        "core_sequence": "QMATTAAGVAVGSAVGH",
+        "start": 57,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "ID": "9PVY_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P02647",
+    "Uniprot_name": "APOA1_HUMAN",
+    "Cluster_ID": "Cluster 96",
+    "Release_date": "2026-03-18",
+    "Sequence": "DEPPQSPWDRVKDLATVYVDVLKDSGRDYVSQFEGSALGKQLNLKLLDNWDSVTSTFSKLREQLGPVTQEFWDNLEKETEGLRQEMSKDLEEVKAKVQPYLDDFQKKWQEEMELYRQKVEPLRAELQEGARQKLHELQEKLSPLGEEMRDRARAHVDALRTHLAPYSDELRQRLAARLEALKENGGARLAEYHAKATEHLSTLSEKAKPALEDLRQGLLPVLESFKVSFLSALEEYTKKLNTQ",
+    "matched_core_regions": [
+      {
+        "core_sequence": "YVSQFEGSALGKQLNL",
+        "start": 28,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "ID": "9QLU_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q7X8H9",
+    "Uniprot_name": "AI172_ORYSJ",
+    "Cluster_ID": "Cluster 97",
+    "Release_date": "2025-05-14",
+    "Sequence": "MALASDKFVLSAIVLAVLTVAAAAAGYGGYGDVGEYCRVGKAVSRNPVPSCRNYIARWCAVAGGRLDSGKQPPRQLLEPCCRELAAVPMQCRCDALSVLVRGVVTEEGDRVAGMISQHAAPGCDAATIAGMASALTDYGRCNLQHTGFFGCPMFGGGMD",
+    "matched_core_regions": [
+      {
+        "core_sequence": "AATIAGMASALTDYGR",
+        "start": 124,
+        "end": 140
+      },
+      {
+        "core_sequence": "VTEEGDRVAGMISQHA",
+        "start": 103,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "ID": "9RBD_J",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P01160",
+    "Uniprot_name": "ANF_HUMAN",
+    "Cluster_ID": "Cluster 101",
+    "Release_date": "2025-08-27",
+    "Sequence": "SSCFGGRMDRIGAQSGLGCNSFRY",
+    "matched_core_regions": [
+      {
+        "core_sequence": "RIGAQSGLGCNSFRY",
+        "start": 9,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "ID": "9TKZ_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "Q92804",
+    "Uniprot_name": "RBP56_HUMAN",
+    "Cluster_ID": "Cluster 103",
+    "Release_date": "2026-02-18",
+    "Sequence": "SYGQSGGEQQSYSTYGNPGSQGYGQASQSYSGYGQTTDSSYGQNYSGYSSYGQSQSGYSQSYGGYENQKQSSYSQQPYNNQGQQQNMESSGSQGG",
+    "matched_core_regions": [
+      {
+        "core_sequence": "YGNPGSQGYGQA",
+        "start": 14,
+        "end": 26
+      },
+      {
+        "core_sequence": "QQPYNNQGQQQN",
+        "start": 74,
+        "end": 86
+      },
+      {
+        "core_sequence": "QQSYSTYGNPGSQ",
+        "start": 8,
+        "end": 21
+      },
+      {
+        "core_sequence": "QSGGEQQSYSTYGN",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "core_sequence": "STYGNPGSQGYGQAS",
+        "start": 12,
+        "end": 27
+      },
+      {
+        "core_sequence": "YSSYGQSQSGYSQSY",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "core_sequence": "SQSGYSQSYGGYENQKQ",
+        "start": 53,
+        "end": 70
+      },
+      {
+        "core_sequence": "QSSYSQQPYNNQGQQQNM",
+        "start": 69,
+        "end": 87
+      },
+      {
+        "core_sequence": "GQSQSGYSQSYGGYENQKQ",
+        "start": 51,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "ID": "9NQD_0",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P0DXF5",
+    "Uniprot_name": "FAPC_PSEFL",
+    "Cluster_ID": "Cluster 108",
+    "Release_date": "2025-06-25",
+    "Sequence": "GPAEKWKPTPAPTGTVAAAVTDTQVSKDNKFDDTKTLNNAGANGSLSNSKGNLGANIAAGSGNQQDNAAAITSSAGDAATVFAVADIYQESKDNKFTNKGTQNNALLNNSANNSSGNVGVNVAAGQGNQQKNNLAIVTADGKNVAAASNTEQVSLDNHFLNEASSKHSYKPQYVVNNAGLLNSANNASGNIGVNVAAGAGNQQSNTLTLGSGCTVCAAGTGSKLAF",
+    "matched_core_regions": [
+      {
+        "core_sequence": "GVNVAAGQGNQQKN",
+        "start": 118,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "ID": "9V45_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P02858",
+    "Uniprot_name": "GLYG4_SOYBN",
+    "Cluster_ID": "Cluster 110",
+    "Release_date": "2025-09-10",
+    "Sequence": "MGKPFTLSLSSLCLLLLSSACFAISSSKLNECQLNNLNALEPDHRVESEGGLIQTWNSQHPELKCAGVTVSKLTLNRNGLHLPSYSPYPRMIIIAQGKGALGVAIPGCPETFEEPQEQSNRRGSRSQKQQLQDSHQKIRHFNEGDVLVIPPGVPYWTYNTGDEPVVAISLLDTSNFNNQLDQTPRVFYLAGNPDIEYPETMQQQQQQKSHGGRKQGQHQQEEEEEGGSVLSGFSKHFLAQSFNTNEDIAEKLQSPDDERKQIVTVEGGLSVISPKWQEQQDEDEDEDEDDEDEQIPSHPPRRPSHGKREQDEDEDEDEDKPRPSRPSQGKREQDQDQDEDEDEDEDQPRKSREWRSKKTQPRRPRQEEPRERGCETRNGVEENICTLKLHENIARPSRADFYNPKAGRISTLNSLTLPALRQFQLSAQYVVLYKNGIYSPHWNLNANSVIYVTRGQGKVRVVNCQGNAVFDGELRRGQLLVVPQNFVVAEQAGEQGFEYIVFKTHHNAVTSYLKDVFRAIPSEVLAHSYNLRQSQVSELKYEGNWGPLVNPESQQGSPRVKVA",
+    "matched_core_regions": [
+      {
+        "core_sequence": "VLVIPPGVPYWTYNTG",
+        "start": 145,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "ID": "9XBK_A",
+    "LABEL": "AMYLOID",
+    "Uniprot_ID": "P05453",
+    "Uniprot_name": "ERF3_YEAST",
+    "Cluster_ID": "Cluster 111",
+    "Release_date": "2025-12-10",
+    "Sequence": "MSDSNQGNNQQNYQQYRQNGNQQQGNNRYQGYQAYNAQAQPAGGYYQNYQGYSGYQQGGYQQYNPDAGYQQQYNPQGGYQQYNPQGGYQQQFNPQGGRGNYKNFNYNNNLQGYQAGFQPQSQGMSLNDFQKQQKQAAPKPKKTLKLVSSSGIKLANATKKVGTKPAESDKKEEEKSAETKEPTKEPTKVEEPVKKEEKPVQTEEKTEEKSELPKVEDLKISESTHNTNNANVTSADALIKEQEEEVDDEVVNDHHHHHHH",
+    "matched_core_regions": [
+      {
+        "core_sequence": "GFQPQSQGMSLN",
+        "start": 115,
+        "end": 127
+      },
+      {
+        "core_sequence": "AGFQPQSQGMSLNDF",
+        "start": 114,
+        "end": 129
+      },
+      {
+        "core_sequence": "NYNNNLQGYQAGFQPQ",
+        "start": 104,
+        "end": 120
+      },
+      {
+        "core_sequence": "QFNPQGGRGNYKNFNY",
+        "start": 90,
+        "end": 106
+      },
+      {
+        "core_sequence": "QQFNPQGGRGNYKNFNY",
+        "start": 89,
+        "end": 106
+      },
+      {
+        "core_sequence": "YQGYQAYNAQAQPAGGY",
+        "start": 28,
+        "end": 45
+      },
+      {
+        "core_sequence": "QNGNQQQGNNRYQGYQAY",
+        "start": 17,
+        "end": 35
+      },
+      {
+        "core_sequence": "NLQGYQAGFQPQSQGMSL",
+        "start": 108,
+        "end": 126
+      },
+      {
+        "core_sequence": "GYQAYNAQAQPAGGYYQNY",
+        "start": 30,
+        "end": 49
+      }
+    ]
+  }
+]

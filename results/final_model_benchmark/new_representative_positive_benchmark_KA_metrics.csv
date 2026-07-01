@@ -1,0 +1,15 @@
+scope,metric,value
+residue,n_residues,3053
+residue,n_core,580
+residue,n_noncore,2473
+residue,accuracy,0.669833
+residue,precision,0.254587
+residue,recall,0.382759
+residue,f1,0.305785
+residue,roc_auc,0.664005
+residue,pr_auc,0.308269
+protein,n_proteins,14
+protein,note,single-class set; classification metrics skipped
+region,n_true_regions,48
+region,n_detected,25
+region,detection_rate,0.520833

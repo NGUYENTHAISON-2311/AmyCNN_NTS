@@ -1,0 +1,630 @@
+[
+  {
+    "core_id": "core_1",
+    "sequence": "LSIGTGRAML"
+  },
+  {
+    "core_id": "core_10",
+    "sequence": "YTIFNSSGIQI"
+  },
+  {
+    "core_id": "core_104",
+    "sequence": "AVAQKTVEGAGSIAA"
+  },
+  {
+    "core_id": "core_105",
+    "sequence": "GDSLRTYYGNWYQQK"
+  },
+  {
+    "core_id": "core_106",
+    "sequence": "KGAIIGLMVGGVVIA"
+  },
+  {
+    "core_id": "core_107",
+    "sequence": "IKLSNNNNNSNSNNI"
+  },
+  {
+    "core_id": "core_108",
+    "sequence": "NVGGAVVTGVTAVAQ"
+  },
+  {
+    "core_id": "core_109",
+    "sequence": "LQDNIADAVACAKRV"
+  },
+  {
+    "core_id": "core_11",
+    "sequence": "RLACGVIGIAQ"
+  },
+  {
+    "core_id": "core_111",
+    "sequence": "GMNFGAFSINPAMMA"
+  },
+  {
+    "core_id": "core_112",
+    "sequence": "GAVVGGLGGYVLGSA"
+  },
+  {
+    "core_id": "core_113",
+    "sequence": "PVVSGDTSPRHLSNV"
+  },
+  {
+    "core_id": "core_116",
+    "sequence": "SGVQVGDNNYLTMQQ"
+  },
+  {
+    "core_id": "core_119",
+    "sequence": "QSTDTSGYGQSSYSS"
+  },
+  {
+    "core_id": "core_121",
+    "sequence": "VYVWKTWGQYWQVLG"
+  },
+  {
+    "core_id": "core_123",
+    "sequence": "NQSSNFGPMKGGNFG"
+  },
+  {
+    "core_id": "core_125",
+    "sequence": "VATVAEKTKEQVTNV"
+  },
+  {
+    "core_id": "core_126",
+    "sequence": "EMSYMYDFCTLISIK"
+  },
+  {
+    "core_id": "core_128",
+    "sequence": "NAFAQNKPTGFGNFG"
+  },
+  {
+    "core_id": "core_130",
+    "sequence": "SGLQSEDEADYYCAA"
+  },
+  {
+    "core_id": "core_132",
+    "sequence": "YCQSYDGNNHWVFGG"
+  },
+  {
+    "core_id": "core_134",
+    "sequence": "FAQNVGSNKGAIIGL"
+  },
+  {
+    "core_id": "core_136",
+    "sequence": "GQSQNTGYGTQSTPQ"
+  },
+  {
+    "core_id": "core_14",
+    "sequence": "GLDNYRGYSLGN"
+  },
+  {
+    "core_id": "core_142",
+    "sequence": "PKTNMKHVAGAAAAG"
+  },
+  {
+    "core_id": "core_143",
+    "sequence": "QMCITQYQRESQAYY"
+  },
+  {
+    "core_id": "core_144",
+    "sequence": "QSITISCTGTSSDIG"
+  },
+  {
+    "core_id": "core_145",
+    "sequence": "SGTQPLDEADYFCQA"
+  },
+  {
+    "core_id": "core_147",
+    "sequence": "FSKTVIGKARLNNIS"
+  },
+  {
+    "core_id": "core_148",
+    "sequence": "IINKKLDLSNVQSKC"
+  },
+  {
+    "core_id": "core_153",
+    "sequence": "TKEGVLYVGSKTKEGV"
+  },
+  {
+    "core_id": "core_154",
+    "sequence": "RHLSNVSSTGSIDMVD"
+  },
+  {
+    "core_id": "core_155",
+    "sequence": "YEVHHQKLVFFAQNVG"
+  },
+  {
+    "core_id": "core_157",
+    "sequence": "AEAAGKTKEGVLYVGS"
+  },
+  {
+    "core_id": "core_161",
+    "sequence": "ENAKAKTDHGAEIVYK"
+  },
+  {
+    "core_id": "core_164",
+    "sequence": "TQATNRNTDGSTDYGI"
+  },
+  {
+    "core_id": "core_165",
+    "sequence": "ITAAGVAVGSAVGHTL"
+  },
+  {
+    "core_id": "core_167",
+    "sequence": "GIIAGIIKVIKSLIEQ"
+  },
+  {
+    "core_id": "core_168",
+    "sequence": "KPEEIGWLNGYNETTG"
+  },
+  {
+    "core_id": "core_169",
+    "sequence": "VSWYQQHPGKAPRLIV"
+  },
+  {
+    "core_id": "core_170",
+    "sequence": "QLATLADEVSASLAKQ"
+  },
+  {
+    "core_id": "core_172",
+    "sequence": "ASNAGSGSGFNGGFGS"
+  },
+  {
+    "core_id": "core_173",
+    "sequence": "QAKAYFEKTHEQLTPL"
+  },
+  {
+    "core_id": "core_176",
+    "sequence": "VTAVAQKTVEGAGSIA"
+  },
+  {
+    "core_id": "core_177",
+    "sequence": "QQNQSGPSGNNQNQGN"
+  },
+  {
+    "core_id": "core_178",
+    "sequence": "AVAVLKGDGPVQGIIN"
+  },
+  {
+    "core_id": "core_179",
+    "sequence": "GSGNYNVFGNYNQQPS"
+  },
+  {
+    "core_id": "core_181",
+    "sequence": "VVAAAEKTKQGVAEAA"
+  },
+  {
+    "core_id": "core_187",
+    "sequence": "KSNFLNCYVSGFHPSD"
+  },
+  {
+    "core_id": "core_189",
+    "sequence": "GNFGGRSSGPYGGGGQ"
+  },
+  {
+    "core_id": "core_190",
+    "sequence": "FSSQNNAFAQNKPTGF"
+  },
+  {
+    "core_id": "core_2",
+    "sequence": "FSGSNSGNTA"
+  },
+  {
+    "core_id": "core_203",
+    "sequence": "VKVLDAVRGSPAINVAM"
+  },
+  {
+    "core_id": "core_204",
+    "sequence": "NIGNNYVSWYQQLPGTA"
+  },
+  {
+    "core_id": "core_207",
+    "sequence": "RPMIHFGNDWEDRYYRE"
+  },
+  {
+    "core_id": "core_21",
+    "sequence": "MGGGMNFGAFSI"
+  },
+  {
+    "core_id": "core_210",
+    "sequence": "FRHDSGYEVHHQKLVFF"
+  },
+  {
+    "core_id": "core_213",
+    "sequence": "FMKGLSKAKEGVVAAAE"
+  },
+  {
+    "core_id": "core_214",
+    "sequence": "FSFIGEAFQGAGDMWRA"
+  },
+  {
+    "core_id": "core_217",
+    "sequence": "GSLDNITHVPGGGNKKI"
+  },
+  {
+    "core_id": "core_219",
+    "sequence": "PSGIPGRFSGSNSGNTA"
+  },
+  {
+    "core_id": "core_22",
+    "sequence": "YQQYSQNGNQQQ"
+  },
+  {
+    "core_id": "core_220",
+    "sequence": "DNIKHVPGGGSVQIVYK"
+  },
+  {
+    "core_id": "core_223",
+    "sequence": "FFAEDVGSNKGAIIGLM"
+  },
+  {
+    "core_id": "core_225",
+    "sequence": "GNEESTKTGNAGSRLAC"
+  },
+  {
+    "core_id": "core_226",
+    "sequence": "LSNVQSKCGSKDNIKHV"
+  },
+  {
+    "core_id": "core_228",
+    "sequence": "SNSGAAIGWGSASNAGS"
+  },
+  {
+    "core_id": "core_23",
+    "sequence": "MSAEGYQYRALY"
+  },
+  {
+    "core_id": "core_234",
+    "sequence": "QGYGSTGGYGSSQSSQSS"
+  },
+  {
+    "core_id": "core_235",
+    "sequence": "GGVWAAEKISDARESFQE"
+  },
+  {
+    "core_id": "core_236",
+    "sequence": "IDMVDSPQLATLADEVSA"
+  },
+  {
+    "core_id": "core_237",
+    "sequence": "SSYGQPQSGSYSQQPSYG"
+  },
+  {
+    "core_id": "core_238",
+    "sequence": "TIAALLSPYSYSTTAVVT"
+  },
+  {
+    "core_id": "core_239",
+    "sequence": "ANFLVHSSNNFGAILSST"
+  },
+  {
+    "core_id": "core_24",
+    "sequence": "LSGPVFGGGTKL"
+  },
+  {
+    "core_id": "core_240",
+    "sequence": "QGGFGNSRGGGAGLGNNQ"
+  },
+  {
+    "core_id": "core_241",
+    "sequence": "PGAVNACHLSCSALLQDN"
+  },
+  {
+    "core_id": "core_242",
+    "sequence": "TVNKGSLVALGFSDGQEA"
+  },
+  {
+    "core_id": "core_244",
+    "sequence": "GITGLQTADEADYYCGTW"
+  },
+  {
+    "core_id": "core_246",
+    "sequence": "EWTEYKTADGKTFYYNNR"
+  },
+  {
+    "core_id": "core_249",
+    "sequence": "VSIEDSVISLSGDHCIIG"
+  },
+  {
+    "core_id": "core_25",
+    "sequence": "GTANTLFGTAST"
+  },
+  {
+    "core_id": "core_250",
+    "sequence": "NYNDFGNYNQQPSNYGPM"
+  },
+  {
+    "core_id": "core_251",
+    "sequence": "FLVHSGNNFGAILSSTNV"
+  },
+  {
+    "core_id": "core_252",
+    "sequence": "QQQHQQHQQHQQQQQLHQ"
+  },
+  {
+    "core_id": "core_253",
+    "sequence": "FLNCYVSGFHPSDIEVDL"
+  },
+  {
+    "core_id": "core_255",
+    "sequence": "GLGGYMLGSAMSRPMMHF"
+  },
+  {
+    "core_id": "core_256",
+    "sequence": "MMQVTVTTTYFGHSEQIS"
+  },
+  {
+    "core_id": "core_260",
+    "sequence": "GYGQSSYSSYGQSQNTGY"
+  },
+  {
+    "core_id": "core_261",
+    "sequence": "KQHTVTTTTKGKNFTETD"
+  },
+  {
+    "core_id": "core_262",
+    "sequence": "AGLGNNQGSNMGGGMNFG"
+  },
+  {
+    "core_id": "core_263",
+    "sequence": "VDLLKNGERIEKVEHSDL"
+  },
+  {
+    "core_id": "core_264",
+    "sequence": "DNITHVPGGGNKKIETHK"
+  },
+  {
+    "core_id": "core_266",
+    "sequence": "LVFFAEDVGSNKGAIIGL"
+  },
+  {
+    "core_id": "core_269",
+    "sequence": "ALQSSWGMMGMLASQQNQ"
+  },
+  {
+    "core_id": "core_270",
+    "sequence": "SYSGCGQTTDSSYGQNYS"
+  },
+  {
+    "core_id": "core_271",
+    "sequence": "NQGNMQREPNQAFGSGNN"
+  },
+  {
+    "core_id": "core_275",
+    "sequence": "FGTASTGTSLFSSQNNAF"
+  },
+  {
+    "core_id": "core_276",
+    "sequence": "TAAGVAVGSAVGHVMGSA"
+  },
+  {
+    "core_id": "core_279",
+    "sequence": "GLSKAKEGVVAAAEKTKQG"
+  },
+  {
+    "core_id": "core_281",
+    "sequence": "TANTLFGTASTGTSLFSSQ"
+  },
+  {
+    "core_id": "core_282",
+    "sequence": "AAAAGAVVGGLGGYMLGSA"
+  },
+  {
+    "core_id": "core_283",
+    "sequence": "QGIINFEQKESNGPVKVWG"
+  },
+  {
+    "core_id": "core_284",
+    "sequence": "GVAVGSAVGHVMGSALTGA"
+  },
+  {
+    "core_id": "core_285",
+    "sequence": "DESFFQGITPVNGTMLFQN"
+  },
+  {
+    "core_id": "core_286",
+    "sequence": "YVSYDVQKRTIYLNITNTL"
+  },
+  {
+    "core_id": "core_287",
+    "sequence": "QYVIQYSASYSQQTGPQQP"
+  },
+  {
+    "core_id": "core_291",
+    "sequence": "NVQSKCGSKDNIKHVPGGG"
+  },
+  {
+    "core_id": "core_292",
+    "sequence": "TYAGQFNQDYLSGMAANMS"
+  },
+  {
+    "core_id": "core_293",
+    "sequence": "GIQYSASYSQQTGPQQLQQ"
+  },
+  {
+    "core_id": "core_296",
+    "sequence": "INPAMMAAAQAALQSSWGM"
+  },
+  {
+    "core_id": "core_297",
+    "sequence": "DLSKVTSKCGSLGNIHHKP"
+  },
+  {
+    "core_id": "core_298",
+    "sequence": "PGQNVTISCSGSSSNIGNN"
+  },
+  {
+    "core_id": "core_299",
+    "sequence": "SVQIVYKPVDLSKVTFKCG"
+  },
+  {
+    "core_id": "core_3",
+    "sequence": "VFNNCSEVQI"
+  },
+  {
+    "core_id": "core_300",
+    "sequence": "MEVKSEKLDFKDRVQSKIG"
+  },
+  {
+    "core_id": "core_301",
+    "sequence": "LVHSGNNFGAILSSTNVGSN"
+  },
+  {
+    "core_id": "core_302",
+    "sequence": "IMERVVEQMCTTQYQKESQA"
+  },
+  {
+    "core_id": "core_303",
+    "sequence": "HHKPGGGQVEVKSEKLDFKD"
+  },
+  {
+    "core_id": "core_304",
+    "sequence": "NFMLTQPHSVSESPGKTITI"
+  },
+  {
+    "core_id": "core_305",
+    "sequence": "YWKALGISPFHEHAEVVFTA"
+  },
+  {
+    "core_id": "core_306",
+    "sequence": "TGAQAEDEADYYCNSRDSSA"
+  },
+  {
+    "core_id": "core_307",
+    "sequence": "GDMWRAYTDMKEAGWKDGDK"
+  },
+  {
+    "core_id": "core_33",
+    "sequence": "NIHHKPGGGQVE"
+  },
+  {
+    "core_id": "core_34",
+    "sequence": "DLVEKAKTSEIQ"
+  },
+  {
+    "core_id": "core_37",
+    "sequence": "VTISCSGSNSNI"
+  },
+  {
+    "core_id": "core_41",
+    "sequence": "IPCSALLSSDITA"
+  },
+  {
+    "core_id": "core_42",
+    "sequence": "CATWDDSLSGPVF"
+  },
+  {
+    "core_id": "core_44",
+    "sequence": "RDTTGNLWVFGGG"
+  },
+  {
+    "core_id": "core_46",
+    "sequence": "GNVTADKDAVADV"
+  },
+  {
+    "core_id": "core_50",
+    "sequence": "KEQVTNVGGAVVT"
+  },
+  {
+    "core_id": "core_54",
+    "sequence": "KGAIIGLMVGGVV"
+  },
+  {
+    "core_id": "core_55",
+    "sequence": "SGIQIGNHNYMDV"
+  },
+  {
+    "core_id": "core_56",
+    "sequence": "PLVNIYNCSGVQV"
+  },
+  {
+    "core_id": "core_57",
+    "sequence": "RAYTDMKEAGWKD"
+  },
+  {
+    "core_id": "core_6",
+    "sequence": "DAVACAKRVVR"
+  },
+  {
+    "core_id": "core_60",
+    "sequence": "LTPLVRSAGTSLV"
+  },
+  {
+    "core_id": "core_61",
+    "sequence": "GAVVTGVTAVAQK"
+  },
+  {
+    "core_id": "core_63",
+    "sequence": "KKGVVHGVATVAE"
+  },
+  {
+    "core_id": "core_64",
+    "sequence": "RATNYNAGDRSTD"
+  },
+  {
+    "core_id": "core_65",
+    "sequence": "GAAAAGAVVGGLG"
+  },
+  {
+    "core_id": "core_66",
+    "sequence": "TGIQGAYNYMEIG"
+  },
+  {
+    "core_id": "core_67",
+    "sequence": "LGNNQGSNMGGGM"
+  },
+  {
+    "core_id": "core_68",
+    "sequence": "VIKKIAGHIVSSI"
+  },
+  {
+    "core_id": "core_69",
+    "sequence": "GAGLGNNQGSNMG"
+  },
+  {
+    "core_id": "core_7",
+    "sequence": "FGNSRGGGAGL"
+  },
+  {
+    "core_id": "core_71",
+    "sequence": "GAILSSTNVGSNTY"
+  },
+  {
+    "core_id": "core_72",
+    "sequence": "TTKGENFTETDVKM"
+  },
+  {
+    "core_id": "core_80",
+    "sequence": "AEAISDARENIQRF"
+  },
+  {
+    "core_id": "core_82",
+    "sequence": "GQYWQVLGGPVSGL"
+  },
+  {
+    "core_id": "core_84",
+    "sequence": "SGYGGYDYTGYNYG"
+  },
+  {
+    "core_id": "core_85",
+    "sequence": "TVIGKARLNNITII"
+  },
+  {
+    "core_id": "core_87",
+    "sequence": "STSGSYGSSSQSSS"
+  },
+  {
+    "core_id": "core_88",
+    "sequence": "NSRGGGAGLGNNQG"
+  },
+  {
+    "core_id": "core_92",
+    "sequence": "YGQSQSGYSQSYGQ"
+  },
+  {
+    "core_id": "core_94",
+    "sequence": "QGFNNYYDQGYGNY"
+  },
+  {
+    "core_id": "core_96",
+    "sequence": "SSQSSQSSYGQQSS"
+  }
+]
